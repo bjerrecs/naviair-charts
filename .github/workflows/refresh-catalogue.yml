@@ -1,0 +1,38 @@
+name: Refresh catalogue
+
+# Re-crawls aim.naviair.dk weekly and opens a PR if the bundled chart list changed.
+# URLs are always resolved live, so a stale catalogue only affects autocomplete/listing and folder paths
+# (and costs one extra crawl at runtime when a chart sits in a folder the snapshot doesn't know).
+
+on:
+  schedule:
+    - cron: "0 6 * * 4" # Thursdays 06:00 UTC — AIRAC effective dates are Thursdays
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm run crawl
+      - name: Ignore timestamp-only changes
+        run: |
+          if git diff --unified=0 src/catalogue.json | grep -E '^[+-] ' | grep -vq '"generatedAt"'; then
+            echo "changed=true" >> "$GITHUB_ENV"
+          else
+            git checkout src/catalogue.json
+          fi
+      - if: env.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: chore/refresh-catalogue
+          title: "chore: refresh NAVIAIR catalogue"
+          commit-message: "chore: refresh NAVIAIR catalogue"
+          body: Automated weekly crawl of aim.naviair.dk.

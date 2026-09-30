@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>naviair-charts · test site</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f7f9; --panel: #fff; --text: #16191d; --muted: #5f6873; --line: #dde1e6;
+      --accent: #0b5cad; --accent-soft: #e6f0fa; --ok: #1a7f4b; --err: #b3261e; --err-soft: #fdecea;
+      --radius: 10px; --mono: ui-monospace, "Cascadia Code", Consolas, monospace;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111418; --panel: #1a1e24; --text: #e7eaee; --muted: #9aa4af; --line: #2c323a;
+        --accent: #6aa9ec; --accent-soft: #1c2a3a; --ok: #5cc28c; --err: #f28b82; --err-soft: #3a1f1d;
+      }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; background: var(--bg); color: var(--text); }
+    header { padding: 20px 24px 12px; }
+    header h1 { margin: 0; font-size: 20px; }
+    header p { margin: 4px 0 0; color: var(--muted); }
+    main { display: grid; grid-template-columns: minmax(340px, 440px) 1fr; gap: 16px; padding: 8px 24px 24px; align-items: start; }
+    @media (max-width: 900px) { main { grid-template-columns: 1fr; } }
+    section { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin-bottom: 16px; }
+    h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 0 0 12px; }
+    label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+    input, select, button { font: inherit; color: inherit; }
+    input, select { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); }
+    input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+    a.btn { text-decoration: none; display: inline-block; }
+    button, a.btn { padding: 8px 14px; border: 1px solid var(--accent); background: var(--accent); color: #fff; border-radius: 8px; cursor: pointer; white-space: nowrap; }
+    button.ghost, a.btn.ghost { background: transparent; color: var(--accent); }
+    button:disabled { opacity: .6; cursor: default; }
+    .row { display: flex; gap: 8px; }
+    .row + .row, .row + label, select + .row { margin-top: 10px; }
+    .field { position: relative; flex: 1; }
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+    .chip { font-size: 13px; padding: 3px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); border: 0; }
+    .suggest { position: absolute; z-index: 5; left: 0; right: 0; top: calc(100% + 4px); margin: 0; padding: 4px; list-style: none;
+      background: var(--panel); border: 1px solid var(--line); border-radius: 8px; max-height: 320px; overflow: auto; box-shadow: 0 8px 24px rgb(0 0 0 / .12); }
+    .suggest li { padding: 6px 8px; border-radius: 6px; cursor: pointer; }
+    .suggest li[aria-selected="true"], .suggest li:hover { background: var(--accent-soft); }
+    .suggest small, .list small { display: block; color: var(--muted); font-family: var(--mono); font-size: 12px; overflow-wrap: anywhere; }
+    .list { list-style: none; margin: 12px 0 0; padding: 0; max-height: 420px; overflow: auto; }
+    .list li { padding: 6px 8px; border-radius: 6px; cursor: pointer; }
+    .list li:hover { background: var(--accent-soft); }
+    .muted { color: var(--muted); }
+    .error { color: var(--err); background: var(--err-soft); padding: 10px 12px; border-radius: 8px; }
+    dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0; }
+    dt { color: var(--muted); }
+    dd { margin: 0; overflow-wrap: anywhere; }
+    code { font-family: var(--mono); font-size: 13px; }
+    .link { display: flex; gap: 8px; align-items: center; }
+    .link code { flex: 1; padding: 6px 8px; background: var(--bg); border: 1px solid var(--line); border-radius: 6px; overflow-wrap: anywhere; }
+    .result h3 { margin: 0 0 12px; font-size: 18px; }
+    .actions { display: flex; gap: 8px; margin-top: 14px; flex-wrap: wrap; }
+    iframe { width: 100%; height: 75vh; border: 1px solid var(--line); border-radius: var(--radius); background: #fff; }
+    .timing { font-size: 12px; color: var(--muted); margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>naviair-charts</h1>
+    <p>Look up a chart on aim.naviair.dk and get its current PDF URL, plus a permanent link that keeps working after AIRAC updates.</p>
+  </header>
+
+  <main>
+    <div>
+      <section>
+        <h2>Find a chart</h2>
+        <form id="lookup" autocomplete="off">
+          <label for="q">File name, title, “ICAO chart” or an old NAVIAIR link</label>
+          <div class="row">
+            <div class="field">
+              <input id="q" placeholder="EKCH RNP RWY 22R – 2" role="combobox" aria-expanded="false" aria-controls="suggest" />
+              <ul id="suggest" class="suggest" role="listbox" hidden></ul>
+            </div>
+            <button id="go">Resolve</button>
+          </div>
+          <label for="pub" style="margin-top:10px">Publication</label>
+          <select id="pub">
+            <option value="">Any (AIP preferred)</option>
+            <option value="aip-dk">AIP Danmark</option>
+            <option value="vfg-dk">VFR Flight Guide Danmark</option>
+            <option value="aip-fo">AIP Færøerne</option>
+            <option value="aip-gl">AIP Grønland</option>
+            <option value="aic-a">AIC series A</option>
+            <option value="aic-b">AIC series B</option>
+            <option value="dqr">DQR – Non compliant list</option>
+          </select>
+        </form>
+        <div class="chips" id="examples"></div>
+      </section>
+
+      <section>
+        <h2>Browse an aerodrome</h2>
+        <form id="browse" class="row">
+          <input id="icao" placeholder="EKCH" maxlength="4" style="text-transform:uppercase" />
+          <button>List charts</button>
+        </form>
+        <ul class="list" id="charts"></ul>
+      </section>
+    </div>
+
+    <div>
+      <section class="result" id="result">
+        <p class="muted">Pick an example or type a chart to see what the package resolves it to.</p>
+      </section>
+      <iframe id="preview" title="PDF preview" hidden></iframe>
+    </div>
+  </main>
+
+  <script>
+    const $ = (s) => document.querySelector(s);
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
+    const squash = (s) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
+    const PUBS = { "aip-dk": "AIP Danmark", "vfg-dk": "VFR Flight Guide", "aip-fo": "AIP Færøerne", "aip-gl": "AIP Grønland",
+      "aic-a": "AIC A", "aic-b": "AIC B", dqr: "DQR" };
+
+    const EXAMPLES = [
+      "EKCH RNP RWY 22R – 2",
+      "EK_AD_2_EKCH_ADC_en.pdf",
+      "EKBI GMC 1",
+      "EKVG VAC",
+      "BGJN ADC",
+      "https://aim.naviair.dk/media/files/zzzzzzzzzzz/EK_AD_2_EKCH_APDC_en.pdf",
+      "AIC B Checkliste",
+    ];
+    for (const ex of EXAMPLES) {
+      const b = Object.assign(document.createElement("button"), { type: "button", className: "chip",
+        textContent: ex.startsWith("http") ? "stale link (EKCH APDC)" : ex, title: ex });
+      b.onclick = () => { $("#q").value = ex; resolve(); };
+      $("#examples").append(b);
+    }
+
+    // --- autocomplete from the bundled catalogue --------------------------------------------------
+    let entries = [];
+    fetch("/catalogue.json").then((r) => r.json()).then((cat) => {
+      const seen = new Set();
+      for (const c of cat.charts) {
+        if (seen.has(c.name)) continue;
+        seen.add(c.name);
+        const title = c.title.replace(/^\d+\.\s*/, "");
+        entries.push({ title, name: c.name, key: squash(title + " " + c.name) });
+      }
+    });
+
+    const q = $("#q"), list = $("#suggest");
+    let active = -1, shown = [];
+    function showSuggestions() {
+      const words = q.value.trim().toLowerCase().split(/\s+/).map(squash).filter(Boolean);
+      shown = words.length ? entries.filter((e) => words.every((w) => e.key.includes(w))).slice(0, 12) : [];
+      active = -1;
+      list.innerHTML = shown.map((e, i) => `<li role="option" data-i="${i}">${esc(e.title)}<small>${esc(e.name)}</small></li>`).join("");
+      list.hidden = !shown.length;
+      q.setAttribute("aria-expanded", String(!list.hidden));
+    }
+    function pick(i) { q.value = shown[i].title; list.hidden = true; resolve(); }
+    q.addEventListener("input", showSuggestions);
+    q.addEventListener("blur", () => setTimeout(() => (list.hidden = true), 150));
+    q.addEventListener("keydown", (e) => {
+      if (list.hidden) return;
+      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+        e.preventDefault();
+        active = (active + (e.key === "ArrowDown" ? 1 : -1) + shown.length) % shown.length;
+        [...list.children].forEach((li, i) => li.setAttribute("aria-selected", String(i === active)));
+        list.children[active].scrollIntoView({ block: "nearest" });
+      } else if (e.key === "Enter" && active >= 0) { e.preventDefault(); pick(active); }
+      else if (e.key === "Escape") list.hidden = true;
+    });
+    list.addEventListener("mousedown", (e) => { const li = e.target.closest("li"); if (li) pick(+li.dataset.i); });
+
+    // --- resolve -----------------------------------------------------------------------------------
+    const pubParam = () => ($("#pub").value ? `publication=${$("#pub").value}` : "");
+    const fmtDate = (d) => (d ? new Date(d).toISOString().slice(0, 10) : "—");
+
+    async function resolve(query = q.value.trim()) {
+      if (!query) return q.focus();
+      list.hidden = true;
+      const out = $("#result"), btn = $("#go");
+      btn.disabled = true;
+      out.innerHTML = `<p class="muted">Resolving “${esc(query)}”…</p>`;
+      const started = performance.now();
+      try {
+        const res = await fetch(`/charts/${encodeURIComponent(query)}?format=json&${pubParam()}`);
+        const body = await res.json();
+        if (!res.ok) throw new Error(body.error || `HTTP ${res.status}`);
+        render(body, query, performance.now() - started);
+      } catch (err) {
+        out.innerHTML = `<div class="error">${esc(err.message)}</div>`;
+        $("#preview").hidden = true;
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    function render(c, query, ms) {
+      const pub = $("#pub").value;
+      const stable = `${location.origin}/charts/${encodeURIComponent(c.name)}${pub ? `?publication=${pub}` : ""}`;
+      $("#result").innerHTML = `
+        <h3>${esc(c.title)}</h3>
+        <dl>
+          <dt>Query</dt><dd>${esc(query)}</dd>
+          <dt>Chart</dt><dd><code>${esc(c.name)}</code></dd>
+          <dt>Publication</dt><dd>${esc(PUBS[c.publication] ?? c.publication ?? "unknown")}</dd>
+          <dt>Location</dt><dd>${esc(c.path.join(" › "))}</dd>
+          <dt>Effective</dt><dd>${fmtDate(c.publishAt)}${c.unpublishAt ? ` → ${fmtDate(c.unpublishAt)}` : ""}</dd>
+        </dl>
+        <p style="margin:14px 0 4px" class="muted">Current PDF URL (changes with each re-issue)</p>
+        <div class="link"><code>${esc(c.url)}</code><button type="button" class="ghost" data-copy="${esc(c.url)}">Copy</button></div>
+        <p style="margin:12px 0 4px" class="muted">Permanent link (redirects to the current PDF)</p>
+        <div class="link"><code>${esc(stable)}</code><button type="button" class="ghost" data-copy="${esc(stable)}">Copy</button></div>
+        <div class="actions">
+          <a class="btn" href="${esc(c.url)}" target="_blank" rel="noopener">Open PDF</a>
+          <a class="btn ghost" href="${esc(stable)}" target="_blank" rel="noopener">Test permanent link</a>
+        </div>
+        <div class="timing">Resolved in ${Math.round(ms)} ms</div>`;
+      const frame = $("#preview");
+      frame.src = c.url;
+      frame.hidden = false;
+    }
+
+    document.addEventListener("click", async (e) => {
+      const b = e.target.closest("[data-copy]");
+      if (!b) return;
+      await navigator.clipboard.writeText(b.dataset.copy);
+      b.textContent = "Copied";
+      setTimeout(() => (b.textContent = "Copy"), 1200);
+    });
+
+    $("#lookup").addEventListener("submit", (e) => { e.preventDefault(); resolve(); });
+
+    // --- aerodrome browser -------------------------------------------------------------------------
+    $("#browse").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const icao = $("#icao").value.trim().toUpperCase();
+      const ul = $("#charts");
+      ul.innerHTML = `<li class="muted">Loading ${esc(icao)}…</li>`;
+      const res = await fetch(`/aerodromes/${encodeURIComponent(icao)}?${pubParam()}`);
+      const body = await res.json();
+      if (!res.ok) { ul.innerHTML = `<li class="error">${esc(body.error)}</li>`; return; }
+      if (!body.length) { ul.innerHTML = `<li class="muted">No charts found for ${esc(icao)}.</li>`; return; }
+      ul.innerHTML = body.map((c) => `<li data-name="${esc(c.name)}">${esc(c.title)}<small>${esc(c.name)}</small></li>`).join("");
+    });
+    $("#charts").addEventListener("click", (e) => {
+      const li = e.target.closest("li[data-name]");
+      if (li) { q.value = li.dataset.name; resolve(); }
+    });
+
+    const initial = new URLSearchParams(location.search).get("q");
+    if (initial) { q.value = initial; resolve(); }
+  </script>
+</body>
+</html>

@@ -1,0 +1,8119 @@
+{
+ "generatedAt": "2026-09-30T20:22:10.804Z",
+ "folders": {
+  "1": {
+   "name": "VFR Flight Guide Danmark",
+   "parentId": 0
+  },
+  "2": {
+   "name": "VFG Part 2 - EN ROUTE (ENR)",
+   "parentId": 1
+  },
+  "3": {
+   "name": "ENR 2 - ATS AIRSPACE",
+   "parentId": 2
+  },
+  "5": {
+   "name": "ENR 5 - NAVIGATION WARNINGS",
+   "parentId": 2
+  },
+  "12": {
+   "name": "ENR 1 - GENERAL RULES AND PROCEDURES",
+   "parentId": 2
+  },
+  "22": {
+   "name": "ENR 4 - RADIO NAVIGATION AIDS",
+   "parentId": 2
+  },
+  "26": {
+   "name": "ENR 3 - ATS ROUTES",
+   "parentId": 2
+  },
+  "28": {
+   "name": "VFG Part 3 - FLYVEPLADSER (AD)",
+   "parentId": 1
+  },
+  "29": {
+   "name": "AD 2 - PUBLIC AERODROMES",
+   "parentId": 28
+  },
+  "30": {
+   "name": "Ringsted - EKRS",
+   "parentId": 29
+  },
+  "35": {
+   "name": "Herning - EKHG",
+   "parentId": 29
+  },
+  "40": {
+   "name": "Aalborg - EKYT",
+   "parentId": 29
+  },
+  "45": {
+   "name": "Vojens Skydstrup - EKSP",
+   "parentId": 29
+  },
+  "51": {
+   "name": "Samsø - EKSS",
+   "parentId": 29
+  },
+  "55": {
+   "name": "Kolding/Vamdrup - EKVD",
+   "parentId": 29
+  },
+  "60": {
+   "name": "Skive - EKSV",
+   "parentId": 29
+  },
+  "65": {
+   "name": "Bornholm Rønne - EKRN",
+   "parentId": 29
+  },
+  "70": {
+   "name": "Sønderborg - EKSB",
+   "parentId": 29
+  },
+  "75": {
+   "name": "København Kastrup - EKCH",
+   "parentId": 29
+  },
+  "82": {
+   "name": "Karup / Midtjyllands Lufthavn - EKKA",
+   "parentId": 29
+  },
+  "89": {
+   "name": "Tåsinge/Elvira Madigan Airport - EKST",
+   "parentId": 29
+  },
+  "93": {
+   "name": "København Roskilde - EKRK",
+   "parentId": 29
+  },
+  "99": {
+   "name": "Kruså-Padborg - EKPB",
+   "parentId": 29
+  },
+  "103": {
+   "name": "Anholt - EKAT",
+   "parentId": 29
+  },
+  "107": {
+   "name": "Lemvig - EKLV",
+   "parentId": 29
+  },
+  "116": {
+   "name": "Randers - EKRD",
+   "parentId": 29
+  },
+  "120": {
+   "name": "Billund - EKBI",
+   "parentId": 29
+  },
+  "127": {
+   "name": "Vesthimmerland - EKVH",
+   "parentId": 29
+  },
+  "131": {
+   "name": "Morsø - EKNM",
+   "parentId": 29
+  },
+  "135": {
+   "name": "Esbjerg - EKEB",
+   "parentId": 29
+  },
+  "143": {
+   "name": "Odense / Hans Christian Andersen Airport - EKOD",
+   "parentId": 29
+  },
+  "148": {
+   "name": "Viborg - EKVB",
+   "parentId": 29
+  },
+  "152": {
+   "name": "Læsø - EKLS",
+   "parentId": 29
+  },
+  "156": {
+   "name": "Ærø - EKAE",
+   "parentId": 29
+  },
+  "160": {
+   "name": "Sindal - EKSN",
+   "parentId": 29
+  },
+  "165": {
+   "name": "Tønder - EKTD",
+   "parentId": 29
+  },
+  "169": {
+   "name": "Stauning - EKVJ",
+   "parentId": 29
+  },
+  "174": {
+   "name": "Aarhus - EKAH",
+   "parentId": 29
+  },
+  "179": {
+   "name": "Kalundborg - EKKL",
+   "parentId": 29
+  },
+  "183": {
+   "name": "Thisted - EKTS",
+   "parentId": 29
+  },
+  "188": {
+   "name": "Lolland Falster Maribo - EKMB",
+   "parentId": 29
+  },
+  "193": {
+   "name": "AD 3 - HELIPORTS",
+   "parentId": 28
+  },
+  "195": {
+   "name": "Rigshospitalet - EKRH",
+   "parentId": 193
+  },
+  "199": {
+   "name": "Heliport Bornholms Hospital - EKRB",
+   "parentId": 193
+  },
+  "203": {
+   "name": "AD 1 - AERODROMES_HELIPORTS - INTRODUCTION",
+   "parentId": 28
+  },
+  "207": {
+   "name": "AD 4 - PRIVATE AERODROMES",
+   "parentId": 28
+  },
+  "210": {
+   "name": "VFG Part 1 - GENERELT (GEN)",
+   "parentId": 1
+  },
+  "211": {
+   "name": "GEN 0 - GENERAL",
+   "parentId": 210
+  },
+  "218": {
+   "name": "GEN 4 - CHARGES",
+   "parentId": 210
+  },
+  "220": {
+   "name": "GEN 2 - TABLES AND CODES",
+   "parentId": 210
+  },
+  "228": {
+   "name": "GEN 1 - NATIONAL REGULATIONS AND REQUIREMENTS",
+   "parentId": 210
+  },
+  "236": {
+   "name": "GEN 3 - SERVICES",
+   "parentId": 210
+  },
+  "251": {
+   "name": "VFG SUP",
+   "parentId": 1
+  },
+  "253": {
+   "name": "VFG AIRAC AMDT",
+   "parentId": 1
+  },
+  "265": {
+   "name": "Aeronautical Information Circulars - AIC series A",
+   "parentId": 0
+  },
+  "266": {
+   "name": "AIC A Greenland",
+   "parentId": 265
+  },
+  "271": {
+   "name": "AIC A Faroe Islands",
+   "parentId": 265
+  },
+  "276": {
+   "name": "AIC A Denmark",
+   "parentId": 265
+  },
+  "295": {
+   "name": "AIP Danmark",
+   "parentId": 0
+  },
+  "296": {
+   "name": "AIP PART 3 - FLYVEPLADSER (AD)",
+   "parentId": 295
+  },
+  "297": {
+   "name": "AD 0 AERODROMES",
+   "parentId": 296
+  },
+  "299": {
+   "name": "AD 1 AERODROMES-HELIPORTS - INTRODUCTION",
+   "parentId": 296
+  },
+  "304": {
+   "name": "AD 2 AERODROMES",
+   "parentId": 296
+  },
+  "305": {
+   "name": "Billund - EKBI",
+   "parentId": 304
+  },
+  "336": {
+   "name": "Vojens Skrydstrup - EKSP",
+   "parentId": 304
+  },
+  "346": {
+   "name": "Esbjerg - EKEB",
+   "parentId": 304
+  },
+  "378": {
+   "name": "København Kastrup - EKCH",
+   "parentId": 304
+  },
+  "446": {
+   "name": "Sønderborg - EKSB",
+   "parentId": 304
+  },
+  "460": {
+   "name": "København Roskilde - EKRK",
+   "parentId": 304
+  },
+  "492": {
+   "name": "Aarhus - EKAH",
+   "parentId": 304
+  },
+  "510": {
+   "name": "Aalborg - EKYT",
+   "parentId": 304
+  },
+  "519": {
+   "name": "Kolding/Vamdrup - EKVD",
+   "parentId": 304
+  },
+  "529": {
+   "name": "Karup / Midtjyllands Lufthavn - EKKA",
+   "parentId": 304
+  },
+  "546": {
+   "name": "Stauning - EKVJ",
+   "parentId": 304
+  },
+  "556": {
+   "name": "Odense / Hans Christian Andersen Airport - EKOD",
+   "parentId": 304
+  },
+  "569": {
+   "name": "Bornholm Rønne - EKRN",
+   "parentId": 304
+  },
+  "585": {
+   "name": "AD 3 HELIPORTS",
+   "parentId": 296
+  },
+  "587": {
+   "name": "AIP PART 2 - EN ROUTE (ENR)",
+   "parentId": 295
+  },
+  "588": {
+   "name": "ENR 6 EN ROUTE CHARTS",
+   "parentId": 587
+  },
+  "599": {
+   "name": "ENR 2 AIR TRAFFIC SERVICES AND AIRSPACE",
+   "parentId": 587
+  },
+  "602": {
+   "name": "ENR 4 RADIO NAVIGATION AIDS SYSTEMS",
+   "parentId": 587
+  },
+  "608": {
+   "name": "ENR 0 EN ROUTE",
+   "parentId": 587
+  },
+  "610": {
+   "name": "ENR 5 NAVIGATION WARNINGS",
+   "parentId": 587
+  },
+  "617": {
+   "name": "ENR 1 GENERAL RULES AND PROCEDURES",
+   "parentId": 587
+  },
+  "632": {
+   "name": "ENR 3 ATS ROUTES",
+   "parentId": 587
+  },
+  "639": {
+   "name": "AIP AIRAC AMDT",
+   "parentId": 295
+  },
+  "655": {
+   "name": "AIP PART 1 - GENERELT (GEN)",
+   "parentId": 295
+  },
+  "656": {
+   "name": "GEN 3 SERVICES",
+   "parentId": 655
+  },
+  "663": {
+   "name": "GEN 4 CHARGES FOR AERODROMES HELIPORTS AND AIR NAVIGATION SERVICES",
+   "parentId": 655
+  },
+  "666": {
+   "name": "GEN 0 GENERAL",
+   "parentId": 655
+  },
+  "673": {
+   "name": "GEN 1 NATIONAL REGULATIONS AND REQUIREMENTS",
+   "parentId": 655
+  },
+  "681": {
+   "name": "GEN 2 TABLES AND CODES",
+   "parentId": 655
+  },
+  "689": {
+   "name": "AIP SUP",
+   "parentId": 295
+  },
+  "812": {
+   "name": "AIP Grønland",
+   "parentId": 0
+  },
+  "813": {
+   "name": "AIP PART 2 - EN ROUTE (ENR)",
+   "parentId": 812
+  },
+  "814": {
+   "name": "ENR 4 RADIO NAVIGATION AIDS",
+   "parentId": 813
+  },
+  "820": {
+   "name": "ENR 2 AIR TRAFFIC SERVICES AIRSPACE",
+   "parentId": 813
+  },
+  "823": {
+   "name": "ENR 3 ATS ROUTES",
+   "parentId": 813
+  },
+  "826": {
+   "name": "ENR 0 EN ROUTE",
+   "parentId": 813
+  },
+  "828": {
+   "name": "ENR 5 NAVIGATION WARNINGS",
+   "parentId": 813
+  },
+  "835": {
+   "name": "ENR 1 GENERAL RULES AND PROCEDURES",
+   "parentId": 813
+  },
+  "850": {
+   "name": "ENR 6 EN ROUTE CHARTS",
+   "parentId": 813
+  },
+  "875": {
+   "name": "AIP PART 3 - FLYVEPLADSER (AD)",
+   "parentId": 812
+  },
+  "876": {
+   "name": "AD 3 HELIPORTS",
+   "parentId": 875
+  },
+  "878": {
+   "name": "AD 4 HELIPORTS",
+   "parentId": 875
+  },
+  "925": {
+   "name": "AD 0 AERODROME",
+   "parentId": 875
+  },
+  "927": {
+   "name": "AD 2 AERODROMES",
+   "parentId": 875
+  },
+  "928": {
+   "name": "Aasiaat (BGAA)",
+   "parentId": 927
+  },
+  "935": {
+   "name": "Uummannaq Qaarsut (BGUQ)",
+   "parentId": 927
+  },
+  "948": {
+   "name": "Nuuk (BGGH)",
+   "parentId": 927
+  },
+  "958": {
+   "name": "Kulusuk (BGKK)",
+   "parentId": 927
+  },
+  "966": {
+   "name": "Nerlerit Inaat (BGCO)",
+   "parentId": 927
+  },
+  "973": {
+   "name": "Sisimiut (BGSS)",
+   "parentId": 927
+  },
+  "983": {
+   "name": "Qaanaaq (BGQQ)",
+   "parentId": 927
+  },
+  "996": {
+   "name": "Pituffik (BGTL) (MIL)",
+   "parentId": 927
+  },
+  "998": {
+   "name": "Maniitsoq (BGMQ)",
+   "parentId": 927
+  },
+  "1007": {
+   "name": "Ilulissat (BGJN)",
+   "parentId": 927
+  },
+  "1018": {
+   "name": "Upernavik (BGUK)",
+   "parentId": 927
+  },
+  "1030": {
+   "name": "Paamiut (BGPT)",
+   "parentId": 927
+  },
+  "1042": {
+   "name": "Narsarsuaq (BGBW)",
+   "parentId": 927
+  },
+  "1065": {
+   "name": "Kangerlussuaq (BGSF)",
+   "parentId": 927
+  },
+  "1079": {
+   "name": "AD 1 AERODROMES HELIPORTS - INTRODUCTION",
+   "parentId": 875
+  },
+  "1084": {
+   "name": "AIP SUP",
+   "parentId": 812
+  },
+  "1085": {
+   "name": "AIP AIRAC AMDT",
+   "parentId": 812
+  },
+  "1093": {
+   "name": "AIP PART 1 - GENERELT (GEN)",
+   "parentId": 812
+  },
+  "1094": {
+   "name": "GEN 1 NATIONAL REGULATIONS AND REQUIREMENTS",
+   "parentId": 1093
+  },
+  "1102": {
+   "name": "GEN 4 CHARGES FOR AERODROMES, HELIPORTS AND AIR NAVIGATION SERVICES",
+   "parentId": 1093
+  },
+  "1105": {
+   "name": "GEN 0 GENERAL",
+   "parentId": 1093
+  },
+  "1112": {
+   "name": "GEN 3 SERVICES",
+   "parentId": 1093
+  },
+  "1119": {
+   "name": "GEN 2 TABLES AND CODES",
+   "parentId": 1093
+  },
+  "1127": {
+   "name": "Aeronautical Information Circulars - AIC series B",
+   "parentId": 0
+  },
+  "1128": {
+   "name": "2007",
+   "parentId": 1127
+  },
+  "1133": {
+   "name": "2010",
+   "parentId": 1127
+  },
+  "1146": {
+   "name": "2005",
+   "parentId": 1127
+  },
+  "1165": {
+   "name": "2004",
+   "parentId": 1127
+  },
+  "1169": {
+   "name": "2013",
+   "parentId": 1127
+  },
+  "1192": {
+   "name": "2015",
+   "parentId": 1127
+  },
+  "1219": {
+   "name": "2014",
+   "parentId": 1127
+  },
+  "1237": {
+   "name": "2009",
+   "parentId": 1127
+  },
+  "1245": {
+   "name": "2016",
+   "parentId": 1127
+  },
+  "1268": {
+   "name": "2006",
+   "parentId": 1127
+  },
+  "1271": {
+   "name": "2017",
+   "parentId": 1127
+  },
+  "1280": {
+   "name": "2011",
+   "parentId": 1127
+  },
+  "1286": {
+   "name": "2012",
+   "parentId": 1127
+  },
+  "1377": {
+   "name": "AIP",
+   "parentId": 295
+  },
+  "1380": {
+   "name": "VFG",
+   "parentId": 1
+  },
+  "1384": {
+   "name": "AIP",
+   "parentId": 812
+  },
+  "1559": {
+   "name": "2018",
+   "parentId": 1127
+  },
+  "1801": {
+   "name": "2019",
+   "parentId": 1127
+  },
+  "1956": {
+   "name": "2020",
+   "parentId": 1127
+  },
+  "2071": {
+   "name": "2021",
+   "parentId": 1127
+  },
+  "2288": {
+   "name": "2022",
+   "parentId": 1127
+  },
+  "2657": {
+   "name": "2023",
+   "parentId": 1127
+  },
+  "3234": {
+   "name": "2024",
+   "parentId": 1127
+  },
+  "3704": {
+   "name": "AIP Færøerne",
+   "parentId": 0
+  },
+  "3705": {
+   "name": "AIP",
+   "parentId": 3704
+  },
+  "3706": {
+   "name": "AIP AIRAC AMDT",
+   "parentId": 3704
+  },
+  "3707": {
+   "name": "AIP PART 1 - GENERELT (GEN)",
+   "parentId": 3704
+  },
+  "3708": {
+   "name": "AIP PART 2 - EN ROUTE (ENR)",
+   "parentId": 3704
+  },
+  "3709": {
+   "name": "AIP PART 3 - FLYVEPLADSER (AD)",
+   "parentId": 3704
+  },
+  "3710": {
+   "name": "AIP SUP",
+   "parentId": 3704
+  },
+  "3718": {
+   "name": "GEN 0 GENERAL",
+   "parentId": 3707
+  },
+  "3719": {
+   "name": "GEN 1 NATIONAL REGULATIONS AND REQUIREMENTS",
+   "parentId": 3707
+  },
+  "3720": {
+   "name": "GEN 2 TABLES AND KODES",
+   "parentId": 3707
+  },
+  "3721": {
+   "name": "GEN 3 SERVICES",
+   "parentId": 3707
+  },
+  "3722": {
+   "name": "GEN 4 CHARGES FOR AERODROMES, HELIPORTS AND AIR NAVIGATION SERVICES",
+   "parentId": 3707
+  },
+  "3751": {
+   "name": "ENR 0 EN ROUTE",
+   "parentId": 3708
+  },
+  "3752": {
+   "name": "ENR 1 GENERAL RULES AND PROCEDURES",
+   "parentId": 3708
+  },
+  "3753": {
+   "name": "ENR 2 AIR TRAFFIC SERVICES AIRSPACE",
+   "parentId": 3708
+  },
+  "3754": {
+   "name": "ENR 3 ATS ROUTES",
+   "parentId": 3708
+  },
+  "3755": {
+   "name": "ENR 4 RADIO NAVIGATIONS AIDS",
+   "parentId": 3708
+  },
+  "3756": {
+   "name": "ENR 5 NAVIGATION WARNINGS",
+   "parentId": 3708
+  },
+  "3757": {
+   "name": "ENR 6 EN ROUTE CHARTS",
+   "parentId": 3708
+  },
+  "3789": {
+   "name": "AD 0 AERODROMES",
+   "parentId": 3709
+  },
+  "3790": {
+   "name": "AD 1 AERODROMES_HELIPORTS - INTRODUCTION",
+   "parentId": 3709
+  },
+  "3791": {
+   "name": "AD 2 AERODROMES",
+   "parentId": 3709
+  },
+  "3792": {
+   "name": "AD 3 HELIPORTS",
+   "parentId": 3709
+  },
+  "3793": {
+   "name": "AD 4 HELIPORTS",
+   "parentId": 3709
+  },
+  "3799": {
+   "name": "Vágar - EKVG",
+   "parentId": 3791
+  },
+  "4187": {
+   "name": "2025",
+   "parentId": 1127
+  },
+  "4240": {
+   "name": "DQR - Non compliant list",
+   "parentId": 0
+  },
+  "4241": {
+   "name": "DQR - Non compliant list",
+   "parentId": 4240
+  },
+  "4242": {
+   "name": "DQR - Non compliant list",
+   "parentId": 4240
+  },
+  "4243": {
+   "name": "DQR - Non compliant list",
+   "parentId": 4240
+  },
+  "4832": {
+   "name": "Qaqortoq (BGQO)",
+   "parentId": 927
+  },
+  "5019": {
+   "name": "2026",
+   "parentId": 1127
+  }
+ },
+ "charts": [
+  {
+   "id": 4,
+   "name": "EK_ENR_2_1_en.pdf",
+   "title": "ENR 2.1 ATS Airspace",
+   "parentId": 3
+  },
+  {
+   "id": 6,
+   "name": "EK_ENR_5_4_en.pdf",
+   "title": "ENR 5.4 Air Navigation Obstacles - En Route",
+   "parentId": 5
+  },
+  {
+   "id": 7,
+   "name": "EK_ENR_5_2_en.pdf",
+   "title": "ENR 5.2 Military Exercise and Training Areas",
+   "parentId": 5
+  },
+  {
+   "id": 8,
+   "name": "EK_ENR_5_3_en.pdf",
+   "title": "ENR 5.3 Other activities of a dangerous nature",
+   "parentId": 5
+  },
+  {
+   "id": 9,
+   "name": "EK_ENR_5_1_en.pdf",
+   "title": "ENR 5.1 Prohibited, Restricted and Danger Areas",
+   "parentId": 5
+  },
+  {
+   "id": 10,
+   "name": "EK_ENR_5_5_en.pdf",
+   "title": "ENR 5.5 Aerial Sporting and Recreational Activities",
+   "parentId": 5
+  },
+  {
+   "id": 11,
+   "name": "EK_ENR_5_6_en.pdf",
+   "title": "ENR 5.6 Bird Migration and Areas with Sensitive Fauna",
+   "parentId": 5
+  },
+  {
+   "id": 13,
+   "name": "EK_ENR_1_12_en.pdf",
+   "title": "12. ENR 1.12 Interception of Civil Aircraft",
+   "parentId": 12
+  },
+  {
+   "id": 14,
+   "name": "EK_ENR_1_5_en.pdf",
+   "title": "05. ENR 1.5 Holding, Approach and Departure Procedures",
+   "parentId": 12
+  },
+  {
+   "id": 15,
+   "name": "EK_ENR_1_1_en.pdf",
+   "title": "01. ENR 1.1 General Rules",
+   "parentId": 12
+  },
+  {
+   "id": 16,
+   "name": "EK_ENR_1_7_en.pdf",
+   "title": "07. ENR 1.7 Altimeter setting procedure",
+   "parentId": 12
+  },
+  {
+   "id": 17,
+   "name": "EK_ENR_1_10_en.pdf",
+   "title": "10. ENR 1.10 Flight Plans",
+   "parentId": 12
+  },
+  {
+   "id": 18,
+   "name": "EK_ENR_1_14_en.pdf",
+   "title": "14. ENR 1.14 Air Traffic Incidents. Reporting",
+   "parentId": 12
+  },
+  {
+   "id": 19,
+   "name": "EK_ENR_1_2_en.pdf",
+   "title": "02. ENR 1.2 Visual Flight Rules",
+   "parentId": 12
+  },
+  {
+   "id": 20,
+   "name": "EK_ENR_1_4_en.pdf",
+   "title": "04. ENR 1.4 ATS Airspace Classifications",
+   "parentId": 12
+  },
+  {
+   "id": 21,
+   "name": "EK_ENR_1_6_en.pdf",
+   "title": "06. ENR 1.6 ATS surveillance services and procedures",
+   "parentId": 12
+  },
+  {
+   "id": 23,
+   "name": "EK_ENR_4_5_en.pdf",
+   "title": "ENR 4.5 Aeronautical Ground Lights",
+   "parentId": 22
+  },
+  {
+   "id": 24,
+   "name": "EK_ENR_4_1_en.pdf",
+   "title": "ENR 4.1 Radio Navigation Aids",
+   "parentId": 22
+  },
+  {
+   "id": 25,
+   "name": "EK_ENR_4_4_en.pdf",
+   "title": "ENR 4.4 Name-code Designators for Significant Points",
+   "parentId": 22
+  },
+  {
+   "id": 27,
+   "name": "EK_ENR_3_1_en.pdf",
+   "title": "ENR 3.1 ATS Routes",
+   "parentId": 26
+  },
+  {
+   "id": 31,
+   "name": "EK_AD_2_EKRS_en.pdf",
+   "title": "01. AD 2 EKRS text",
+   "parentId": 30
+  },
+  {
+   "id": 32,
+   "name": "EK_AD_2_EKRS_VAC_en.pdf",
+   "title": "02. AD 2 EKRS VAC",
+   "parentId": 30
+  },
+  {
+   "id": 33,
+   "name": "EK_AD_2_EKRS_ADC_en.pdf",
+   "title": "03. AD 2 EKRS ADC",
+   "parentId": 30
+  },
+  {
+   "id": 34,
+   "name": "EK_AD_2_EKRS_HELC_en.pdf",
+   "title": "04. AD 2 EKRS HELC",
+   "parentId": 30
+  },
+  {
+   "id": 36,
+   "name": "EK_AD_2_EKHG_ADC_en.pdf",
+   "title": "03. AD 2 EKHG ADC",
+   "parentId": 35
+  },
+  {
+   "id": 37,
+   "name": "EK_AD_2_EKHG_en.pdf",
+   "title": "01. AD 2 EKHG text",
+   "parentId": 35
+  },
+  {
+   "id": 38,
+   "name": "EK_AD_2_EKHG_APDC_en.pdf",
+   "title": "04. AD 2 EKHG APDC",
+   "parentId": 35
+  },
+  {
+   "id": 39,
+   "name": "EK_AD_2_EKHG_VAC_en.pdf",
+   "title": "02. AD 2 EKHG VAC",
+   "parentId": 35
+  },
+  {
+   "id": 41,
+   "name": "EK_AD_2_EKYT_APDC_en.pdf",
+   "title": "04. AD 2 EKYT APDC",
+   "parentId": 40
+  },
+  {
+   "id": 42,
+   "name": "EK_AD_2_EKYT_ADC_en.pdf",
+   "title": "03. AD 2 EKYT ADC",
+   "parentId": 40
+  },
+  {
+   "id": 43,
+   "name": "EK_AD_2_EKYT_VAC_en.pdf",
+   "title": "02. AD 2 EKYT VAC",
+   "parentId": 40
+  },
+  {
+   "id": 44,
+   "name": "EK_AD_2_EKYT_en.pdf",
+   "title": "01. AD 2 EKYT Text",
+   "parentId": 40
+  },
+  {
+   "id": 46,
+   "name": "EK_AD_2_EKSP_en.pdf",
+   "title": "01. AD 2 EKSP Text",
+   "parentId": 45
+  },
+  {
+   "id": 47,
+   "name": "EK_AD_2_EKSP_GLIDER_AREAS_IN_TMA_CTR_en.pdf",
+   "title": "05. AD 2 EKSP Glider Areas in TMA / CTR",
+   "parentId": 45
+  },
+  {
+   "id": 48,
+   "name": "EK_AD_2_EKSP_APDC_en.pdf",
+   "title": "04. AD 2 EKSP APDC",
+   "parentId": 45
+  },
+  {
+   "id": 49,
+   "name": "EK_AD_2_EKSP_ADC_en.pdf",
+   "title": "03. AD 2 EKSP ADC",
+   "parentId": 45
+  },
+  {
+   "id": 50,
+   "name": "EK_AD_2_EKSP_VAC_en.pdf",
+   "title": "02. AD 2 EKSP VAC",
+   "parentId": 45
+  },
+  {
+   "id": 52,
+   "name": "EK_AD_2_EKSS_VAC_en.pdf",
+   "title": "02. AD 2 EKSS VAC",
+   "parentId": 51
+  },
+  {
+   "id": 53,
+   "name": "EK_AD_2_EKSS_ADC_en.pdf",
+   "title": "03. AD 2 EKSS ADC",
+   "parentId": 51
+  },
+  {
+   "id": 54,
+   "name": "EK_AD_2_EKSS_en.pdf",
+   "title": "01. AD 2 EKSS Text",
+   "parentId": 51
+  },
+  {
+   "id": 56,
+   "name": "EK_AD_2_EKVD_en.pdf",
+   "title": "01. AD 2 EKVD text",
+   "parentId": 55
+  },
+  {
+   "id": 57,
+   "name": "EK_AD_2_EKVD_ADC_en.pdf",
+   "title": "03. AD 2 EKVD ADC",
+   "parentId": 55
+  },
+  {
+   "id": 58,
+   "name": "EK_AD_2_EKVD_VAC_en.pdf",
+   "title": "02. AD 2 EKVD VAC",
+   "parentId": 55
+  },
+  {
+   "id": 59,
+   "name": "EK_AD_2_EKVD_APDC_en.pdf",
+   "title": "04. AD 2 EKVD APDC",
+   "parentId": 55
+  },
+  {
+   "id": 61,
+   "name": "EK_AD_2_EKSV_ADC_en.pdf",
+   "title": "03. AD 2 EKSV ADC",
+   "parentId": 60
+  },
+  {
+   "id": 62,
+   "name": "EK_AD_2_EKSV_en.pdf",
+   "title": "01. AD 2 EKSV Text",
+   "parentId": 60
+  },
+  {
+   "id": 63,
+   "name": "EK_AD_2_EKSV_VAC_en.pdf",
+   "title": "02. AD 2 EKSV VAC",
+   "parentId": 60
+  },
+  {
+   "id": 64,
+   "name": "EK_AD_2_EKSV_APDC_en.pdf",
+   "title": "04. AD 2 EKSV APDC",
+   "parentId": 60
+  },
+  {
+   "id": 66,
+   "name": "EK_AD_2_EKRN_APDC_en.pdf",
+   "title": "04. AD 2 EKRN APDC",
+   "parentId": 65
+  },
+  {
+   "id": 67,
+   "name": "EK_AD_2_EKRN_en.pdf",
+   "title": "01. AD 2 EKRN text",
+   "parentId": 65
+  },
+  {
+   "id": 68,
+   "name": "EK_AD_2_EKRN_VAC_en.pdf",
+   "title": "02. AD 2 EKRN VAC",
+   "parentId": 65
+  },
+  {
+   "id": 69,
+   "name": "EK_AD_2_EKRN_ADC_en.pdf",
+   "title": "03. AD 2 EKRN ADC",
+   "parentId": 65
+  },
+  {
+   "id": 71,
+   "name": "EK_AD_2_EKSB_en.pdf",
+   "title": "01. AD 2 EKSB text",
+   "parentId": 70
+  },
+  {
+   "id": 72,
+   "name": "EK_AD_2_EKSB_APDC_en.pdf",
+   "title": "04. AD 2 EKSB APDC",
+   "parentId": 70
+  },
+  {
+   "id": 73,
+   "name": "EK_AD_2_EKSB_ADC_en.pdf",
+   "title": "03. AD 2 EKSB ADC",
+   "parentId": 70
+  },
+  {
+   "id": 74,
+   "name": "EK_AD_2_EKSB_VAC_en.pdf",
+   "title": "02. AD 2 EKSB VAC",
+   "parentId": 70
+  },
+  {
+   "id": 76,
+   "name": "EK_AD_2_EKCH_en.pdf",
+   "title": "01. AD 2 EKCH text",
+   "parentId": 75
+  },
+  {
+   "id": 77,
+   "name": "EK_AD_2_EKCH_APDC_en.pdf",
+   "title": "04. AD 2 EKCH APDC",
+   "parentId": 75
+  },
+  {
+   "id": 78,
+   "name": "EK_AD_2_EKCH_NOISE_MONITORING_SYSTEM_en.pdf",
+   "title": "06. AD 2 EKCH Noise Monitoring System",
+   "parentId": 75
+  },
+  {
+   "id": 79,
+   "name": "EK_AD_2_EKCH_APDC_SOUTH_en.pdf",
+   "title": "05. AD 2 EKCH APDC SOUTH",
+   "parentId": 75
+  },
+  {
+   "id": 80,
+   "name": "EK_AD_2_EKCH_VAC_en.pdf",
+   "title": "02. AD 2 EKCH VAC",
+   "parentId": 75
+  },
+  {
+   "id": 81,
+   "name": "EK_AD_2_EKCH_ADC_en.pdf",
+   "title": "03. AD 2 EKCH ADC",
+   "parentId": 75
+  },
+  {
+   "id": 84,
+   "name": "EK_AD_2_EKKA_APDC_en.pdf",
+   "title": "04. AD 2 EKKA APDC",
+   "parentId": 82
+  },
+  {
+   "id": 85,
+   "name": "EK_AD_2_EKKA_ADC_en.pdf",
+   "title": "03. AD 2 EKKA ADC",
+   "parentId": 82
+  },
+  {
+   "id": 87,
+   "name": "EK_AD_2_EKKA_en.pdf",
+   "title": "01. AD 2 EKKA text",
+   "parentId": 82
+  },
+  {
+   "id": 88,
+   "name": "EK_AD_2_EKKA_VAC_en.pdf",
+   "title": "02. AD 2 EKKA VAC",
+   "parentId": 82
+  },
+  {
+   "id": 90,
+   "name": "EK_AD_2_EKST_en.pdf",
+   "title": "01. AD 2 EKST Text",
+   "parentId": 89
+  },
+  {
+   "id": 91,
+   "name": "EK_AD_2_EKST_VAC_en.pdf",
+   "title": "02. AD 2 EKST VAC",
+   "parentId": 89
+  },
+  {
+   "id": 92,
+   "name": "EK_AD_2_EKST_ADC_en.pdf",
+   "title": "03. AD 2 EKST ADC",
+   "parentId": 89
+  },
+  {
+   "id": 94,
+   "name": "EK_AD_2_EKRK_HELC_en.pdf",
+   "title": "05. AD 2 EKRK HELC",
+   "parentId": 93
+  },
+  {
+   "id": 95,
+   "name": "EK_AD_2_EKRK_APDC_en.pdf",
+   "title": "04. AD 2 EKRK APDC",
+   "parentId": 93
+  },
+  {
+   "id": 96,
+   "name": "EK_AD_2_EKRK_VAC_en.pdf",
+   "title": "02. AD 2 EKRK VAC",
+   "parentId": 93
+  },
+  {
+   "id": 97,
+   "name": "EK_AD_2_EKRK_ADC_en.pdf",
+   "title": "03. AD 2 EKRK ADC",
+   "parentId": 93
+  },
+  {
+   "id": 98,
+   "name": "EK_AD_2_EKRK_en.pdf",
+   "title": "01. AD 2 EKRK Text",
+   "parentId": 93
+  },
+  {
+   "id": 100,
+   "name": "EK_AD_2_EKPB_en.pdf",
+   "title": "01. AD 2 EKPB text",
+   "parentId": 99
+  },
+  {
+   "id": 101,
+   "name": "EK_AD_2_EKPB_ADC_en.pdf",
+   "title": "03. AD 2 EKPB ADC",
+   "parentId": 99
+  },
+  {
+   "id": 102,
+   "name": "EK_AD_2_EKPB_VAC_en.pdf",
+   "title": "02. AD 2 EKPB VAC",
+   "parentId": 99
+  },
+  {
+   "id": 104,
+   "name": "EK_AD_2_EKAT_en.pdf",
+   "title": "01. AD 2 EKAT text",
+   "parentId": 103
+  },
+  {
+   "id": 105,
+   "name": "EK_AD_2_EKAT_VAC_en.pdf",
+   "title": "02. AD 2 EKAT VAC",
+   "parentId": 103
+  },
+  {
+   "id": 106,
+   "name": "EK_AD_2_EKAT_ADC_en.pdf",
+   "title": "03. AD 2 EKAT ADC",
+   "parentId": 103
+  },
+  {
+   "id": 108,
+   "name": "EK_AD_2_EKLV_VAC_en.pdf",
+   "title": "02. AD 2 EKLV VAC",
+   "parentId": 107
+  },
+  {
+   "id": 109,
+   "name": "EK_AD_2_EKLV_ADC_en.pdf",
+   "title": "03. AD 2 EKLV ADC",
+   "parentId": 107
+  },
+  {
+   "id": 110,
+   "name": "EK_AD_2_EKLV_HELC_en.pdf",
+   "title": "04. AD 2 EKLV HELC",
+   "parentId": 107
+  },
+  {
+   "id": 111,
+   "name": "EK_AD_2_EKLV_en.pdf",
+   "title": "01. AD 2 EKLV Text",
+   "parentId": 107
+  },
+  {
+   "id": 117,
+   "name": "EK_AD_2_EKRD_ADC_en.pdf",
+   "title": "03. AD 2 EKRD ADC",
+   "parentId": 116
+  },
+  {
+   "id": 118,
+   "name": "EK_AD_2_EKRD_VAC_en.pdf",
+   "title": "02. AD 2 EKRD VAC",
+   "parentId": 116
+  },
+  {
+   "id": 119,
+   "name": "EK_AD_2_EKRD_en.pdf",
+   "title": "01. AD 2 EKRD Text",
+   "parentId": 116
+  },
+  {
+   "id": 121,
+   "name": "EK_AD_2_EKBI_VAC_en.pdf",
+   "title": "02. AD 2 EKBI VAC",
+   "parentId": 120
+  },
+  {
+   "id": 123,
+   "name": "EK_AD_2_EKBI_APDC_en.pdf",
+   "title": "04. AD 2 EKBI APDC",
+   "parentId": 120
+  },
+  {
+   "id": 124,
+   "name": "EK_AD_2_EKBI_en.pdf",
+   "title": "01. AD 2 EKBI text",
+   "parentId": 120
+  },
+  {
+   "id": 125,
+   "name": "EK_AD_2_EKBI_ADC_en.pdf",
+   "title": "03. AD 2 EKBI ADC",
+   "parentId": 120
+  },
+  {
+   "id": 126,
+   "name": "EK_AD_2_EKBI_HELC_en.pdf",
+   "title": "05. AD 2 EKBI HELC",
+   "parentId": 120
+  },
+  {
+   "id": 128,
+   "name": "EK_AD_2_EKVH_VAC_en.pdf",
+   "title": "02. AD 2 EKVH VAC",
+   "parentId": 127
+  },
+  {
+   "id": 129,
+   "name": "EK_AD_2_EKVH_ADC_en.pdf",
+   "title": "03. AD 2 EKVH ADC",
+   "parentId": 127
+  },
+  {
+   "id": 130,
+   "name": "EK_AD_2_EKVH_en.pdf",
+   "title": "01. AD 2 EKVH Text",
+   "parentId": 127
+  },
+  {
+   "id": 132,
+   "name": "EK_AD_2_EKNM_en.pdf",
+   "title": "01. AD 2 EKNM Text",
+   "parentId": 131
+  },
+  {
+   "id": 133,
+   "name": "EK_AD_2_EKNM_ADC_en.pdf",
+   "title": "03. AD 2 EKNM ADC",
+   "parentId": 131
+  },
+  {
+   "id": 134,
+   "name": "EK_AD_2_EKNM_VAC_en.pdf",
+   "title": "02. AD 2 EKNM VAC",
+   "parentId": 131
+  },
+  {
+   "id": 136,
+   "name": "EK_AD_2_EKEB_VAC_en.pdf",
+   "title": "02. AD 2 EKEB VAC",
+   "parentId": 135
+  },
+  {
+   "id": 137,
+   "name": "EK_AD_2_EKEB_en.pdf",
+   "title": "01. AD 2 EKEB text",
+   "parentId": 135
+  },
+  {
+   "id": 138,
+   "name": "EK_AD_2_EKEB_HELC_en.pdf",
+   "title": "05. AD 2 EKEB HELC",
+   "parentId": 135
+  },
+  {
+   "id": 139,
+   "name": "EK_AD_2_EKEB_ADC_en.pdf",
+   "title": "03. AD 2 EKEB ADC",
+   "parentId": 135
+  },
+  {
+   "id": 140,
+   "name": "EK_AD_2_EKEB_APDC_en.pdf",
+   "title": "04. AD 2 EKEB APDC",
+   "parentId": 135
+  },
+  {
+   "id": 141,
+   "name": "EK_AD_2_EKEB_VFR_ARR_08_DEP_26_en.pdf",
+   "title": "06. AD 2 EKEB VFR ARR 08/DEP 26",
+   "parentId": 135
+  },
+  {
+   "id": 142,
+   "name": "EK_AD_2_EKEB_VFR_ARR_26_DEP_08_en.pdf",
+   "title": "07. AD 2 EKEB VFR ARR 26/DEP 08",
+   "parentId": 135
+  },
+  {
+   "id": 144,
+   "name": "EK_AD_2_EKOD_VAC_en.pdf",
+   "title": "02. AD 2 EKOD VAC",
+   "parentId": 143
+  },
+  {
+   "id": 145,
+   "name": "EK_AD_2_EKOD_en.pdf",
+   "title": "01. AD 2 EKOD text",
+   "parentId": 143
+  },
+  {
+   "id": 146,
+   "name": "EK_AD_2_EKOD_APDC_en.pdf",
+   "title": "04. AD 2 EKOD APDC",
+   "parentId": 143
+  },
+  {
+   "id": 147,
+   "name": "EK_AD_2_EKOD_ADC_en.pdf",
+   "title": "03. AD 2 EKOD ADC",
+   "parentId": 143
+  },
+  {
+   "id": 149,
+   "name": "EK_AD_2_EKVB_ADC_en.pdf",
+   "title": "03. AD 2 EKVB ADC",
+   "parentId": 148
+  },
+  {
+   "id": 150,
+   "name": "EK_AD_2_EKVB_VAC_en.pdf",
+   "title": "02. AD 2 EKVB VAC",
+   "parentId": 148
+  },
+  {
+   "id": 151,
+   "name": "EK_AD_2_EKVB_en.pdf",
+   "title": "01. AD 2 EKVB Text",
+   "parentId": 148
+  },
+  {
+   "id": 153,
+   "name": "EK_AD_2_EKLS_ADC_en.pdf",
+   "title": "03. AD 2 EKLS ADC",
+   "parentId": 152
+  },
+  {
+   "id": 154,
+   "name": "EK_AD_2_EKLS_en.pdf",
+   "title": "01. AD 2 EKLS Text",
+   "parentId": 152
+  },
+  {
+   "id": 155,
+   "name": "EK_AD_2_EKLS_VAC_en.pdf",
+   "title": "02. AD 2 EKLS VAC",
+   "parentId": 152
+  },
+  {
+   "id": 157,
+   "name": "EK_AD_2_EKAE_ADC_en.pdf",
+   "title": "03. AD 2 EKAE ADC",
+   "parentId": 156
+  },
+  {
+   "id": 158,
+   "name": "EK_AD_2_EKAE_en.pdf",
+   "title": "01. AD 2 EKAE Text",
+   "parentId": 156
+  },
+  {
+   "id": 159,
+   "name": "EK_AD_2_EKAE_VAC_en.pdf",
+   "title": "02. AD 2 EKAE VAC",
+   "parentId": 156
+  },
+  {
+   "id": 161,
+   "name": "EK_AD_2_EKSN_en.pdf",
+   "title": "01. AD 2 EKSN Text",
+   "parentId": 160
+  },
+  {
+   "id": 162,
+   "name": "EK_AD_2_EKSN_APDC_en.pdf",
+   "title": "04. AD 2 EKSN APDC",
+   "parentId": 160
+  },
+  {
+   "id": 163,
+   "name": "EK_AD_2_EKSN_ADC_en.pdf",
+   "title": "03. AD 2 EKSN ADC",
+   "parentId": 160
+  },
+  {
+   "id": 164,
+   "name": "EK_AD_2_EKSN_VAC_en.pdf",
+   "title": "02. AD 2 EKSN VAC",
+   "parentId": 160
+  },
+  {
+   "id": 166,
+   "name": "EK_AD_2_EKTD_en.pdf",
+   "title": "01. AD 2 EKTD Text",
+   "parentId": 165
+  },
+  {
+   "id": 167,
+   "name": "EK_AD_2_EKTD_VAC_en.pdf",
+   "title": "02. AD 2 EKTD VAC",
+   "parentId": 165
+  },
+  {
+   "id": 168,
+   "name": "EK_AD_2_EKTD_ADC_en.pdf",
+   "title": "03. AD 2 EKTD ADC",
+   "parentId": 165
+  },
+  {
+   "id": 170,
+   "name": "EK_AD_2_EKVJ_VAC_en.pdf",
+   "title": "02. AD 2 EKVJ VAC",
+   "parentId": 169
+  },
+  {
+   "id": 171,
+   "name": "EK_AD_2_EKVJ_APDC_en.pdf",
+   "title": "04. AD 2 EKVJ APDC",
+   "parentId": 169
+  },
+  {
+   "id": 172,
+   "name": "EK_AD_2_EKVJ_ADC_en.pdf",
+   "title": "03. AD 2 EKVJ ADC",
+   "parentId": 169
+  },
+  {
+   "id": 173,
+   "name": "EK_AD_2_EKVJ_en.pdf",
+   "title": "01. AD 2 EKVJ Text",
+   "parentId": 169
+  },
+  {
+   "id": 175,
+   "name": "EK_AD_2_EKAH_ADC_en.pdf",
+   "title": "03. AD 2 EKAH ADC",
+   "parentId": 174
+  },
+  {
+   "id": 176,
+   "name": "EK_AD_2_EKAH_APDC_en.pdf",
+   "title": "04. AD 2 EKAH APDC",
+   "parentId": 174
+  },
+  {
+   "id": 177,
+   "name": "EK_AD_2_EKAH_VAC_en.pdf",
+   "title": "02. AD 2 EKAH VAC",
+   "parentId": 174
+  },
+  {
+   "id": 178,
+   "name": "EK_AD_2_EKAH_en.pdf",
+   "title": "01. AD 2 EKAH Text",
+   "parentId": 174
+  },
+  {
+   "id": 180,
+   "name": "EK_AD_2_EKKL_en.pdf",
+   "title": "01. AD 2 EKKL Text",
+   "parentId": 179
+  },
+  {
+   "id": 181,
+   "name": "EK_AD_2_EKKL_VAC_en.pdf",
+   "title": "02. AD 2 EKKL VAC",
+   "parentId": 179
+  },
+  {
+   "id": 182,
+   "name": "EK_AD_2_EKKL_ADC_en.pdf",
+   "title": "03. AD 2 EKKL ADC",
+   "parentId": 179
+  },
+  {
+   "id": 184,
+   "name": "EK_AD_2_EKTS_APDC_en.pdf",
+   "title": "04. AD 2 EKTS APDC",
+   "parentId": 183
+  },
+  {
+   "id": 185,
+   "name": "EK_AD_2_EKTS_VAC_en.pdf",
+   "title": "02. AD 2 EKTS VAC",
+   "parentId": 183
+  },
+  {
+   "id": 186,
+   "name": "EK_AD_2_EKTS_ADC_en.pdf",
+   "title": "03. AD 2 EKTS ADC",
+   "parentId": 183
+  },
+  {
+   "id": 187,
+   "name": "EK_AD_2_EKTS_en.pdf",
+   "title": "01. AD 2 EKTS text",
+   "parentId": 183
+  },
+  {
+   "id": 189,
+   "name": "EK_AD_2_EKMB_VAC_en.pdf",
+   "title": "02. AD 2 EKMB VAC",
+   "parentId": 188
+  },
+  {
+   "id": 190,
+   "name": "EK_AD_2_EKMB_ADC_en.pdf",
+   "title": "03. AD 2 EKMB ADC",
+   "parentId": 188
+  },
+  {
+   "id": 191,
+   "name": "EK_AD_2_EKMB_APDC_en.pdf",
+   "title": "04. AD 2 EKMB APDC",
+   "parentId": 188
+  },
+  {
+   "id": 192,
+   "name": "EK_AD_2_EKMB_en.pdf",
+   "title": "01. AD 2 EKMB Text",
+   "parentId": 188
+  },
+  {
+   "id": 194,
+   "name": "EK_AD_3_1_en.pdf",
+   "title": "AD 3.1 Heliports and Helidecks",
+   "parentId": 193
+  },
+  {
+   "id": 197,
+   "name": "EK_AD_3_EKRH_en.pdf",
+   "title": "01. EKRH Text",
+   "parentId": 195
+  },
+  {
+   "id": 198,
+   "name": "EK_EKRH_HELC_en.pdf",
+   "title": "02. EKRH Heliport Chart",
+   "parentId": 195
+  },
+  {
+   "id": 200,
+   "name": "EK_AD_3_EKRB_en.pdf",
+   "title": "01. EKRB Text",
+   "parentId": 199
+  },
+  {
+   "id": 201,
+   "name": "EK_EKRB_HELC_en.pdf",
+   "title": "02. EKRB Heliport Chart",
+   "parentId": 199
+  },
+  {
+   "id": 204,
+   "name": "EK_AD_1_3_en.pdf",
+   "title": "AD 1.3 Index to Aerodromes",
+   "parentId": 203
+  },
+  {
+   "id": 205,
+   "name": "EK_AD_1_2_en.pdf",
+   "title": "AD 1.2 Rescue and Fire Fighting Services and Runway Surface Condition Assessment and Reporting and Snow Plan",
+   "parentId": 203
+  },
+  {
+   "id": 206,
+   "name": "EK_AD_1_1_en.pdf",
+   "title": "AD 1.1 Aerodromes and Heliports Availability",
+   "parentId": 203
+  },
+  {
+   "id": 208,
+   "name": "EK_AD_4_1_en.pdf",
+   "title": "AD 4.1 List of Private Aerodromes",
+   "parentId": 207
+  },
+  {
+   "id": 209,
+   "name": "EK_AD_4_2_en.pdf",
+   "title": "AD 4.2 List of Private Glider Aerodromes",
+   "parentId": 207
+  },
+  {
+   "id": 212,
+   "name": "EK_GEN_0_1_en.pdf",
+   "title": "GEN 0.1 Preface",
+   "parentId": 211
+  },
+  {
+   "id": 213,
+   "name": "EK_GEN_0_4_en.pdf",
+   "title": "GEN 0.4 Checklist of Pages",
+   "parentId": 211
+  },
+  {
+   "id": 214,
+   "name": "EK_GEN_0_5_en.pdf",
+   "title": "GEN 0.5 List of Hand Amendments",
+   "parentId": 211
+  },
+  {
+   "id": 215,
+   "name": "EK_GEN_0_6_en.pdf",
+   "title": "GEN 0.6 Table of Contents",
+   "parentId": 211
+  },
+  {
+   "id": 216,
+   "name": "EK_GEN_0_2_en.pdf",
+   "title": "GEN 0.2 Record of Amendments",
+   "parentId": 211
+  },
+  {
+   "id": 219,
+   "name": "EK_GEN_4_1_en.pdf",
+   "title": "GEN 4.1 Aerodrome and Heliport Charges",
+   "parentId": 218
+  },
+  {
+   "id": 221,
+   "name": "EK_GEN_2_1_en.pdf",
+   "title": "GEN 2.1 Measuring System, Aircraft Markings, Holidays",
+   "parentId": 220
+  },
+  {
+   "id": 222,
+   "name": "EK_GEN_2_5_en.pdf",
+   "title": "GEN 2.5 List of Radio Navigation Aids",
+   "parentId": 220
+  },
+  {
+   "id": 223,
+   "name": "EK_GEN_2_3_en.pdf",
+   "title": "GEN 2.3 Chart Symbols",
+   "parentId": 220
+  },
+  {
+   "id": 224,
+   "name": "EK_GEN_2_6_en.pdf",
+   "title": "GEN 2.6 Conversion Tables",
+   "parentId": 220
+  },
+  {
+   "id": 225,
+   "name": "EK_GEN_2_4_en.pdf",
+   "title": "GEN 2.4 Location Indicators",
+   "parentId": 220
+  },
+  {
+   "id": 226,
+   "name": "EK_GEN_2_7_en.pdf",
+   "title": "GEN 2.7 Sunrise/Sunset Tables",
+   "parentId": 220
+  },
+  {
+   "id": 227,
+   "name": "EK_GEN_2_2_en.pdf",
+   "title": "GEN 2.2 Abbreviations used in AIS Publications",
+   "parentId": 220
+  },
+  {
+   "id": 229,
+   "name": "EK_GEN_1_6_en.pdf",
+   "title": "GEN 1.6 Summary of National Regulations and International Agreements",
+   "parentId": 228
+  },
+  {
+   "id": 230,
+   "name": "EK_GEN_1_7_en.pdf",
+   "title": "GEN 1.7 Differences from ICAO Standards, Recommended Practices and Procedures",
+   "parentId": 228
+  },
+  {
+   "id": 231,
+   "name": "EK_GEN_1_5_en.pdf",
+   "title": "GEN 1.5 Aircraft Instruments, Equipment and Flight Documents",
+   "parentId": 228
+  },
+  {
+   "id": 232,
+   "name": "EK_GEN_1_2_en.pdf",
+   "title": "GEN 1.2 Entry, Transit and Departure of Aircraft",
+   "parentId": 228
+  },
+  {
+   "id": 233,
+   "name": "EK_GEN_1_1_en.pdf",
+   "title": "GEN 1.1 Designated Authorities",
+   "parentId": 228
+  },
+  {
+   "id": 234,
+   "name": "EK_GEN_1_4_en.pdf",
+   "title": "GEN 1.4 Entry, Transit and Departure of Cargo",
+   "parentId": 228
+  },
+  {
+   "id": 235,
+   "name": "EK_GEN_1_3_en.pdf",
+   "title": "GEN 1.3 Entry, Transit and Departure of Passenger and Crew",
+   "parentId": 228
+  },
+  {
+   "id": 237,
+   "name": "EK_GEN_3_1_en.pdf",
+   "title": "GEN 3.1 Aeronautical Information Services",
+   "parentId": 236
+  },
+  {
+   "id": 238,
+   "name": "EK_GEN_3_3_en.pdf",
+   "title": "GEN 3.3 Air Traffic Services",
+   "parentId": 236
+  },
+  {
+   "id": 239,
+   "name": "EK_GEN_3_5_en.pdf",
+   "title": "GEN 3.5 Meteorological Services",
+   "parentId": 236
+  },
+  {
+   "id": 240,
+   "name": "EK_GEN_3_4_en.pdf",
+   "title": "GEN 3.4 Communication Services",
+   "parentId": 236
+  },
+  {
+   "id": 241,
+   "name": "EK_GEN_3_2_en.pdf",
+   "title": "GEN 3.2 Aeronautical Charts",
+   "parentId": 236
+  },
+  {
+   "id": 242,
+   "name": "EK_GEN_3_6_en.pdf",
+   "title": "GEN 3.6 Search and Rescue",
+   "parentId": 236
+  },
+  {
+   "id": 281,
+   "name": "EK_Circ_2013_A_04_en.pdf",
+   "title": "AIC A 2013: 04/13 General permission for operations with relief supplies in connection with emergency crisis of a humanitarian character (emergency relief flights)",
+   "parentId": 276
+  },
+  {
+   "id": 286,
+   "name": "EK_Circ_2004_A_05_en.pdf",
+   "title": "AIC A 2004: 05/04 Requirements on EU operators to Notify to the Civil Aviation Administration - Denmark all Commercial Flight Operations to/from Denmark to/from Destinations within the EU",
+   "parentId": 276
+  },
+  {
+   "id": 298,
+   "name": "EK_AD_0_6_en.pdf",
+   "title": "AD 0.6 Table of Contents to Part 3",
+   "parentId": 297
+  },
+  {
+   "id": 300,
+   "name": "EK_AD_1_1_en.pdf",
+   "title": "AD 1.1 Aerodrome and Heliport Availability",
+   "parentId": 299
+  },
+  {
+   "id": 301,
+   "name": "EK_AD_1_3_en.pdf",
+   "title": "AD 1.3 Index to Aerodromes and Heliports",
+   "parentId": 299
+  },
+  {
+   "id": 302,
+   "name": "EK_AD_1_4_en.pdf",
+   "title": "AD 1.4 Grouping of Aerodromes and Heliports",
+   "parentId": 299
+  },
+  {
+   "id": 303,
+   "name": "EK_AD_1_2_en.pdf",
+   "title": "AD 1.2 Rescue and Fire Fighting Services and Runway Surface Condition Assessment and Reporting and Snow Plan",
+   "parentId": 299
+  },
+  {
+   "id": 306,
+   "name": "EK_AD_2_EKBI_AOC_A_27_en.pdf",
+   "title": "09. EKBI AOC-A 27",
+   "parentId": 305
+  },
+  {
+   "id": 307,
+   "name": "EK_AD_2_EKBI_APDC_en.pdf",
+   "title": "03. EKBI APDC",
+   "parentId": 305
+  },
+  {
+   "id": 314,
+   "name": "EK_AD_2_EKBI_HELC_en.pdf",
+   "title": "04. EKBI HELC",
+   "parentId": 305
+  },
+  {
+   "id": 315,
+   "name": "EK_AD_2_EKBI_en.pdf",
+   "title": "01. EKBI Text",
+   "parentId": 305
+  },
+  {
+   "id": 318,
+   "name": "EK_AD_2_EKBI_ADC_en.pdf",
+   "title": "02. EKBI ADC",
+   "parentId": 305
+  },
+  {
+   "id": 319,
+   "name": "EK_AD_2_EKBI_PATC_09_en.pdf",
+   "title": "10. EKBI PATC 09",
+   "parentId": 305
+  },
+  {
+   "id": 321,
+   "name": "EK_AD_2_EKBI_AOC_A_09_en.pdf",
+   "title": "08. EKBI AOC-A 09",
+   "parentId": 305
+  },
+  {
+   "id": 324,
+   "name": "EK_AD_2_EKBI_VAC_en.pdf",
+   "title": "30. EKBI VAC",
+   "parentId": 305
+  },
+  {
+   "id": 326,
+   "name": "EK_AD_2_EKBI_PATC_27_en.pdf",
+   "title": "11. EKBI PATC 27",
+   "parentId": 305
+  },
+  {
+   "id": 338,
+   "name": "EK_AD_2_EKSP_GLIDER_AREAS_IN_TMA_CTR_en.pdf",
+   "title": "07. EKSP Glider Areas in TMA/CTR",
+   "parentId": 336
+  },
+  {
+   "id": 339,
+   "name": "EK_AD_2_EKSP_ADC_en.pdf",
+   "title": "02. EKSP ADC",
+   "parentId": 336
+  },
+  {
+   "id": 340,
+   "name": "EK_AD_2_EKSP_en.pdf",
+   "title": "01. EKSP Text",
+   "parentId": 336
+  },
+  {
+   "id": 356,
+   "name": "EK_AD_2_EKEB_en.pdf",
+   "title": "01. EKEB Text",
+   "parentId": 346
+  },
+  {
+   "id": 357,
+   "name": "EK_AD_2_EKEB_ADC_en.pdf",
+   "title": "02. EKEB ADC",
+   "parentId": 346
+  },
+  {
+   "id": 358,
+   "name": "EK_AD_2_EKEB_HEL_VFR_ARR_26_DEP_08_en.pdf",
+   "title": "31. EKEB HEL VFR ARR 26/DEP 08",
+   "parentId": 346
+  },
+  {
+   "id": 363,
+   "name": "EK_AD_2_EKEB_AOC_A_26_en.pdf",
+   "title": "06. EKEB AOC-A 26",
+   "parentId": 346
+  },
+  {
+   "id": 364,
+   "name": "EK_AD_2_EKEB_HEL_VFR_ARR_08_DEP_26_en.pdf",
+   "title": "30. EKEB HEL VFR ARR 08/DEP 26",
+   "parentId": 346
+  },
+  {
+   "id": 367,
+   "name": "EKEB_PATC_26.pdf",
+   "title": "07. EKEB PATC 26",
+   "parentId": 346
+  },
+  {
+   "id": 371,
+   "name": "EK_AD_2_EKEB_HELC_en.pdf",
+   "title": "04. EKEB HELC",
+   "parentId": 346
+  },
+  {
+   "id": 372,
+   "name": "EK_AD_2_EKEB_AOC_A_08_en.pdf",
+   "title": "05. EKEB AOC-A 08",
+   "parentId": 346
+  },
+  {
+   "id": 377,
+   "name": "EK_AD_2_EKEB_APDC_en.pdf",
+   "title": "03. EKEB APDC",
+   "parentId": 346
+  },
+  {
+   "id": 390,
+   "name": "EK_AD_2_EKCH_en.pdf",
+   "title": "01. EKCH Text",
+   "parentId": 378
+  },
+  {
+   "id": 391,
+   "name": "EK_AD_2_EKCH_GMC_3_en.pdf",
+   "title": "08. EKCH GMC - 3",
+   "parentId": 378
+  },
+  {
+   "id": 392,
+   "name": "EK_AD_2_EKCH_ADC_en.pdf",
+   "title": "02. EKCH ADC",
+   "parentId": 378
+  },
+  {
+   "id": 395,
+   "name": "EK_AD_2_EKCH_GMC_6_en.pdf",
+   "title": "11. EKCH GMC - 6",
+   "parentId": 378
+  },
+  {
+   "id": 400,
+   "name": "EK_AD_2_EKCH_GMC_8_en.pdf",
+   "title": "13. EKCH GMC - 8",
+   "parentId": 378
+  },
+  {
+   "id": 401,
+   "name": "EK_AD_2_EKCH_AREA_OF_RESPONSIBILITY_en.pdf",
+   "title": "05. EKCH Area of Responsibility",
+   "parentId": 378
+  },
+  {
+   "id": 403,
+   "name": "EK_AD_2_EKCH_APDC_en.pdf",
+   "title": "03. EKCH APDC",
+   "parentId": 378
+  },
+  {
+   "id": 406,
+   "name": "EK_AD_2_EKCH_GMC_5_en.pdf",
+   "title": "10. EKCH GMC - 5",
+   "parentId": 378
+  },
+  {
+   "id": 407,
+   "name": "EK_AD_2_EKCH_GMC_7_en.pdf",
+   "title": "12. EKCH GMC - 7",
+   "parentId": 378
+  },
+  {
+   "id": 419,
+   "name": "EK_AD_2_EKCH_PATC_04_L_en.pdf",
+   "title": "20. EKCH PATC 04L",
+   "parentId": 378
+  },
+  {
+   "id": 421,
+   "name": "EK_AD_2_EKCH_AOC_A_30_en.pdf",
+   "title": "19. EKCH AOC - A RWY 30",
+   "parentId": 378
+  },
+  {
+   "id": 423,
+   "name": "EK_AD_2_EKCH_GMC_4_en.pdf",
+   "title": "09. EKCH GMC - 4",
+   "parentId": 378
+  },
+  {
+   "id": 424,
+   "name": "EK_AD_2_EKCH_GMC_1_en.pdf",
+   "title": "06. EKCH GMC - 1",
+   "parentId": 378
+  },
+  {
+   "id": 426,
+   "name": "EK_AD_2_EKCH_PATC_22_L_en.pdf",
+   "title": "21. EKCH PATC 22L",
+   "parentId": 378
+  },
+  {
+   "id": 433,
+   "name": "EK_AD_2_EKCH_NOISE_MONITORING_SYSTEM_en.pdf",
+   "title": "94. EKCH Noise Monitoring System",
+   "parentId": 378
+  },
+  {
+   "id": 435,
+   "name": "EK_AD_2_EKCH_GMC_2_en.pdf",
+   "title": "07. EKCH GMC - 2",
+   "parentId": 378
+  },
+  {
+   "id": 437,
+   "name": "EK_AD_2_EKCH_AOC_A_12_en.pdf",
+   "title": "18. EKCH AOC - A RWY 12",
+   "parentId": 378
+  },
+  {
+   "id": 442,
+   "name": "EK_AD_2_EKCH_APDC_SOUTH_en.pdf",
+   "title": "04. EKCH APDC SOUTH",
+   "parentId": 378
+  },
+  {
+   "id": 448,
+   "name": "EK_AD_2_EKSB_ADC_en.pdf",
+   "title": "02. EKSB ADC",
+   "parentId": 446
+  },
+  {
+   "id": 453,
+   "name": "EK_AD_2_EKSB_en.pdf",
+   "title": "01. EKSB Text",
+   "parentId": 446
+  },
+  {
+   "id": 462,
+   "name": "EK_AD_2_EKRK_IFR_DEP_3_en.pdf",
+   "title": "15. EKRK IFR DEP - 3",
+   "parentId": 460
+  },
+  {
+   "id": 465,
+   "name": "EK_AD_2_EKRK_ADC_en.pdf",
+   "title": "02. EKRK ADC",
+   "parentId": 460
+  },
+  {
+   "id": 467,
+   "name": "EK_AD_2_EKRK_AOC_A_03_en.pdf",
+   "title": "09. EKRK AOC - A RWY 03",
+   "parentId": 460
+  },
+  {
+   "id": 469,
+   "name": "EK_AD_2_EKRK_AOC_A_11_en.pdf",
+   "title": "10. EKRK AOC - A RWY 11",
+   "parentId": 460
+  },
+  {
+   "id": 471,
+   "name": "EK_AD_2_EKRK_APDC_en.pdf",
+   "title": "03. EKRK APDC",
+   "parentId": 460
+  },
+  {
+   "id": 472,
+   "name": "EK_AD_2_EKRK_IFR_DEP_4_en.pdf",
+   "title": "16. EKRK IFR DEP - 4",
+   "parentId": 460
+  },
+  {
+   "id": 473,
+   "name": "EK_AD_2_EKRK_IFR_DEP_1_en.pdf",
+   "title": "13. EKRK IFR DEP - 1",
+   "parentId": 460
+  },
+  {
+   "id": 476,
+   "name": "EK_AD_2_EKRK_en.pdf",
+   "title": "01. EKRK Text",
+   "parentId": 460
+  },
+  {
+   "id": 480,
+   "name": "EK_AD_2_EKRK_HELC_en.pdf",
+   "title": "04. EKRK HELC",
+   "parentId": 460
+  },
+  {
+   "id": 482,
+   "name": "EK_AD_2_EKRK_IFR_DEP_2_en.pdf",
+   "title": "14. EKRK IFR DEP - 2",
+   "parentId": 460
+  },
+  {
+   "id": 485,
+   "name": "EK_AD_2_EKRK_AOC_A_21_en.pdf",
+   "title": "11. EKRK AOC - A RWY 21",
+   "parentId": 460
+  },
+  {
+   "id": 486,
+   "name": "EK_AD_2_EKRK_AOC_A_29_en.pdf",
+   "title": "12. EKRK AOC - A RWY 29",
+   "parentId": 460
+  },
+  {
+   "id": 493,
+   "name": "EK_AD_2_EKAH_VAC_en.pdf",
+   "title": "15. EKAH VAC",
+   "parentId": 492
+  },
+  {
+   "id": 494,
+   "name": "EK_AD_2_EKAH_AOC_A_10_R_en.pdf",
+   "title": "04. EKAH AOC - A 10R",
+   "parentId": 492
+  },
+  {
+   "id": 497,
+   "name": "EK_AD_2_EKAH_AOC_A_28_L_en.pdf",
+   "title": "05. EKAH AOC - A 28L",
+   "parentId": 492
+  },
+  {
+   "id": 498,
+   "name": "EK_AD_2_EKAH_ADC_en.pdf",
+   "title": "02. EKAH ADC",
+   "parentId": 492
+  },
+  {
+   "id": 506,
+   "name": "EK_AD_2_EKAH_en.pdf",
+   "title": "01. EKAH Text",
+   "parentId": 492
+  },
+  {
+   "id": 512,
+   "name": "EK_AD_2_EKYT_ADC_en.pdf",
+   "title": "02. EKYT ADC",
+   "parentId": 510
+  },
+  {
+   "id": 513,
+   "name": "EK_AD_2_EKYT_APDC_en.pdf",
+   "title": "03. EKYT APDC",
+   "parentId": 510
+  },
+  {
+   "id": 515,
+   "name": "EK_AD_2_EKYT_en.pdf",
+   "title": "01. EKYT Text",
+   "parentId": 510
+  },
+  {
+   "id": 522,
+   "name": "EK_AD_2_EKVD_NDB_RWY_19_en.pdf",
+   "title": "08. EKVD NDB RWY 19",
+   "parentId": 519
+  },
+  {
+   "id": 523,
+   "name": "EK_AD_2_EKVD_ADC_en.pdf",
+   "title": "02. EKVD ADC",
+   "parentId": 519
+  },
+  {
+   "id": 524,
+   "name": "EK_AD_2_EKVD_NDB_RWY_01_en.pdf",
+   "title": "05. EKVD NDB RWY 01",
+   "parentId": 519
+  },
+  {
+   "id": 526,
+   "name": "EK_AD_2_EKVD_en.pdf",
+   "title": "01. EKVD Text",
+   "parentId": 519
+  },
+  {
+   "id": 532,
+   "name": "EK_AD_2_EKKA_GLIDER_AREAS_IN_TMA_CTR_en.pdf",
+   "title": "11. EKKA Glider Areas in TMA/CTR",
+   "parentId": 529
+  },
+  {
+   "id": 535,
+   "name": "EK_AD_2_EKKA_ADC_en.pdf",
+   "title": "02. EKKA ADC",
+   "parentId": 529
+  },
+  {
+   "id": 536,
+   "name": "EK_AD_2_EKKA_APDC_en.pdf",
+   "title": "03. EKKA APDC",
+   "parentId": 529
+  },
+  {
+   "id": 537,
+   "name": "EK_AD_2_EKKA_en.pdf",
+   "title": "01. EKKA Text",
+   "parentId": 529
+  },
+  {
+   "id": 545,
+   "name": "EK_AD_2_EKKA_PATC_27_L_en.pdf",
+   "title": "04. EKKA PATC 27L",
+   "parentId": 529
+  },
+  {
+   "id": 548,
+   "name": "EK_AD_2_EKVJ_en.pdf",
+   "title": "01. EKVJ Text",
+   "parentId": 546
+  },
+  {
+   "id": 549,
+   "name": "EK_AD_2_EKVJ_NDB_27_ACFT_CAT_A_B_en.pdf",
+   "title": "12. EKVJ NDB 27 (ACFT CAT A/B)",
+   "parentId": 546
+  },
+  {
+   "id": 553,
+   "name": "EK_AD_2_EKVJ_NDB_27_ACFT_CAT_C_en.pdf",
+   "title": "13. EKVJ NDB 27 (ACFT CAT C)",
+   "parentId": 546
+  },
+  {
+   "id": 560,
+   "name": "EK_AD_2_EKOD_APDC_en.pdf",
+   "title": "03. EKOD APDC",
+   "parentId": 556
+  },
+  {
+   "id": 562,
+   "name": "EK_AD_2_EKOD_ADC_en.pdf",
+   "title": "02. EKOD ADC",
+   "parentId": 556
+  },
+  {
+   "id": 563,
+   "name": "EK_AD_2_EKOD_AOC_A_06_en.pdf",
+   "title": "04. EKOD AOC - A 06",
+   "parentId": 556
+  },
+  {
+   "id": 566,
+   "name": "EK_AD_2_EKOD_en.pdf",
+   "title": "01. EKOD Text",
+   "parentId": 556
+  },
+  {
+   "id": 568,
+   "name": "EK_AD_2_EKOD_AOC_A_24_en.pdf",
+   "title": "05. EKOD AOC - A 24",
+   "parentId": 556
+  },
+  {
+   "id": 575,
+   "name": "EK_AD_2_EKRN_en.pdf",
+   "title": "01. EKRN Text",
+   "parentId": 569
+  },
+  {
+   "id": 583,
+   "name": "EK_AD_2_EKRN_APDC_en.pdf",
+   "title": "03. EKRN APDC",
+   "parentId": 569
+  },
+  {
+   "id": 586,
+   "name": "EK_AD_3_1_en.pdf",
+   "title": "AD 3.1 Heliports and Helidecks",
+   "parentId": 585
+  },
+  {
+   "id": 590,
+   "name": "EK_ENR_6_2_3_en.pdf",
+   "title": "ENR 6.2-3 ACC Sectors and Channels/Frequencies below FL 285",
+   "parentId": 588
+  },
+  {
+   "id": 591,
+   "name": "EK_ENR_6_1_en.pdf",
+   "title": "ENR 6.1 En Route Charts",
+   "parentId": 588
+  },
+  {
+   "id": 593,
+   "name": "EK_ENR_6_2_1_en.pdf",
+   "title": "ENR 6.2-1 ACC Sectors and Channels/Frequencies above FL 285",
+   "parentId": 588
+  },
+  {
+   "id": 595,
+   "name": "EK_ENR_6_4_1_en.pdf",
+   "title": "ENR 6.4-1 DK-SE FAB - Free Route Airspace",
+   "parentId": 588
+  },
+  {
+   "id": 600,
+   "name": "EK_ENR_2_2_en.pdf",
+   "title": "ENR 2.2 Other Regulated Airspace",
+   "parentId": 599
+  },
+  {
+   "id": 601,
+   "name": "EK_ENR_2_1_en.pdf",
+   "title": "ENR 2.1 FIR, CTA, TMA",
+   "parentId": 599
+  },
+  {
+   "id": 603,
+   "name": "EK_ENR_4_5_en.pdf",
+   "title": "ENR 4.5 Aeronautical Ground Lights",
+   "parentId": 602
+  },
+  {
+   "id": 604,
+   "name": "EK_ENR_4_1_en.pdf",
+   "title": "ENR 4.1 Radio Navigation Aids - En Route",
+   "parentId": 602
+  },
+  {
+   "id": 605,
+   "name": "EK_ENR_4_3_en.pdf",
+   "title": "ENR 4.3 Global Navigation Satellite System (GNSS)",
+   "parentId": 602
+  },
+  {
+   "id": 606,
+   "name": "EK_ENR_4_2_en.pdf",
+   "title": "ENR 4.2 Special Navigation Systems",
+   "parentId": 602
+  },
+  {
+   "id": 607,
+   "name": "EK_ENR_4_4_en.pdf",
+   "title": "ENR 4.4 Designators for Significant Points",
+   "parentId": 602
+  },
+  {
+   "id": 609,
+   "name": "EK_ENR_0_6_en.pdf",
+   "title": "ENR 0.6 Table of Contens to Part 2",
+   "parentId": 608
+  },
+  {
+   "id": 611,
+   "name": "EK_ENR_5_4_en.pdf",
+   "title": "ENR 5.4 Air Navigation Obstacles - En route",
+   "parentId": 610
+  },
+  {
+   "id": 612,
+   "name": "EK_ENR_5_5_en.pdf",
+   "title": "ENR 5.5 Aerial Sporting and Recreational Activities",
+   "parentId": 610
+  },
+  {
+   "id": 613,
+   "name": "EK_ENR_5_2_en.pdf",
+   "title": "ENR 5.2 Military Exercise and Training Areas",
+   "parentId": 610
+  },
+  {
+   "id": 614,
+   "name": "EK_ENR_5_6_en.pdf",
+   "title": "ENR 5.6 Bird Migration and Areas with Sensitive Fauna",
+   "parentId": 610
+  },
+  {
+   "id": 615,
+   "name": "EK_ENR_5_3_en.pdf",
+   "title": "ENR 5.3 Other Activities of a Dangerous Nature",
+   "parentId": 610
+  },
+  {
+   "id": 616,
+   "name": "EK_ENR_5_1_en.pdf",
+   "title": "ENR 5.1 Prohibited, Restricted and Danger Areas",
+   "parentId": 610
+  },
+  {
+   "id": 618,
+   "name": "EK_ENR_1_11_en.pdf",
+   "title": "11. ENR 1.11 Addressing of Flight Plan Messages",
+   "parentId": 617
+  },
+  {
+   "id": 619,
+   "name": "EK_ENR_1_14_en.pdf",
+   "title": "14. ENR 1.14 Air Traffic Incidents, Reporting",
+   "parentId": 617
+  },
+  {
+   "id": 620,
+   "name": "EK_ENR_1_1_en.pdf",
+   "title": "01. ENR 1.1 General Rules",
+   "parentId": 617
+  },
+  {
+   "id": 621,
+   "name": "EK_ENR_1_12_en.pdf",
+   "title": "12. ENR 1.12 Interception of Civil Aircraft",
+   "parentId": 617
+  },
+  {
+   "id": 622,
+   "name": "EK_ENR_1_6_en.pdf",
+   "title": "06. ENR 1.6 ATS surveillance services and procedures",
+   "parentId": 617
+  },
+  {
+   "id": 623,
+   "name": "EK_ENR_1_10_en.pdf",
+   "title": "10. ENR 1.10 Flight Planning",
+   "parentId": 617
+  },
+  {
+   "id": 624,
+   "name": "EK_ENR_1_7_en.pdf",
+   "title": "07. ENR 1.7 Altimeter Setting Procedure",
+   "parentId": 617
+  },
+  {
+   "id": 625,
+   "name": "EK_ENR_1_2_en.pdf",
+   "title": "02. ENR 1.2 Visual Flight Rules",
+   "parentId": 617
+  },
+  {
+   "id": 626,
+   "name": "EK_ENR_1_5_en.pdf",
+   "title": "05. ENR 1.5 Holding, Approach and Departure Procedures",
+   "parentId": 617
+  },
+  {
+   "id": 627,
+   "name": "EK_ENR_1_4_en.pdf",
+   "title": "04. ENR 1.4 ATS Airspace Classification",
+   "parentId": 617
+  },
+  {
+   "id": 628,
+   "name": "EK_ENR_1_13_en.pdf",
+   "title": "13. ENR 1.13 Unlawful Interference",
+   "parentId": 617
+  },
+  {
+   "id": 629,
+   "name": "EK_ENR_1_8_en.pdf",
+   "title": "08. ENR 1.8 Regional Supplementary Procedures",
+   "parentId": 617
+  },
+  {
+   "id": 630,
+   "name": "EK_ENR_1_3_en.pdf",
+   "title": "03. ENR 1.3 Instrument Flight rules",
+   "parentId": 617
+  },
+  {
+   "id": 631,
+   "name": "EK_ENR_1_9_en.pdf",
+   "title": "09. ENR 1.9 Air Traffic Flow Management",
+   "parentId": 617
+  },
+  {
+   "id": 633,
+   "name": "EK_ENR_3_2_en.pdf",
+   "title": "ENR 3.2 Area Navigation Routes",
+   "parentId": 632
+  },
+  {
+   "id": 634,
+   "name": "EK_ENR_3_3_en.pdf",
+   "title": "ENR 3.3 Other Routes",
+   "parentId": 632
+  },
+  {
+   "id": 635,
+   "name": "EK_ENR_3_1_en.pdf",
+   "title": "ENR 3.1 Conventional Navigation Routes",
+   "parentId": 632
+  },
+  {
+   "id": 637,
+   "name": "EK_ENR_3_4_en.pdf",
+   "title": "ENR 3.4 En-Route Holding",
+   "parentId": 632
+  },
+  {
+   "id": 657,
+   "name": "EK_GEN_3_2_en.pdf",
+   "title": "GEN 3.2 Aeronautical Charts",
+   "parentId": 656
+  },
+  {
+   "id": 658,
+   "name": "EK_GEN_3_1_en.pdf",
+   "title": "GEN 3.1 Aeronautical Information Services",
+   "parentId": 656
+  },
+  {
+   "id": 659,
+   "name": "EK_GEN_3_6_en.pdf",
+   "title": "GEN 3.6 Search and Rescue Services.",
+   "parentId": 656
+  },
+  {
+   "id": 660,
+   "name": "EK_GEN_3_4_en.pdf",
+   "title": "GEN 3.4 Communication Services",
+   "parentId": 656
+  },
+  {
+   "id": 661,
+   "name": "EK_GEN_3_5_en.pdf",
+   "title": "GEN 3.5 Meteorological Services",
+   "parentId": 656
+  },
+  {
+   "id": 662,
+   "name": "EK_GEN_3_3_en.pdf",
+   "title": "GEN 3.3 Air Traffic Services",
+   "parentId": 656
+  },
+  {
+   "id": 664,
+   "name": "EK_GEN_4_2_en.pdf",
+   "title": "GEN 4.2 Charges for Air Navigation Services",
+   "parentId": 663
+  },
+  {
+   "id": 665,
+   "name": "EK_GEN_4_1_en.pdf",
+   "title": "GEN 4.1 Charges for Aerodromes and Heliports",
+   "parentId": 663
+  },
+  {
+   "id": 667,
+   "name": "EK_GEN_0_2_en.pdf",
+   "title": "GEN 0.2 Record of AIP Amendments",
+   "parentId": 666
+  },
+  {
+   "id": 668,
+   "name": "EK_GEN_0_5_en.pdf",
+   "title": "GEN 0.5 List of Hand Amendments to the AIP",
+   "parentId": 666
+  },
+  {
+   "id": 669,
+   "name": "EK_GEN_0_3_en.pdf",
+   "title": "GEN 0.3 Record AIP Supplements",
+   "parentId": 666
+  },
+  {
+   "id": 670,
+   "name": "EK_GEN_0_1_en.pdf",
+   "title": "GEN 0.1 Preface",
+   "parentId": 666
+  },
+  {
+   "id": 671,
+   "name": "EK_GEN_0_6_en.pdf",
+   "title": "GEN 0.6 Table of Contents to Part 1 - General",
+   "parentId": 666
+  },
+  {
+   "id": 672,
+   "name": "EK_GEN_0_4_en.pdf",
+   "title": "GEN 0.4 Checklist of AIP Pages",
+   "parentId": 666
+  },
+  {
+   "id": 674,
+   "name": "EK_GEN_1_5_en.pdf",
+   "title": "GEN 1.5 Aircraft Instruments, Equipment and Flight Documents",
+   "parentId": 673
+  },
+  {
+   "id": 675,
+   "name": "EK_GEN_1_7_en.pdf",
+   "title": "GEN 1.7 Differences from ICAO Standards, Recommended Practices and Procedures",
+   "parentId": 673
+  },
+  {
+   "id": 676,
+   "name": "EK_GEN_1_1_en.pdf",
+   "title": "GEN 1.1 Designated Authorities",
+   "parentId": 673
+  },
+  {
+   "id": 677,
+   "name": "EK_GEN_1_6_en.pdf",
+   "title": "GEN 1.6 Summary of National Regulations and International Agreements",
+   "parentId": 673
+  },
+  {
+   "id": 678,
+   "name": "EK_GEN_1_2_en.pdf",
+   "title": "GEN 1.2 Entry, Transit and Departure of Aircraft",
+   "parentId": 673
+  },
+  {
+   "id": 679,
+   "name": "EK_GEN_1_4_en.pdf",
+   "title": "GEN 1.4 Entry, Transit and Departure of Cargo",
+   "parentId": 673
+  },
+  {
+   "id": 680,
+   "name": "EK_GEN_1_3_en.pdf",
+   "title": "GEN 1.3 Entry, Transit and Departure of Passengers and Crew",
+   "parentId": 673
+  },
+  {
+   "id": 682,
+   "name": "EK_GEN_2_7_en.pdf",
+   "title": "GEN 2.7 Sunrise/Sunset Tables.",
+   "parentId": 681
+  },
+  {
+   "id": 683,
+   "name": "EK_GEN_2_2_en.pdf",
+   "title": "GEN 2.2 Abbreviations used in AIS Publications",
+   "parentId": 681
+  },
+  {
+   "id": 684,
+   "name": "EK_GEN_2_4_en.pdf",
+   "title": "GEN 2.4 Location Indicators",
+   "parentId": 681
+  },
+  {
+   "id": 685,
+   "name": "EK_GEN_2_3_en.pdf",
+   "title": "GEN 2.3 Chart Symbols",
+   "parentId": 681
+  },
+  {
+   "id": 686,
+   "name": "EK_GEN_2_1_en.pdf",
+   "title": "GEN 2.1 Measuring System, Aircraft Markings, Holidays",
+   "parentId": 681
+  },
+  {
+   "id": 687,
+   "name": "EK_GEN_2_5_en.pdf",
+   "title": "GEN 2.5 List of Radio Navigation Aids",
+   "parentId": 681
+  },
+  {
+   "id": 688,
+   "name": "EK_GEN_2_6_en.pdf",
+   "title": "GEN 2.6 Conversion Tables",
+   "parentId": 681
+  },
+  {
+   "id": 815,
+   "name": "BG_ENR_4_3_en.pdf",
+   "title": "ENR 4.3 Global Navigation Satellite System (GNSS)",
+   "parentId": 814
+  },
+  {
+   "id": 816,
+   "name": "BG_ENR_4_5_en.pdf",
+   "title": "ENR 4.5 Aeronautical Ground Lights",
+   "parentId": 814
+  },
+  {
+   "id": 817,
+   "name": "BG_ENR_4_1_en.pdf",
+   "title": "ENR 4.1 Radio Navigation Aids - En Route",
+   "parentId": 814
+  },
+  {
+   "id": 818,
+   "name": "BG_ENR_4_2_en.pdf",
+   "title": "ENR 4.2 Special Navigation Systems",
+   "parentId": 814
+  },
+  {
+   "id": 819,
+   "name": "BG_ENR_4_4_en.pdf",
+   "title": "ENR 4.4 Designators for Significant Points",
+   "parentId": 814
+  },
+  {
+   "id": 821,
+   "name": "BG_ENR_2_2_en.pdf",
+   "title": "ENR 2.2 Other Regulated Airspace",
+   "parentId": 820
+  },
+  {
+   "id": 822,
+   "name": "BG_ENR_2_1_en.pdf",
+   "title": "ENR 2.1 FIR, CTA, TMA",
+   "parentId": 820
+  },
+  {
+   "id": 825,
+   "name": "BG_ENR_3_1_en.pdf",
+   "title": "ENR 3.1 Conventional Navigation Routes",
+   "parentId": 823
+  },
+  {
+   "id": 827,
+   "name": "BG_ENR_0_6_en.pdf",
+   "title": "ENR 0.6 Table of Contents to Part 2",
+   "parentId": 826
+  },
+  {
+   "id": 829,
+   "name": "BG_ENR_5_3_en.pdf",
+   "title": "ENR 5.3 Other Activities of a Dangerous Nature",
+   "parentId": 828
+  },
+  {
+   "id": 830,
+   "name": "BG_ENR_5_4_en.pdf",
+   "title": "ENR 5.4 Air Navigation Obstacles - En Route",
+   "parentId": 828
+  },
+  {
+   "id": 831,
+   "name": "BG_ENR_5_1_en.pdf",
+   "title": "ENR 5.1 Prohibited, Restricted and Danger Areas",
+   "parentId": 828
+  },
+  {
+   "id": 832,
+   "name": "BG_ENR_5_6_en.pdf",
+   "title": "ENR 5.6 Bird Migration and Areas with Sensitive Fauna",
+   "parentId": 828
+  },
+  {
+   "id": 833,
+   "name": "BG_ENR_5_5_en.pdf",
+   "title": "ENR 5.5 Aerial Sporting and Recreational Activities",
+   "parentId": 828
+  },
+  {
+   "id": 834,
+   "name": "BG_ENR_5_2_en.pdf",
+   "title": "ENR 5.2 Military Exercise and Training Areas",
+   "parentId": 828
+  },
+  {
+   "id": 836,
+   "name": "BG_ENR_1_12_en.pdf",
+   "title": "12. ENR 1.12 Interception of Civil Aircraft",
+   "parentId": 835
+  },
+  {
+   "id": 837,
+   "name": "BG_ENR_1_2_en.pdf",
+   "title": "02. ENR 1.2 Visual Flight Rules",
+   "parentId": 835
+  },
+  {
+   "id": 838,
+   "name": "BG_ENR_1_4_en.pdf",
+   "title": "04. ENR 1.4 ATS Airspace Classification",
+   "parentId": 835
+  },
+  {
+   "id": 839,
+   "name": "BG_ENR_1_8_en.pdf",
+   "title": "08. ENR 1.8 Regional Supplementary Procedures",
+   "parentId": 835
+  },
+  {
+   "id": 840,
+   "name": "BG_ENR_1_9_en.pdf",
+   "title": "09. ENR 1.9 Air Traffic Flow Management",
+   "parentId": 835
+  },
+  {
+   "id": 841,
+   "name": "BG_ENR_1_13_en.pdf",
+   "title": "13. ENR 1.13 Unlawful Interference",
+   "parentId": 835
+  },
+  {
+   "id": 842,
+   "name": "BG_ENR_1_11_en.pdf",
+   "title": "11. ENR 1.11 Addressing of Flight Plan Messages",
+   "parentId": 835
+  },
+  {
+   "id": 843,
+   "name": "BG_ENR_1_5_en.pdf",
+   "title": "05. ENR 1.5 Holding, Approach and Departure Procedures",
+   "parentId": 835
+  },
+  {
+   "id": 844,
+   "name": "BG_ENR_1_1_en.pdf",
+   "title": "01. ENR 1.1 General Rules",
+   "parentId": 835
+  },
+  {
+   "id": 845,
+   "name": "BG_ENR_1_6_en.pdf",
+   "title": "06. ENR 1.6 Radar Service and Procedures",
+   "parentId": 835
+  },
+  {
+   "id": 846,
+   "name": "BG_ENR_1_10_en.pdf",
+   "title": "10. ENR 1.10 Flight Plans",
+   "parentId": 835
+  },
+  {
+   "id": 847,
+   "name": "BG_ENR_1_3_en.pdf",
+   "title": "03. ENR 1.3 Instrument Flight Rules",
+   "parentId": 835
+  },
+  {
+   "id": 848,
+   "name": "BG_ENR_1_14_en.pdf",
+   "title": "14. ENR 1.14 Air Traffic Incidents, Reporting",
+   "parentId": 835
+  },
+  {
+   "id": 849,
+   "name": "BG_ENR_1_7_en.pdf",
+   "title": "07. ENR 1.7 Altimeter Setting Procedure",
+   "parentId": 835
+  },
+  {
+   "id": 851,
+   "name": "BG_ENR_6_7_13_en.pdf",
+   "title": "ENR 6.7.13 FIZ Radio Coverage (BGMQ)",
+   "parentId": 850
+  },
+  {
+   "id": 853,
+   "name": "BG_ENR_6_1_1_en.pdf",
+   "title": "ENR 6.1.1 Routes below FL 195",
+   "parentId": 850
+  },
+  {
+   "id": 854,
+   "name": "BG_ENR_6_9_1.pdf",
+   "title": "ENR 6.9.1 Areas with Sensitive Fauna",
+   "parentId": 850
+  },
+  {
+   "id": 855,
+   "name": "BG_ENR_6_3_1_en.pdf",
+   "title": "ENR 6.3.1 Airspace with Restrictions",
+   "parentId": 850
+  },
+  {
+   "id": 856,
+   "name": "BG_ENR_6_7_7_en.pdf",
+   "title": "ENR 6.7.07 FIZ Radio Coverage (BGSS)",
+   "parentId": 850
+  },
+  {
+   "id": 859,
+   "name": "BG_ENR_6_7_9_en.pdf",
+   "title": "ENR 6.7.09 FIZ Radio Coverage (BGUK)",
+   "parentId": 850
+  },
+  {
+   "id": 861,
+   "name": "BG_ENR_6_1_3_en.pdf",
+   "title": "ENR 6.1.3 West coast central below FL 195",
+   "parentId": 850
+  },
+  {
+   "id": 862,
+   "name": "BG_ENR_6_7_5_en.pdf",
+   "title": "ENR 6.7.05 FIZ Radio Coverage (BGCO)",
+   "parentId": 850
+  },
+  {
+   "id": 864,
+   "name": "BG_ENR_6_2_1_en.pdf",
+   "title": "ENR 6.2.1 Nuuk FIR",
+   "parentId": 850
+  },
+  {
+   "id": 865,
+   "name": "BG_ENR_6_7_1_en.pdf",
+   "title": "ENR 6.7.01 Radio COM/NAV Facilities",
+   "parentId": 850
+  },
+  {
+   "id": 866,
+   "name": "BG_ENR_6_7_11_en.pdf",
+   "title": "ENR 6.7.11 FIZ Radio Coverage (BGQQ)",
+   "parentId": 850
+  },
+  {
+   "id": 877,
+   "name": "BG_AD_3_1_en.pdf",
+   "title": "AD 3.1 Heliports",
+   "parentId": 876
+  },
+  {
+   "id": 879,
+   "name": "BG_AD_4_BGIS_en.pdf",
+   "title": "Isortoq (BGIS)",
+   "parentId": 878
+  },
+  {
+   "id": 880,
+   "name": "BG_AD_4_BGKA_en.pdf",
+   "title": "Kangaatsiaq (BGKA)",
+   "parentId": 878
+  },
+  {
+   "id": 881,
+   "name": "BG_AD_4_BGKQ_en.pdf",
+   "title": "Kullorsuaq (BGKQ)",
+   "parentId": 878
+  },
+  {
+   "id": 882,
+   "name": "BG_AD_4_BGCH_en.pdf",
+   "title": "Qasigiannguit (BGCH)",
+   "parentId": 878
+  },
+  {
+   "id": 883,
+   "name": "BG_AD_4_BGAS_en.pdf",
+   "title": "Ammassivik (BGAS)",
+   "parentId": 878
+  },
+  {
+   "id": 884,
+   "name": "BG_AD_4_BGST_en.pdf",
+   "title": "Saattut (BGST)",
+   "parentId": 878
+  },
+  {
+   "id": 885,
+   "name": "BG_AD_4_BGTN_en.pdf",
+   "title": "Tiniteqilaaq (BGTN)",
+   "parentId": 878
+  },
+  {
+   "id": 886,
+   "name": "BG_AD_4_BGTA_en.pdf",
+   "title": "Tasiusaq (Upernavik)(BGTA)",
+   "parentId": 878
+  },
+  {
+   "id": 888,
+   "name": "BG_AD_4_BGSI_en.pdf",
+   "title": "Siorapaluk (BGSI)",
+   "parentId": 878
+  },
+  {
+   "id": 889,
+   "name": "BG_AD_4_BGFD_en.pdf",
+   "title": "Narsaq Kujalleq (BGFD)",
+   "parentId": 878
+  },
+  {
+   "id": 890,
+   "name": "BG_AD_4_BGNT_en.pdf",
+   "title": "Niaqornat (BGNT)",
+   "parentId": 878
+  },
+  {
+   "id": 892,
+   "name": "BG_AD_4_BGSQ_en.pdf",
+   "title": "Saqqaq (BGSQ)",
+   "parentId": 878
+  },
+  {
+   "id": 893,
+   "name": "BG_AD_4_BGQE_en.pdf",
+   "title": "Qeqertaq (BGQE)",
+   "parentId": 878
+  },
+  {
+   "id": 894,
+   "name": "BG_AD_4_BGIK_en.pdf",
+   "title": "Ikerassaarsuk (BGIK)",
+   "parentId": 878
+  },
+  {
+   "id": 895,
+   "name": "BG_AD_4_BGIT_en.pdf",
+   "title": "Ikamiut (BGIT)",
+   "parentId": 878
+  },
+  {
+   "id": 896,
+   "name": "BG_AD_4_BGNS_en.pdf",
+   "title": "Narsaq (BGNS)",
+   "parentId": 878
+  },
+  {
+   "id": 897,
+   "name": "BG_AD_4_BGIN_en.pdf",
+   "title": "Innarsuit (BGIN)",
+   "parentId": 878
+  },
+  {
+   "id": 898,
+   "name": "BG_AD_4_BGSC_en.pdf",
+   "title": "Ittoqqortoormiit (BGSC)",
+   "parentId": 878
+  },
+  {
+   "id": 899,
+   "name": "BG_AD_4_BGAM_en.pdf",
+   "title": "Tasiilaq (BGAM)",
+   "parentId": 878
+  },
+  {
+   "id": 900,
+   "name": "BG_AD_4_BGAK_en.pdf",
+   "title": "Akunaq (BGAK)",
+   "parentId": 878
+  },
+  {
+   "id": 901,
+   "name": "BG_AD_4_BGIL_en.pdf",
+   "title": "Ilimanaq (BGIL)",
+   "parentId": 878
+  },
+  {
+   "id": 902,
+   "name": "BG_AD_4_BGSV_en.pdf",
+   "title": "Savissivik (BGSV)",
+   "parentId": 878
+  },
+  {
+   "id": 903,
+   "name": "BG_AD_4_BGKM_en.pdf",
+   "title": "Kuummiut (BGKM)",
+   "parentId": 878
+  },
+  {
+   "id": 904,
+   "name": "BG_AD_4_BGNN_en.pdf",
+   "title": "Nanortalik (BGNN)",
+   "parentId": 878
+  },
+  {
+   "id": 905,
+   "name": "BG_AD_4_BGNU_en.pdf",
+   "title": "Nuussuaq (BGNU)",
+   "parentId": 878
+  },
+  {
+   "id": 906,
+   "name": "BG_AD_4_BGAQ_en.pdf",
+   "title": "Aappilattoq (Nanortalik)(BGAQ)",
+   "parentId": 878
+  },
+  {
+   "id": 907,
+   "name": "BG_AD_4_BGSG_en.pdf",
+   "title": "Sermiligaaq (BGSG)",
+   "parentId": 878
+  },
+  {
+   "id": 908,
+   "name": "BG_AD_4_BGKL_en.pdf",
+   "title": "Upernavik Kujalleq (BGKL)",
+   "parentId": 878
+  },
+  {
+   "id": 909,
+   "name": "BG_AD_4_BGIG_en.pdf",
+   "title": "Iginniarfik (BGIG)",
+   "parentId": 878
+  },
+  {
+   "id": 911,
+   "name": "BG_AD_4_BGKT_en.pdf",
+   "title": "Kitsissuarsuit (BGKT)",
+   "parentId": 878
+  },
+  {
+   "id": 912,
+   "name": "BG_AD_4_BGAT_en.pdf",
+   "title": "Attu (BGAT)",
+   "parentId": 878
+  },
+  {
+   "id": 913,
+   "name": "BG_AD_4_BGKS_en.pdf",
+   "title": "Kangersuatsiaq (BGKS)",
+   "parentId": 878
+  },
+  {
+   "id": 914,
+   "name": "BG_AD_4_BGQT_en.pdf",
+   "title": "Qassimiut (BGQT)",
+   "parentId": 878
+  },
+  {
+   "id": 916,
+   "name": "BG_AD_4_BGET_en.pdf",
+   "title": "Eqalugaarsuit (BGET)",
+   "parentId": 878
+  },
+  {
+   "id": 918,
+   "name": "BG_AD_4_BGUM_en.pdf",
+   "title": "Uummannaq (BGUM)",
+   "parentId": 878
+  },
+  {
+   "id": 919,
+   "name": "BG_AD_4_BGAG_en.pdf",
+   "title": "Aappilattoq (Upernavik)(BGAG)",
+   "parentId": 878
+  },
+  {
+   "id": 920,
+   "name": "BG_AD_4_BGNK_en.pdf",
+   "title": "Niaqornaarsuk (BGNK)",
+   "parentId": 878
+  },
+  {
+   "id": 921,
+   "name": "BG_AD_4_BGTQ_en.pdf",
+   "title": "Tasiusaq (Nanortalik)(BGTQ)",
+   "parentId": 878
+  },
+  {
+   "id": 922,
+   "name": "BG_AD_4_BGIA_en.pdf",
+   "title": "Ikerasak (BGIA)",
+   "parentId": 878
+  },
+  {
+   "id": 923,
+   "name": "BG_AD_4_BGAP_en.pdf",
+   "title": "Alluitsup Paa (BGAP)",
+   "parentId": 878
+  },
+  {
+   "id": 924,
+   "name": "BG_AD_4_BGUT_en.pdf",
+   "title": "Ukkusissat (BGUT)",
+   "parentId": 878
+  },
+  {
+   "id": 926,
+   "name": "BG_AD_0_6_en.pdf",
+   "title": "AD 0.6 Table of Contents to Part 3",
+   "parentId": 925
+  },
+  {
+   "id": 930,
+   "name": "BG_AD_2_BGAA_LDC_en.pdf",
+   "title": "10. BGAA LDC",
+   "parentId": 928
+  },
+  {
+   "id": 931,
+   "name": "BG_AD_2_BGAA_VAC_en.pdf",
+   "title": "09. BGAA VAC",
+   "parentId": 928
+  },
+  {
+   "id": 932,
+   "name": "BG_AD_2_BGAA_en.pdf",
+   "title": "01. BGAA Text",
+   "parentId": 928
+  },
+  {
+   "id": 933,
+   "name": "BG_AD_2_BGAA_TDZ_RWY_11_29_NON_STD_en.pdf",
+   "title": "03. BGAA TDZ RWY 11/29 NON-STD",
+   "parentId": 928
+  },
+  {
+   "id": 934,
+   "name": "BG_AD_2_BGAA_ADC_en.pdf",
+   "title": "02. BGAA ADC",
+   "parentId": 928
+  },
+  {
+   "id": 938,
+   "name": "BG_AD_2_BGUQ_VAC_en.pdf",
+   "title": "11. BGUQ VAC",
+   "parentId": 935
+  },
+  {
+   "id": 942,
+   "name": "BG_AD_2_BGUQ_ADC_en.pdf",
+   "title": "02. BGUQ ADC",
+   "parentId": 935
+  },
+  {
+   "id": 945,
+   "name": "BG_AD_2_BGUQ_AOC_A_15_33_en.pdf",
+   "title": "03. BGUQ AOC-A 15/33",
+   "parentId": 935
+  },
+  {
+   "id": 946,
+   "name": "BG_AD_2_BGUQ_LDC_en.pdf",
+   "title": "12. BGUQ LDC",
+   "parentId": 935
+  },
+  {
+   "id": 947,
+   "name": "BG_AD_2_BGUQ_en.pdf",
+   "title": "01. BGUQ Text",
+   "parentId": 935
+  },
+  {
+   "id": 952,
+   "name": "BG_AD_2_BGGH_VAC_en.pdf",
+   "title": "38. BGGH VAC",
+   "parentId": 948
+  },
+  {
+   "id": 956,
+   "name": "BG_AD_2_BGGH_en.pdf",
+   "title": "01. BGGH Text",
+   "parentId": 948
+  },
+  {
+   "id": 957,
+   "name": "BG_AD_2_BGGH_LDC_en.pdf",
+   "title": "39. BGGH LDC",
+   "parentId": 948
+  },
+  {
+   "id": 960,
+   "name": "BG_AD_2_BGKK_LDC_en.pdf",
+   "title": "11. BGKK LDC",
+   "parentId": 958
+  },
+  {
+   "id": 963,
+   "name": "BG_AD_2_BGKK_VAC_en.pdf",
+   "title": "10. BGKK VAC",
+   "parentId": 958
+  },
+  {
+   "id": 964,
+   "name": "BG_AD_2_BGKK_en.pdf",
+   "title": "01. BGKK Text",
+   "parentId": 958
+  },
+  {
+   "id": 965,
+   "name": "BG_AD_2_BGKK_ADC_en.pdf",
+   "title": "02. BGKK ADC",
+   "parentId": 958
+  },
+  {
+   "id": 967,
+   "name": "BG_AD_2_BGCO_en.pdf",
+   "title": "01. BGCO Text",
+   "parentId": 966
+  },
+  {
+   "id": 968,
+   "name": "BG_AD_2_BGCO_LDC_en.pdf",
+   "title": "12. BGCO LDC",
+   "parentId": 966
+  },
+  {
+   "id": 972,
+   "name": "BG_AD_2_BGCO_ADC_en.pdf",
+   "title": "02. BGCO ADC",
+   "parentId": 966
+  },
+  {
+   "id": 974,
+   "name": "BG_AD_2_BGSS_TDZ_RWY_13_31_NON_STD_en.pdf",
+   "title": "03. BGSS TDZ RWY 13/31 NON-STD",
+   "parentId": 973
+  },
+  {
+   "id": 976,
+   "name": "BG_AD_2_BGSS_VAC_en.pdf",
+   "title": "15. BGSS VAC",
+   "parentId": 973
+  },
+  {
+   "id": 978,
+   "name": "BG_AD_2_BGSS_en.pdf",
+   "title": "01. BGSS Text",
+   "parentId": 973
+  },
+  {
+   "id": 979,
+   "name": "BG_AD_2_BGSS_AOC_A_13_en.pdf",
+   "title": "04. BGSS AOC-A 13",
+   "parentId": 973
+  },
+  {
+   "id": 980,
+   "name": "BG_AD_2_BGSS_ADC_en.pdf",
+   "title": "02. BGSS ADC",
+   "parentId": 973
+  },
+  {
+   "id": 981,
+   "name": "BG_AD_2_BGSS_LDC_en.pdf",
+   "title": "16. BGSS LDC",
+   "parentId": 973
+  },
+  {
+   "id": 987,
+   "name": "BG_AD_2_BGQQ_LDC_en.pdf",
+   "title": "13. BGQQ LDC",
+   "parentId": 983
+  },
+  {
+   "id": 991,
+   "name": "BG_AD_2_BGQQ_en.pdf",
+   "title": "01. BGQQ Text",
+   "parentId": 983
+  },
+  {
+   "id": 992,
+   "name": "BG_AD_2_BGQQ_VAC_en.pdf",
+   "title": "12. BGQQ VAC",
+   "parentId": 983
+  },
+  {
+   "id": 995,
+   "name": "BG_AD_2_BGQQ_ADC_en.pdf",
+   "title": "02. BGQQ ADC",
+   "parentId": 983
+  },
+  {
+   "id": 997,
+   "name": "BG_AD_2_BGTL_en.pdf",
+   "title": "01. BGTL Text",
+   "parentId": 996
+  },
+  {
+   "id": 1000,
+   "name": "BG_AD_2_BGMQ_en.pdf",
+   "title": "01. BGMQ Text",
+   "parentId": 998
+  },
+  {
+   "id": 1003,
+   "name": "BG_AD_2_BGMQ_ADC_en.pdf",
+   "title": "02. BGMQ ADC",
+   "parentId": 998
+  },
+  {
+   "id": 1004,
+   "name": "BG_AD_2_BGMQ_VAC_en.pdf",
+   "title": "09. BGMQ VAC",
+   "parentId": 998
+  },
+  {
+   "id": 1005,
+   "name": "BG_AD_2_BGMQ_LDC_en.pdf",
+   "title": "10. BGMQ LDC",
+   "parentId": 998
+  },
+  {
+   "id": 1009,
+   "name": "BG_AD_2_BGJN_en.pdf",
+   "title": "01. BGJN Text",
+   "parentId": 1007
+  },
+  {
+   "id": 1011,
+   "name": "BG_AD_2_BGJN_VAC_en.pdf",
+   "title": "11. BGJN VAC",
+   "parentId": 1007
+  },
+  {
+   "id": 1012,
+   "name": "BG_AD_2_BGJN_LDC_en.pdf",
+   "title": "12. BGJN LDC",
+   "parentId": 1007
+  },
+  {
+   "id": 1014,
+   "name": "BG_AD_2_BGJN_ADC_en.pdf",
+   "title": "02. BGJN ADC",
+   "parentId": 1007
+  },
+  {
+   "id": 1019,
+   "name": "BG_AD_2_BGUK_en.pdf",
+   "title": "01. BGUK Text",
+   "parentId": 1018
+  },
+  {
+   "id": 1024,
+   "name": "BG_AD_2_BGUK_VAC_en.pdf",
+   "title": "09. BGUK VAC",
+   "parentId": 1018
+  },
+  {
+   "id": 1026,
+   "name": "BG_AD_2_BGUK_ADC_en.pdf",
+   "title": "02. BGUK ADC",
+   "parentId": 1018
+  },
+  {
+   "id": 1029,
+   "name": "BG_AD_2_BGUK_LDC_en.pdf",
+   "title": "10. BGUK LDC",
+   "parentId": 1018
+  },
+  {
+   "id": 1031,
+   "name": "BG_AD_2_BGPT_ADC_en.pdf",
+   "title": "02. BGPT ADC",
+   "parentId": 1030
+  },
+  {
+   "id": 1034,
+   "name": "BG_AD_2_BGPT_LDC_en.pdf",
+   "title": "11. BGPT LDC",
+   "parentId": 1030
+  },
+  {
+   "id": 1036,
+   "name": "BG_AD_2_BGPT_VAC_en.pdf",
+   "title": "10. BGPT VAC",
+   "parentId": 1030
+  },
+  {
+   "id": 1037,
+   "name": "BG_AD_2_BGPT_AOC_A_35_en.pdf",
+   "title": "05. BGPT AOC-A 35",
+   "parentId": 1030
+  },
+  {
+   "id": 1038,
+   "name": "BG_AD_2_BGPT_en.pdf",
+   "title": "01. BGPT Text",
+   "parentId": 1030
+  },
+  {
+   "id": 1040,
+   "name": "BG_AD_2_BGPT_TDZ_17_35_NON_STD_en.pdf",
+   "title": "03. BGPT TDZ RWY 17/35 NON-STD",
+   "parentId": 1030
+  },
+  {
+   "id": 1041,
+   "name": "BG_AD_2_BGPT_AOC_A_17_en.pdf",
+   "title": "04. BGPT AOC-A 17",
+   "parentId": 1030
+  },
+  {
+   "id": 1043,
+   "name": "BG_AD_2_BGBW_AOC_A_06_1_en.pdf",
+   "title": "03. BGBW AOC-A 06 - 1",
+   "parentId": 1042
+  },
+  {
+   "id": 1050,
+   "name": "BG_AD_2_BGBW_AOC_A_06_2_en.pdf",
+   "title": "04. BGBW AOC-A 06 - 2",
+   "parentId": 1042
+  },
+  {
+   "id": 1051,
+   "name": "BG_AD_2_BGBW_AOC_A_24_1_en.pdf",
+   "title": "05. BGBW AOC-A 24 - 1",
+   "parentId": 1042
+  },
+  {
+   "id": 1055,
+   "name": "BG_AD_2_BGBW_ADC_en.pdf",
+   "title": "02. BGBW ADC",
+   "parentId": 1042
+  },
+  {
+   "id": 1059,
+   "name": "BG_AD_2_BGBW_LDC_en.pdf",
+   "title": "22. BGBW LDC",
+   "parentId": 1042
+  },
+  {
+   "id": 1060,
+   "name": "BG_AD_2_BGBW_AOC_A_24_2_en.pdf",
+   "title": "06. BGBW AOC-A 24 - 2",
+   "parentId": 1042
+  },
+  {
+   "id": 1062,
+   "name": "BG_AD_2_BGBW_VAC_en.pdf",
+   "title": "21. BGBW VAC",
+   "parentId": 1042
+  },
+  {
+   "id": 1067,
+   "name": "BG_AD_2_BGSF_AOC_A_09_en.pdf",
+   "title": "04. BGSF AOC-A 09",
+   "parentId": 1065
+  },
+  {
+   "id": 1068,
+   "name": "BG_AD_2_BGSF_APDC_en.pdf",
+   "title": "03. BGSF APDC",
+   "parentId": 1065
+  },
+  {
+   "id": 1069,
+   "name": "BG_AD_2_BGSF_ADC_en.pdf",
+   "title": "02. BGSF ADC",
+   "parentId": 1065
+  },
+  {
+   "id": 1071,
+   "name": "BG_AD_2_BGSF_AOC_A_27_en.pdf",
+   "title": "05. BGSF AOC-A 27",
+   "parentId": 1065
+  },
+  {
+   "id": 1075,
+   "name": "BG_AD_2_BGSF_LDC_en.pdf",
+   "title": "26. BGSF LDC",
+   "parentId": 1065
+  },
+  {
+   "id": 1076,
+   "name": "BG_AD_2_BGSF_en.pdf",
+   "title": "01. BGSF Text",
+   "parentId": 1065
+  },
+  {
+   "id": 1078,
+   "name": "BG_AD_2_BGSF_VAC_en.pdf",
+   "title": "25. BGSF VAC",
+   "parentId": 1065
+  },
+  {
+   "id": 1080,
+   "name": "BG_AD_1_2_en.pdf",
+   "title": "AD 1.2 Rescue and Fire Fighting Services and Runway Surface Condition Assessment and Reporting and Snow Plan",
+   "parentId": 1079
+  },
+  {
+   "id": 1081,
+   "name": "BG_AD_1_1_en.pdf",
+   "title": "AD 1.1 Aerodrome and Heliport Availability",
+   "parentId": 1079
+  },
+  {
+   "id": 1082,
+   "name": "BG_AD_1_3_en.pdf",
+   "title": "AD 1.3 Index to Aerodromes and Heliports",
+   "parentId": 1079
+  },
+  {
+   "id": 1083,
+   "name": "BG_AD_1_4_en.pdf",
+   "title": "AD 1.4 Grouping of Aerodromes and Heliports",
+   "parentId": 1079
+  },
+  {
+   "id": 1095,
+   "name": "BG_GEN_1_5_en.pdf",
+   "title": "GEN 1.5 Aircraft Instruments, Equipment and Flight Documents",
+   "parentId": 1094
+  },
+  {
+   "id": 1096,
+   "name": "BG_GEN_1_2_en.pdf",
+   "title": "GEN 1.2 Entry, Transit and Departure of Aircraft",
+   "parentId": 1094
+  },
+  {
+   "id": 1097,
+   "name": "BG_GEN_1_1_en.pdf",
+   "title": "GEN 1.1 Designated Authorities",
+   "parentId": 1094
+  },
+  {
+   "id": 1098,
+   "name": "BG_GEN_1_6_en.pdf",
+   "title": "GEN 1.6 Summary of National Regulations and International Agreements",
+   "parentId": 1094
+  },
+  {
+   "id": 1099,
+   "name": "BG_GEN_1_7_en.pdf",
+   "title": "GEN 1.7 Differences from ICAO Standards, Recommended Practices and Procedures",
+   "parentId": 1094
+  },
+  {
+   "id": 1100,
+   "name": "BG_GEN_1_3_en.pdf",
+   "title": "GEN 1.3 Entry, Transit and Departure of Passengers and Crew",
+   "parentId": 1094
+  },
+  {
+   "id": 1101,
+   "name": "BG_GEN_1_4_en.pdf",
+   "title": "GEN 1.4 Entry, Transit and Departure of Cargo",
+   "parentId": 1094
+  },
+  {
+   "id": 1103,
+   "name": "BG_GEN_4_2_en.pdf",
+   "title": "GEN 4.2 Charges for Air Navigation Services",
+   "parentId": 1102
+  },
+  {
+   "id": 1104,
+   "name": "BG_GEN_4_1_en.pdf",
+   "title": "GEN 4.1 Charges for Aerodromes and Heliports",
+   "parentId": 1102
+  },
+  {
+   "id": 1106,
+   "name": "BG_GEN_0_4_en.pdf",
+   "title": "GEN 0.4 Checklist of AIP Pages",
+   "parentId": 1105
+  },
+  {
+   "id": 1107,
+   "name": "BG_GEN_0_1_en.pdf",
+   "title": "GEN 0.1 Preface",
+   "parentId": 1105
+  },
+  {
+   "id": 1108,
+   "name": "BG_GEN_0_6_en.pdf",
+   "title": "GEN 0.6 Table of Contents to Part 0 and 1",
+   "parentId": 1105
+  },
+  {
+   "id": 1109,
+   "name": "BG_GEN_0_5_en.pdf",
+   "title": "GEN 0.5 List of Hand Amendments to the AIP",
+   "parentId": 1105
+  },
+  {
+   "id": 1111,
+   "name": "BG_GEN_0_2_en.pdf",
+   "title": "GEN 0.2 Record of AIP Amendmendts",
+   "parentId": 1105
+  },
+  {
+   "id": 1113,
+   "name": "BG_GEN_3_6_en.pdf",
+   "title": "GEN 3.6 Search and Rescue Services",
+   "parentId": 1112
+  },
+  {
+   "id": 1114,
+   "name": "BG_GEN_3_3_en.pdf",
+   "title": "GEN 3.3 Air Traffic Services",
+   "parentId": 1112
+  },
+  {
+   "id": 1115,
+   "name": "BG_GEN_3_1_en.pdf",
+   "title": "GEN 3.1 Aeronautical Information Services",
+   "parentId": 1112
+  },
+  {
+   "id": 1116,
+   "name": "BG_GEN_3_2_en.pdf",
+   "title": "GEN 3.2 Aeronautical Charts",
+   "parentId": 1112
+  },
+  {
+   "id": 1117,
+   "name": "BG_GEN_3_4_en.pdf",
+   "title": "GEN 3.4 Communication Services",
+   "parentId": 1112
+  },
+  {
+   "id": 1118,
+   "name": "BG_GEN_3_5_en.pdf",
+   "title": "GEN 3.5 Meteorological Services",
+   "parentId": 1112
+  },
+  {
+   "id": 1120,
+   "name": "BG_GEN_2_2_en.pdf",
+   "title": "GEN 2.2 Abbreviations used in AIS Publications",
+   "parentId": 1119
+  },
+  {
+   "id": 1121,
+   "name": "BG_GEN_2_1_en.pdf",
+   "title": "GEN 2.1 Measuring System, Aircraft Markings, Holidays",
+   "parentId": 1119
+  },
+  {
+   "id": 1122,
+   "name": "BG_GEN_2_6_en.pdf",
+   "title": "GEN 2.6 Conversion Tables",
+   "parentId": 1119
+  },
+  {
+   "id": 1123,
+   "name": "BG_GEN_2_4_en.pdf",
+   "title": "GEN 2.4 Location Indicators",
+   "parentId": 1119
+  },
+  {
+   "id": 1124,
+   "name": "BG_GEN_2_5_en.pdf",
+   "title": "GEN 2.5 List of Radio Navigation Aids",
+   "parentId": 1119
+  },
+  {
+   "id": 1125,
+   "name": "BG_GEN_2_7_en.pdf",
+   "title": "GEN 2.7 Sunrise and sunset tables",
+   "parentId": 1119
+  },
+  {
+   "id": 1126,
+   "name": "BG_GEN_2_3_en.pdf",
+   "title": "GEN 2.3 Chart Symbols",
+   "parentId": 1119
+  },
+  {
+   "id": 1131,
+   "name": "AIC B 07 2007.pdf",
+   "title": "AIC B 07/2007. Brug af TSO godkendte dele i nyt design til mindre og større ændringer",
+   "parentId": 1128
+  },
+  {
+   "id": 1136,
+   "name": "AIC B 34 2010.pdf",
+   "title": "AIC B 34/2010. Autorisation af nye logbøger (rejsedagbøger og tekniske journaler jf. BL 1-19) for dansk registrerede luftfartøjer som ikke opererer på en AOC",
+   "parentId": 1133
+  },
+  {
+   "id": 1139,
+   "name": "AIC B 33 2010.pdf",
+   "title": "AIC B 33/2010. Vedvarende luftdygtighed",
+   "parentId": 1133
+  },
+  {
+   "id": 1142,
+   "name": "AIC B 37 2010.pdf",
+   "title": "AIC B 37/2010. Erhvervsmæssig ambulanceflyvning og sygetransport, EMS (Emergency Medical Service), omhandlende luftfartsselskaber der opererer under EU-OPS 1",
+   "parentId": 1133
+  },
+  {
+   "id": 1143,
+   "name": "AIC B 40 2010.pdf",
+   "title": "AIC B 40/2010. Misbrug af lasere - Belysning af fly og ATC Towers",
+   "parentId": 1133
+  },
+  {
+   "id": 1147,
+   "name": "AIC B 03-2005.pdf",
+   "title": "AIC B 03/05. BL 3-1, Bestemmelser om etablering af offentlige VMC-flyvepladser",
+   "parentId": 1146
+  },
+  {
+   "id": 1150,
+   "name": "AIC B-11-2005.pdf",
+   "title": "AIC B 11/2005. Landingsdistancer på græsbaner mv. for flyvemaskiner, hvis maksimalt tilladte startvægt ikke overstiger 5.700 kg.",
+   "parentId": 1146
+  },
+  {
+   "id": 1167,
+   "name": "AIC B-15 2004.pdf",
+   "title": "AIC B 15/2004. Special Airworthiness Information Bulletin (SAIB).",
+   "parentId": 1165
+  },
+  {
+   "id": 1170,
+   "name": "AIC B 14 2013.pdf",
+   "title": "AIC B 14/2013. Faldskærmsspring under civile flyveopvisninger",
+   "parentId": 1169
+  },
+  {
+   "id": 1172,
+   "name": "AIC B 27 2013.pdf",
+   "title": "AIC B 27/2013. BL 9-4 FPV - First Persons View",
+   "parentId": 1169
+  },
+  {
+   "id": 1174,
+   "name": "AIC B 21 2013.pdf",
+   "title": "AIC B 21/2013. Ændring af Lov om Luftfart pr. 1. juli 2013 - Indberetning af flyvesikkerhedsmæssige begivenheder og meddelelse af havarier og alvorlige hændelser",
+   "parentId": 1169
+  },
+  {
+   "id": 1179,
+   "name": "AIC B 05 2013.pdf",
+   "title": "AIC B 05/2013. Flyvning af prøvelektioner",
+   "parentId": 1169
+  },
+  {
+   "id": 1181,
+   "name": "AIC B 20 2013.pdf",
+   "title": "AIC B 20/2013. Flyvning efter udløbet Airworthiness Review Certificate (ARC)",
+   "parentId": 1169
+  },
+  {
+   "id": 1186,
+   "name": "AIC B 28 2013.pdf",
+   "title": "AIC B 28/2013. Flyvetilladelser (Permit to fly)",
+   "parentId": 1169
+  },
+  {
+   "id": 1187,
+   "name": "AIC B 23 2013.pdf",
+   "title": "AIC B 23/2013. Definition: Tættere bebygget område",
+   "parentId": 1169
+  },
+  {
+   "id": 1193,
+   "name": "AIC B 03 2015.pdf",
+   "title": "AIC B 03/2015. ICAO 24-Bit Aircraft Addresses and Aircraft Identification Reporting",
+   "parentId": 1192
+  },
+  {
+   "id": 1199,
+   "name": "AIC B 04 2015.pdf",
+   "title": "AIC B 04/2015. Procedure for EASA-godkendelse af visse ændringer og reparationer installeret i brugte luftfartøjer",
+   "parentId": 1192
+  },
+  {
+   "id": 1203,
+   "name": "AIC B 22 2015.pdf",
+   "title": "AIC B 22/2015. Dispensation fra BL 9-6 Ultralette Flyvemaskiner, samt BL 9-12 Ultralette Gyroplaner pkt. 8.2 FLYVESIGTBARHED, gældende fra 1.8.2015",
+   "parentId": 1192
+  },
+  {
+   "id": 1207,
+   "name": "AIC B 05 2015.pdf",
+   "title": "AIC B 05/2015. Vejledning til ansøgere om godkendelse af mindre ændringer",
+   "parentId": 1192
+  },
+  {
+   "id": 1208,
+   "name": "AIC B 25 2015.pdf",
+   "title": "AIC B 25/2015. Dispensation fra BL 9-6 Ultralette Flyvemaskiner, samt BL 9-12 Ultralette Gyroplaner pkt. 8.2 FLYVEPERIODE.",
+   "parentId": 1192
+  },
+  {
+   "id": 1211,
+   "name": "AIC B 26 2015.pdf",
+   "title": "AIC B 26/2015. Child Restraint System “CARES”",
+   "parentId": 1192
+  },
+  {
+   "id": 1215,
+   "name": "AIC B 06 2015.pdf",
+   "title": "AIC B 06/2015. Udstedelse af flyvetilladelse til luftfartøjer omfattet af Hovedforordning (EF) 1321/2014",
+   "parentId": 1192
+  },
+  {
+   "id": 1218,
+   "name": "AIC B 14 2015.pdf",
+   "title": "AIC B 14/2015. Kalibrering af værktøj, test- og måleudstyr",
+   "parentId": 1192
+  },
+  {
+   "id": 1220,
+   "name": "AIC B 08 2014.pdf",
+   "title": "AIC B 08/2014. Erhvervsmæssig mv. brug af ubemandede luftfartøjer (UAS/RPAS)",
+   "parentId": 1219
+  },
+  {
+   "id": 1224,
+   "name": "AIC B 31 2014.pdf",
+   "title": "AIC B 31/2014. Mode S transponder ICAO adresse og ELT kode for ultralette luftfartøjer ",
+   "parentId": 1219
+  },
+  {
+   "id": 1230,
+   "name": "AIC B 14 2014.pdf",
+   "title": "AIC B 14/2014. Lempelse af udstyrskrav i BL 1-12 for GA helikoptere, som anvendes til VFR-NAT flyvning",
+   "parentId": 1219
+  },
+  {
+   "id": 1232,
+   "name": "AIC B 20 2014.pdf",
+   "title": "AIC B 20/2014. Information til CAMO-organisationer om operation i områder med vulkansk aske.",
+   "parentId": 1219
+  },
+  {
+   "id": 1238,
+   "name": "AIC B 18 2009.pdf",
+   "title": "AIC B 18/2009. Forlængelse af Airworthiness Review Certificate (ARC) for luftfartøjer, som anvendes til erhvervsmæssig lufttransport. (Er optaget på en AOC-holders Operations Specifications)",
+   "parentId": 1237
+  },
+  {
+   "id": 1239,
+   "name": "AIC B 01 2009.pdf",
+   "title": "AIC B 01/2009. BL 6-71 vedrørende \"Bestemmelser om FIS- og FIS-elevcertifikat\"",
+   "parentId": 1237
+  },
+  {
+   "id": 1241,
+   "name": "AIC B 21 2009.pdf",
+   "title": "AIC B 21/2009.Radiostyring af luftfartøjer omfattet af BL 9-4 pkt. 4.2. (Stormodeller)",
+   "parentId": 1237
+  },
+  {
+   "id": 1242,
+   "name": "AIC B 55 2009.pdf",
+   "title": "AIC B 55/2009. Planlægning af besigtigelser",
+   "parentId": 1237
+  },
+  {
+   "id": 1260,
+   "name": "AIC B 21 2016.pdf",
+   "title": "AIC B 21/2016. Introduktionsflyvninger.",
+   "parentId": 1245
+  },
+  {
+   "id": 1261,
+   "name": "AIC B 01 2016.pdf",
+   "title": "AIC B 01/2016. Ny CS-STAN",
+   "parentId": 1245
+  },
+  {
+   "id": 1263,
+   "name": "AIC B 02 2016.pdf",
+   "title": "AIC B 02/2016. Udstedelse og forlængelse af luftdygtighedseftersynsbevis (ARC) ved hjælp af \"certified true copy\".",
+   "parentId": 1245
+  },
+  {
+   "id": 1265,
+   "name": "AIC B 11 2016.pdf",
+   "title": "AIC B 11/2016. Flyvning med droner indenfor 5 km af offentlige flyvepladser/8 km fra militære flyvestationer.",
+   "parentId": 1245
+  },
+  {
+   "id": 1269,
+   "name": "AIC B-19-2006.pdf",
+   "title": "AIC B 19/2006. Fremstilling, ændring eller reparation af TSO- og ETSO artikler.",
+   "parentId": 1268
+  },
+  {
+   "id": 1270,
+   "name": "AIC B-06-2006.pdf",
+   "title": "AIC B 06/2006. Øvelse i nødprocedure under skoleflyvning.",
+   "parentId": 1268
+  },
+  {
+   "id": 1283,
+   "name": "AIC B 29 2011.pdf",
+   "title": "AIC B 29/2011. Godkendte redningsveste og redningsdragter til dansk registrerede luftfartøjer",
+   "parentId": 1280
+  },
+  {
+   "id": 1287,
+   "name": "AIC B 39 2012.pdf",
+   "title": "AIC B 39/2012. Minimumskrav til procedurer og dokumentation for \"Compliance Audit\" under Part M og Part 145",
+   "parentId": 1286
+  },
+  {
+   "id": 1292,
+   "name": "AIC B 32 2012.pdf",
+   "title": "AIC B 32/2012. Brug af Bio-benzin (Autobenzin indeholdende Ethanol og/eller Methanol) i luftfartøjer",
+   "parentId": 1286
+  },
+  {
+   "id": 1299,
+   "name": "AIC B 37 2012.pdf",
+   "title": "AIC B 37/2012. Generel dispensation fra forbud mod overflyvning af tæt bebyggede områder med visse luftfartøjer",
+   "parentId": 1286
+  },
+  {
+   "id": 1301,
+   "name": "AIC B 13 2012.pdf",
+   "title": "AIC B 13/2012. Vedrørende ændring af BL 1-3 m.h.t. gældende luftdygtighedsdirektiver for luftfartøjstyper, der ikke er overført til EASA",
+   "parentId": 1286
+  },
+  {
+   "id": 1342,
+   "name": "AIC B 33 2004.pdf",
+   "title": "AIC B 33/2004. SLV's dispensationspraksis (BL 3-5 og BL 3-9)",
+   "parentId": 1165
+  },
+  {
+   "id": 1349,
+   "name": "EK_AD_2_EKCH_AOC_A_04_L_en.pdf",
+   "title": "14. EKCH AOC - A RWY 04L",
+   "parentId": 378
+  },
+  {
+   "id": 1355,
+   "name": "BG_Circ_2017_A_01_en.pdf",
+   "title": "AIC A 2017: 01/17 Introduction of GNSS longitudinal separation within Sondrestrom airspace.",
+   "parentId": 266
+  },
+  {
+   "id": 1365,
+   "name": "EK_ENR_6_3_1_en.pdf",
+   "title": "ENR 6.3 FAB - Functional Airspace Block",
+   "parentId": 588
+  },
+  {
+   "id": 1371,
+   "name": "AIC B 05 2017.pdf",
+   "title": "AIC B 05/2017. Klarificering af landinger i forbindelse med prøveflyvningstræning (Base Training).",
+   "parentId": 1271
+  },
+  {
+   "id": 1406,
+   "name": "AIC B 07 2017.pdf",
+   "title": "AIC B 07/2017. Dispensation fra visse dele af BL 9-06.",
+   "parentId": 1271
+  },
+  {
+   "id": 1453,
+   "name": "EK_AD_2_EKVJ_LOC_27_ACFT_CAT_A_B_en.pdf",
+   "title": "08. EKVJ LOC 27 (ACFT CAT A/B)",
+   "parentId": 546
+  },
+  {
+   "id": 1454,
+   "name": "EK_AD_2_EKVJ_LOC_27_ACFT_CAT_C_en.pdf",
+   "title": "09. EKVJ LOC 27 (ACFT CAT C)",
+   "parentId": 546
+  },
+  {
+   "id": 1482,
+   "name": "AIC B 09 2017.pdf",
+   "title": "AIC B 09/2017. Vejledning, anvisninger og informationer til BL 1-3, Bestemmelser om vedligeholdelse af luftfartøjer (Bilag II luftfartøjer).",
+   "parentId": 1271
+  },
+  {
+   "id": 1492,
+   "name": "BG_Circ_2017_A_02_en.pdf",
+   "title": "AIC A 2017: 02/17. Introduction of lateral separation based on GNSS within Sondrestrom CTA/TMA.",
+   "parentId": 266
+  },
+  {
+   "id": 1525,
+   "name": "EK_AD_2_EKYT_AOC_A_08_L_en.pdf",
+   "title": "05. EKYT AOC - A 08L",
+   "parentId": 510
+  },
+  {
+   "id": 1556,
+   "name": "EK_AD_2_EKAH_APDC_en.pdf",
+   "title": "03. EKAH APDC",
+   "parentId": 492
+  },
+  {
+   "id": 1575,
+   "name": "EK_AD_2_EKRK_GMC_1_en.pdf",
+   "title": "05. EKRK GMC - 1",
+   "parentId": 460
+  },
+  {
+   "id": 1576,
+   "name": "EK_AD_2_EKRK_GMC_2_en.pdf",
+   "title": "06. EKRK GMC - 2",
+   "parentId": 460
+  },
+  {
+   "id": 1577,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_03_1_en.pdf",
+   "title": "17. RNAV (GNSS) RWY 03 - 1",
+   "parentId": 460
+  },
+  {
+   "id": 1578,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_03_2_en.pdf",
+   "title": "18. RNAV (GNSS) RWY 03 - 2",
+   "parentId": 460
+  },
+  {
+   "id": 1579,
+   "name": "EK_AD_2_EKRK_ILS_RWY_11_ACFT_CAT_A_B_en.pdf",
+   "title": "19. ILS RWY 11 (ACFT CAT A+B)",
+   "parentId": 460
+  },
+  {
+   "id": 1580,
+   "name": "EK_AD_2_EKRK_ILS_RWY_11_ACFT_CAT_C_D_en.pdf",
+   "title": "20. ILS RWY 11 (ACFT CAT C+D)",
+   "parentId": 460
+  },
+  {
+   "id": 1581,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_11_1_ACFT_CAT_A_B_en.pdf",
+   "title": "21. RNAV (GNSS) RWY 11 - 1 (ACFT CAT A+B)",
+   "parentId": 460
+  },
+  {
+   "id": 1582,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_11_2_ACFT_CAT_A_B_en.pdf",
+   "title": "22. RNAV (GNSS) RWY 11 - 2 (ACFT CAT A+B)",
+   "parentId": 460
+  },
+  {
+   "id": 1583,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_11_1_ACFT_CAT_C_D_en.pdf",
+   "title": "23. RNAV (GNSS) RWY 11 - 1 (ACFT CAT C+D)",
+   "parentId": 460
+  },
+  {
+   "id": 1584,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_11_2_ACFT_CAT_C_D_en.pdf",
+   "title": "24. RNAV (GNSS) RWY 11 - 2 (ACFT CAT C+D)",
+   "parentId": 460
+  },
+  {
+   "id": 1585,
+   "name": "EK_AD_2_EKRK_NDB_RWY_11_ACFT_CAT_A_B_en.pdf",
+   "title": "25. NDB RWY 11 (ACFT CAT A+B)",
+   "parentId": 460
+  },
+  {
+   "id": 1586,
+   "name": "EK_AD_2_EKRK_NDB_RWY_11_ACFT_CAT_C_D_en.pdf",
+   "title": "26. NDB RWY 11 (ACFT CAT C+D)",
+   "parentId": 460
+  },
+  {
+   "id": 1587,
+   "name": "EK_AD_2_EKRK_ILS_RWY_21_en.pdf",
+   "title": "27. ILS RWY 21",
+   "parentId": 460
+  },
+  {
+   "id": 1588,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_29_1_en.pdf",
+   "title": "28. RNAV (GNSS) RWY 29 - 1",
+   "parentId": 460
+  },
+  {
+   "id": 1589,
+   "name": "EK_AD_2_EKRK_RNAV_(GNSS)_RWY_29_2_en.pdf",
+   "title": "29. RNAV (GNSS) RWY 29 - 2",
+   "parentId": 460
+  },
+  {
+   "id": 1674,
+   "name": "BG_GEN_0_3_en.pdf",
+   "title": "GEN 0.3 Record AIP Supplements",
+   "parentId": 1105
+  },
+  {
+   "id": 1681,
+   "name": "EK_AD_2_EKKA_GLIDER_AREAS_en.pdf",
+   "title": "05. AD 2 EKKA Glider Areas",
+   "parentId": 82
+  },
+  {
+   "id": 1682,
+   "name": "EK_AD_3_EKRB_VAC_en.pdf",
+   "title": "03. EKRB VAC",
+   "parentId": 199
+  },
+  {
+   "id": 1683,
+   "name": "EK_AD_3_EKRH_VAC_en.pdf",
+   "title": "03. EKRH VAC",
+   "parentId": 195
+  },
+  {
+   "id": 1709,
+   "name": "AIC B 09 2018.pdf",
+   "title": "AIC B 09/2018. Certifikatrettigheder ved skift til lavere medical klasse.",
+   "parentId": 1559
+  },
+  {
+   "id": 1723,
+   "name": "EK_AD_2_EKBI_GLIDER_AREAS_IN_TMA_CTR_en.pdf",
+   "title": "06. AD 2 EKBI Glider Areas",
+   "parentId": 120
+  },
+  {
+   "id": 1771,
+   "name": "AIC B 13  2018.pdf",
+   "title": "AIC B 13/2018. Erhvervsmæssig brug af droner (UAS/RPAS) inden for bymæssigt område på Færøerne og i Grønland.",
+   "parentId": 1559
+  },
+  {
+   "id": 1781,
+   "name": "BG_ENR_6_7_3_en.pdf",
+   "title": "ENR 6.7.03 FIZ Radio Coverage (BGKK)",
+   "parentId": 850
+  },
+  {
+   "id": 1806,
+   "name": "BG_Circ_2019_A_01_en.pdf",
+   "title": "AIC A 2019: 01/19. Requirements for helicopters to operate or fly in Greenland.",
+   "parentId": 266
+  },
+  {
+   "id": 1815,
+   "name": "AIC B 03 2019.pdf",
+   "title": "AIC B 03/2019. Dispensation fra visse krav i BL 6-66.",
+   "parentId": 1801
+  },
+  {
+   "id": 1819,
+   "name": "EK_Circ_2019_A_01_en.pdf",
+   "title": "AIC A 2019:  01/19. Requirements for helicopters to operate or fly at the Faroe Islands.",
+   "parentId": 271
+  },
+  {
+   "id": 1853,
+   "name": "AIC B 05 2019.pdf",
+   "title": "AIC B 05/2019. Generel dispensation for at medbringe passager i henhold til BL 9-06, Bestemmelser om ultralette flyvemaskiner og BL 9-12, Bestemmelser om ultralette gyroplaner.",
+   "parentId": 1801
+  },
+  {
+   "id": 1866,
+   "name": "BG_ENR_3_2_en.pdf",
+   "title": "ENR 3.2 Area Navigation (RNAV) Routes",
+   "parentId": 823
+  },
+  {
+   "id": 1868,
+   "name": "EK_AD_2_EKKA_ILS_or_LOC_RWY_27_L_en.pdf",
+   "title": "08. EKKA ILS or LOC RWY 27L",
+   "parentId": 529
+  },
+  {
+   "id": 1874,
+   "name": "EK_AD_2_EKKA_ILS_or_LOC_RWY_09_R_en.pdf",
+   "title": "05. EKKA ILS or LOC RWY 09R",
+   "parentId": 529
+  },
+  {
+   "id": 1883,
+   "name": "EK_GEN_0_3_en.pdf",
+   "title": "GEN 0.3 Record of VFG SUP",
+   "parentId": 211
+  },
+  {
+   "id": 1889,
+   "name": "AIC B 06 2019.pdf",
+   "title": "AIC B 06/2019. Supplement til BL 3-31.",
+   "parentId": 1801
+  },
+  {
+   "id": 1899,
+   "name": "EK_AD_2_EKEB_HEL_SID_RNP_RWY_08_1_en.pdf",
+   "title": "08. EKEB HEL SID RNP RWY 08 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 1900,
+   "name": "EK_AD_2_EKEB_HEL_SID_RNP_RWY_08_2_en.pdf",
+   "title": "09. EKEB HEL SID RNP RWY 08 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 1902,
+   "name": "EK_AD_2_EKEB_HEL_SID_RNP_RWY_26_1_en.pdf",
+   "title": "10. EKEB HEL SID RNP RWY 26 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 1903,
+   "name": "EK_AD_2_EKEB_HEL_SID_RNP_RWY_26_2_en.pdf",
+   "title": "11. EKEB HEL SID RNP RWY 26 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 1906,
+   "name": "EK_AD_2_EKEB_RNP_RWY_08_1_en.pdf",
+   "title": "20. EKEB RNP RWY 08 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 1907,
+   "name": "EK_AD_2_EKEB_RNP_RWY_08_2_en.pdf",
+   "title": "21. EKEB RNP RWY 08 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 1912,
+   "name": "EK_AD_2_EKEB_RNP_RWY_26_1_en.pdf",
+   "title": "27. EKEB RNP RWY 26 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 1913,
+   "name": "EK_AD_2_EKEB_RNP_RWY_26_2_en.pdf",
+   "title": "28. EKEB RNP RWY 26 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 1934,
+   "name": "EK_AD_2_EKBI_RNP_RWY_09_1_en.pdf",
+   "title": "22. EKBI RNP RWY 09 - 1",
+   "parentId": 305
+  },
+  {
+   "id": 1935,
+   "name": "EK_AD_2_EKBI_RNP_RWY_09_2_en.pdf",
+   "title": "23. EKBI RNP RWY 09 - 2",
+   "parentId": 305
+  },
+  {
+   "id": 1937,
+   "name": "EK_AD_2_EKBI_RNP_RWY_27_1_en.pdf",
+   "title": "28. EKBI RNP RWY 27 - 1",
+   "parentId": 305
+  },
+  {
+   "id": 1938,
+   "name": "EK_AD_2_EKBI_RNP_RWY_27_2_en.pdf",
+   "title": "29. EKBI RNP RWY 27 - 2",
+   "parentId": 305
+  },
+  {
+   "id": 1965,
+   "name": "EK_AD_2_EKBI_GMC_1_en.pdf",
+   "title": "05. EKBI GMC - 1",
+   "parentId": 305
+  },
+  {
+   "id": 1967,
+   "name": "EK_AD_2_EKBI_GMC_3_en.pdf",
+   "title": "07. EKBI GMC - 3",
+   "parentId": 305
+  },
+  {
+   "id": 1968,
+   "name": "EK_AD_2_EKBI_GMC_2_en.pdf",
+   "title": "06. EKBI GMC - 2",
+   "parentId": 305
+  },
+  {
+   "id": 1980,
+   "name": "AIC B 02 2020.pdf",
+   "title": "AIC B 02/2020. UPRT (Upset Prevention and Recovery Training).",
+   "parentId": 1956
+  },
+  {
+   "id": 2012,
+   "name": "EK_AD_2_EKRN_RNP_RWY_11_1_en.pdf",
+   "title": "06. EKRN RNP RWY 11 - 1",
+   "parentId": 569
+  },
+  {
+   "id": 2013,
+   "name": "EK_AD_2_EKRN_RNP_RWY_11_2_en.pdf",
+   "title": "07. EKRN RNP RWY 11 - 2",
+   "parentId": 569
+  },
+  {
+   "id": 2014,
+   "name": "EK_AD_2_EKRN_VOR_RWY_11_en.pdf",
+   "title": "09. EKRN VOR RWY 11",
+   "parentId": 569
+  },
+  {
+   "id": 2015,
+   "name": "EK_AD_2_EKRN_ILS_RWY_29_en.pdf",
+   "title": "10. EKRN ILS RWY 29",
+   "parentId": 569
+  },
+  {
+   "id": 2017,
+   "name": "EK_AD_2_EKRN_RNP_RWY_29_2_en.pdf",
+   "title": "12. EKRN RNP RWY 29 - 2",
+   "parentId": 569
+  },
+  {
+   "id": 2018,
+   "name": "EK_AD_2_EKRN_VOR_RWY_29_en.pdf",
+   "title": "14. EKRN VOR RWY 29",
+   "parentId": 569
+  },
+  {
+   "id": 2046,
+   "name": "EK_AD_2_EKVJ_ADC_en.pdf",
+   "title": "02. EKVJ ADC",
+   "parentId": 546
+  },
+  {
+   "id": 2047,
+   "name": "EK_AD_2_EKVJ_APDC_en.pdf",
+   "title": "03. EKVJ APDC",
+   "parentId": 546
+  },
+  {
+   "id": 2048,
+   "name": "AIC B 10 2020.pdf",
+   "title": "AIC B 10/2020. Praksis ved ansøgninger og godkendelser af RNP-anflyvninger i ukontrolleret luftrum.",
+   "parentId": 1956
+  },
+  {
+   "id": 2060,
+   "name": "AIC B 13 2020.pdf",
+   "title": "AIC B 13/2020. Ændring af udøvelseskrav til vedligeholdelse af rettigheder på Ultralette luftfartøjer.",
+   "parentId": 1956
+  },
+  {
+   "id": 2085,
+   "name": "EK_AD_2_EKSB_RNP_RWY_14_1_en.pdf",
+   "title": "03. EKSB RNP RWY 14 - 1",
+   "parentId": 446
+  },
+  {
+   "id": 2086,
+   "name": "EK_AD_2_EKSB_RNP_RWY_14_2_en.pdf",
+   "title": "04. EKSB RNP RWY 14 - 2",
+   "parentId": 446
+  },
+  {
+   "id": 2090,
+   "name": "EK_AD_2_EKSB_ILS_LOC_RWY_32_en.pdf",
+   "title": "05. EKSB ILS or LOC RWY 32",
+   "parentId": 446
+  },
+  {
+   "id": 2091,
+   "name": "EK_AD_2_EKSB_RNP_RWY_32_1_en.pdf",
+   "title": "06. EKSB RNP RWY 32 - 1",
+   "parentId": 446
+  },
+  {
+   "id": 2092,
+   "name": "EK_AD_2_EKSB_RNP_RWY_32_2_en.pdf",
+   "title": "07. EKSB RNP RWY 32 - 2",
+   "parentId": 446
+  },
+  {
+   "id": 2113,
+   "name": "AIC B 10 2021.pdf",
+   "title": "AIC B 10/2021. Recency krav for SPL og BPL.",
+   "parentId": 2071
+  },
+  {
+   "id": 2123,
+   "name": "AIC B 12 2021.pdf",
+   "title": "AIC B 12/2021. Retningslinje for uddannelse på flyvemaskiner med push/pull-konfiguration (centreline thrust).",
+   "parentId": 2071
+  },
+  {
+   "id": 2143,
+   "name": "AIC B 14 2021.pdf",
+   "title": "AIC B 14/2021. Instructor Refresher Seminar.",
+   "parentId": 2071
+  },
+  {
+   "id": 2158,
+   "name": "BG_AD_2_BGAA_RNP_RWY_11_1_en.pdf",
+   "title": "04. BGAA RNP RWY 11 - 1",
+   "parentId": 928
+  },
+  {
+   "id": 2159,
+   "name": "BG_AD_2_BGAA_RNP_RWY_11_2_en.pdf",
+   "title": "05. BGAA RNP RWY 11 - 2",
+   "parentId": 928
+  },
+  {
+   "id": 2160,
+   "name": "BG_AD_2_BGAA_RNP_RWY_29_1_en.pdf",
+   "title": "06. BGAA RNP RWY 29 - 1",
+   "parentId": 928
+  },
+  {
+   "id": 2161,
+   "name": "BG_AD_2_BGAA_RNP_RWY_29_2_en.pdf",
+   "title": "07. BGAA RNP RWY 29 - 2",
+   "parentId": 928
+  },
+  {
+   "id": 2162,
+   "name": "BG_AD_2_BGAA_NDB_RWY_29_en.pdf",
+   "title": "08. BGAA NDB RWY 29",
+   "parentId": 928
+  },
+  {
+   "id": 2163,
+   "name": "BG_AD_2_BGSS_STAR_RWY_13_31_en.pdf",
+   "title": "05. BGSS STAR RWY 13 / 31",
+   "parentId": 973
+  },
+  {
+   "id": 2164,
+   "name": "BG_AD_2_BGSS_RNP_Z_RWY_13_1_en.pdf",
+   "title": "06. BGSS RNP Z RWY 13 - 1",
+   "parentId": 973
+  },
+  {
+   "id": 2165,
+   "name": "BG_AD_2_BGSS_RNP_Z_RWY_13_2_en.pdf",
+   "title": "07. BGSS RNP Z RWY 13 - 2",
+   "parentId": 973
+  },
+  {
+   "id": 2166,
+   "name": "BG_AD_2_BGSS_RNP_Y_RWY_13_1_en.pdf",
+   "title": "08. BGSS RNP Y RWY 13 - 1",
+   "parentId": 973
+  },
+  {
+   "id": 2167,
+   "name": "BG_AD_2_BGSS_RNP_Y_RWY_13_2_en.pdf",
+   "title": "09. BGSS RNP Y RWY 13 - 2",
+   "parentId": 973
+  },
+  {
+   "id": 2168,
+   "name": "BG_AD_2_BGSS_NDB_RWY_13_en.pdf",
+   "title": "10. BGSS NDB RWY 13",
+   "parentId": 973
+  },
+  {
+   "id": 2169,
+   "name": "BG_AD_2_BGSS_RNP_A_1_en.pdf",
+   "title": "11. BGSS RNP A - 1",
+   "parentId": 973
+  },
+  {
+   "id": 2170,
+   "name": "BG_AD_2_BGSS_RNP_A_2_en.pdf",
+   "title": "12. BGSS RNP A - 2",
+   "parentId": 973
+  },
+  {
+   "id": 2171,
+   "name": "BG_AD_2_BGSS_RNP_B_1_en.pdf",
+   "title": "13. BGSS RNP B - 1",
+   "parentId": 973
+  },
+  {
+   "id": 2172,
+   "name": "BG_AD_2_BGSS_RNP_B_2_en.pdf",
+   "title": "14. BGSS RNP B - 2",
+   "parentId": 973
+  },
+  {
+   "id": 2195,
+   "name": "BG_AD_4_BGAR_en.pdf",
+   "title": "Arsuk (BGAR)",
+   "parentId": 878
+  },
+  {
+   "id": 2196,
+   "name": "BG_AD_4_BGIQ_en.pdf",
+   "title": "Itilleq (BGIQ)",
+   "parentId": 878
+  },
+  {
+   "id": 2197,
+   "name": "BG_AD_4_BGSA_en.pdf",
+   "title": "Sarfannguit (BGSA)",
+   "parentId": 878
+  },
+  {
+   "id": 2254,
+   "name": "AIC B 23 2021.pdf",
+   "title": "AIC B 23/2021. Ændringer til certifikatpåtegning i dansk udstedte flyvebesætningscertifikater.",
+   "parentId": 2071
+  },
+  {
+   "id": 2264,
+   "name": "EK_Circ_2022_A_01_en.pdf",
+   "title": "AIC A 2022: 01/22. Requirements to providers of flight procedure design services, including validation of flight procedures, as of 27 January 2022.",
+   "parentId": 276
+  },
+  {
+   "id": 2267,
+   "name": "EK_ENR_6_5_1_en.pdf",
+   "title": "ENR 6.5 - 1 Helicopter Routes",
+   "parentId": 588
+  },
+  {
+   "id": 2289,
+   "name": "AIC B 02 2022.pdf",
+   "title": "AIC B 02/2022. Enroute instrument rating (EIR) udgår den 8. september 2022.",
+   "parentId": 2288
+  },
+  {
+   "id": 2336,
+   "name": "BG_AD_2_BGCO_RNP_RWY_35_1_en.pdf",
+   "title": "03. BGCO RNP RWY 35 - 1",
+   "parentId": 966
+  },
+  {
+   "id": 2337,
+   "name": "BG_AD_2_BGCO_RNP_RWY_35_2_en.pdf",
+   "title": "04. BGCO RNP RWY 35 - 2",
+   "parentId": 966
+  },
+  {
+   "id": 2338,
+   "name": "BG_AD_2_BGCO_RNP_A_1_en.pdf",
+   "title": "05. BGCO RNP A - 1",
+   "parentId": 966
+  },
+  {
+   "id": 2339,
+   "name": "BG_AD_2_BGCO_RNP_A_2_en.pdf",
+   "title": "06. BGCO RNP A - 2",
+   "parentId": 966
+  },
+  {
+   "id": 2340,
+   "name": "BG_AD_2_BGCO_RNP_B_1_en.pdf",
+   "title": "07. BGCO RNP B - 1",
+   "parentId": 966
+  },
+  {
+   "id": 2341,
+   "name": "BG_AD_2_BGCO_RNP_B_2_en.pdf",
+   "title": "08. BGCO RNP B - 2",
+   "parentId": 966
+  },
+  {
+   "id": 2342,
+   "name": "BG_AD_2_BGCO_NDB_A_en.pdf",
+   "title": "09. BGCO NDB A",
+   "parentId": 966
+  },
+  {
+   "id": 2343,
+   "name": "BG_AD_2_BGCO_NDB_B_en.pdf",
+   "title": "10. BGCO NDB B",
+   "parentId": 966
+  },
+  {
+   "id": 2344,
+   "name": "BG_AD_2_BGCO_VAC_en.pdf",
+   "title": "11. BGCO VAC",
+   "parentId": 966
+  },
+  {
+   "id": 2452,
+   "name": "EK_AD_2_EKVD_RNP_RWY_01_1_en.pdf",
+   "title": "03. EKVD RNP RWY 01 - 1",
+   "parentId": 519
+  },
+  {
+   "id": 2453,
+   "name": "EK_AD_2_EKVD_RNP_RWY_01_2_en.pdf",
+   "title": "04. EKVD RNP RWY 01 - 2",
+   "parentId": 519
+  },
+  {
+   "id": 2454,
+   "name": "EK_AD_2_EKVD_RNP_RWY_19_1_en.pdf",
+   "title": "06. EKVD RNP RWY 19 - 1",
+   "parentId": 519
+  },
+  {
+   "id": 2455,
+   "name": "EK_AD_2_EKVD_RNP_RWY_19_2_en.pdf",
+   "title": "07. EKVD RNP RWY 19 - 2",
+   "parentId": 519
+  },
+  {
+   "id": 2456,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_L_1_en.pdf",
+   "title": "22. EKCH RNAV SID RWY 04 L - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2457,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_L_2_en.pdf",
+   "title": "23. EKCH RNAV SID RWY 04 L - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2458,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_L_3_en.pdf",
+   "title": "24. EKCH RNAV SID RWY 04 L - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2459,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_L_4_en.pdf",
+   "title": "25. EKCH RNAV SID RWY 04 L - 4",
+   "parentId": 378
+  },
+  {
+   "id": 2460,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_L_5_en.pdf",
+   "title": "26. EKCH RNAV SID RWY 04 L - 5",
+   "parentId": 378
+  },
+  {
+   "id": 2461,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_R_1_en.pdf",
+   "title": "27. EKCH RNAV SID RWY 04 R - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2462,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_R_2_en.pdf",
+   "title": "28. EKCH RNAV SID RWY 04 R - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2463,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_R_3_en.pdf",
+   "title": "29. EKCH RNAV SID RWY 04 R - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2464,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_R_4_en.pdf",
+   "title": "30. EKCH RNAV SID RWY 04 R - 4",
+   "parentId": 378
+  },
+  {
+   "id": 2465,
+   "name": "EK_AD_2_EKCH_RNAV_SID_04_R_5_en.pdf",
+   "title": "31. EKCH RNAV SID RWY 04 R - 5",
+   "parentId": 378
+  },
+  {
+   "id": 2466,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_L_1_en.pdf",
+   "title": "32. EKCH RNAV SID RWY 22 L - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2467,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_L_2_en.pdf",
+   "title": "33. EKCH RNAV SID RWY 22 L - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2468,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_L_3_en.pdf",
+   "title": "34. EKCH RNAV SID RWY 22 L - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2469,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_L_4_en.pdf",
+   "title": "35. EKCH RNAV SID RWY 22 L - 4",
+   "parentId": 378
+  },
+  {
+   "id": 2470,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_L_5_en.pdf",
+   "title": "36. EKCH RNAV SID RWY 22 L - 5",
+   "parentId": 378
+  },
+  {
+   "id": 2471,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_R_1_en.pdf",
+   "title": "37. EKCH RNAV SID RWY 22 R - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2472,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_R_2_en.pdf",
+   "title": "38. EKCH RNAV SID RWY 22 R - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2473,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_R_3_en.pdf",
+   "title": "39. EKCH RNAV SID RWY 22 R - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2474,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_R_4_en.pdf",
+   "title": "40. EKCH RNAV SID RWY 22 R - 4",
+   "parentId": 378
+  },
+  {
+   "id": 2475,
+   "name": "EK_AD_2_EKCH_RNAV_SID_22_R_5_en.pdf",
+   "title": "41. EKCH RNAV SID RWY 22 R - 5",
+   "parentId": 378
+  },
+  {
+   "id": 2476,
+   "name": "EK_AD_2_EKCH_RNAV_SID_12_1_en.pdf",
+   "title": "42. EKCH RNAV SID RWY 12 - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2477,
+   "name": "EK_AD_2_EKCH_RNAV_SID_12_2_en.pdf",
+   "title": "43. EKCH RNAV SID RWY 12 - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2478,
+   "name": "EK_AD_2_EKCH_RNAV_SID_12_3_en.pdf",
+   "title": "44. EKCH RNAV SID RWY 12 - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2479,
+   "name": "EK_AD_2_EKCH_RNAV_SID_12_4_en.pdf",
+   "title": "45. EKCH RNAV SID RWY 12 - 4",
+   "parentId": 378
+  },
+  {
+   "id": 2480,
+   "name": "EK_AD_2_EKCH_RNAV_SID_12_5_en.pdf",
+   "title": "46. EKCH RNAV SID RWY 12 - 5",
+   "parentId": 378
+  },
+  {
+   "id": 2481,
+   "name": "EK_AD_2_EKCH_RNAV_SID_30_1_en.pdf",
+   "title": "47. EKCH RNAV SID RWY 30 - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2482,
+   "name": "EK_AD_2_EKCH_RNAV_SID_30_2_en.pdf",
+   "title": "48. EKCH RNAV SID RWY 30 - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2483,
+   "name": "EK_AD_2_EKCH_RNAV_SID_30_3_en.pdf",
+   "title": "49. EKCH RNAV SID RWY 30 - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2484,
+   "name": "EK_AD_2_EKCH_RNAV_SID_30_4_en.pdf",
+   "title": "50. EKCH RNAV SID RWY 30 - 4",
+   "parentId": 378
+  },
+  {
+   "id": 2485,
+   "name": "EK_AD_2_EKCH_RNAV_SID_30_5_en.pdf",
+   "title": "51. EKCH RNAV SID RWY 30 - 5",
+   "parentId": 378
+  },
+  {
+   "id": 2486,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_04_L_R_1_en.pdf",
+   "title": "52. EKCH RNAV STAR RWY 04 L / R - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2487,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_04_L_R_2_en.pdf",
+   "title": "53. EKCH RNAV STAR RWY 04 L / R - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2488,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_04_L_R_3_en.pdf",
+   "title": "54. EKCH RNAV STAR RWY 04 L / R - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2489,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_22_L_R_1_en.pdf",
+   "title": "55. EKCH RNAV STAR RWY 22 L / R - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2490,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_22_L_R_2_en.pdf",
+   "title": "56. EKCH RNAV STAR RWY 22 L / R - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2491,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_22_L_R_3_en.pdf",
+   "title": "57. EKCH RNAV STAR RWY 22 L / R - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2492,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_12_1_en.pdf",
+   "title": "58. EKCH RNAV STAR RWY 12 - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2493,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_12_2_en.pdf",
+   "title": "59. EKCH RNAV STAR RWY 12 - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2494,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_12_3_en.pdf",
+   "title": "60. EKCH RNAV STAR RWY 12 - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2495,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_30_1_en.pdf",
+   "title": "61. EKCH RNAV STAR RWY 30 - 1",
+   "parentId": 378
+  },
+  {
+   "id": 2496,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_30_2_en.pdf",
+   "title": "62. EKCH RNAV STAR RWY 30 - 2",
+   "parentId": 378
+  },
+  {
+   "id": 2497,
+   "name": "EK_AD_2_EKCH_RNAV_STAR_30_3_en.pdf",
+   "title": "63. EKCH RNAV STAR RWY 30 - 3",
+   "parentId": 378
+  },
+  {
+   "id": 2499,
+   "name": "BG_AD_2_BGJN_AOC_A_06_en.pdf",
+   "title": "03. BGJN AOC - A 06",
+   "parentId": 1007
+  },
+  {
+   "id": 2500,
+   "name": "BG_AD_2_BGJN_AOC_A_24_en.pdf",
+   "title": "04. BGJN AOC - A 24",
+   "parentId": 1007
+  },
+  {
+   "id": 2501,
+   "name": "BG_AD_2_BGJN_NDB_Z_RWY_06_en.pdf",
+   "title": "05. BGJN NDB Z RWY 06",
+   "parentId": 1007
+  },
+  {
+   "id": 2502,
+   "name": "BG_AD_2_BGJN_NDB_Y_RWY_06_en.pdf",
+   "title": "06. BGJN NDB Y RWY 06",
+   "parentId": 1007
+  },
+  {
+   "id": 2503,
+   "name": "BG_AD_2_BGJN_NDB_X_RWY_06_en.pdf",
+   "title": "07. BGJN NDB X RWY 06",
+   "parentId": 1007
+  },
+  {
+   "id": 2504,
+   "name": "BG_AD_2_BGJN_NDB_RWY_24_en.pdf",
+   "title": "08. BGJN NDB RWY 24",
+   "parentId": 1007
+  },
+  {
+   "id": 2505,
+   "name": "BG_AD_2_BGJN_RNP_A_1_en.pdf",
+   "title": "09. BGJN RNP A - 1",
+   "parentId": 1007
+  },
+  {
+   "id": 2506,
+   "name": "BG_AD_2_BGJN_RNP_A_2_en.pdf",
+   "title": "10. BGJN RNP A - 2",
+   "parentId": 1007
+  },
+  {
+   "id": 2527,
+   "name": "BG_AD_2_BGGH_RNP_A_1_en.pdf",
+   "title": "32. BGGH RNP A - 1",
+   "parentId": 948
+  },
+  {
+   "id": 2528,
+   "name": "BG_AD_2_BGGH_RNP_A_2_en.pdf",
+   "title": "33. BGGH RNP A - 2",
+   "parentId": 948
+  },
+  {
+   "id": 2529,
+   "name": "BG_AD_2_BGGH_RNP_B_1_en.pdf",
+   "title": "34. BGGH RNP B - 1",
+   "parentId": 948
+  },
+  {
+   "id": 2530,
+   "name": "BG_AD_2_BGGH_RNP_B_2_en.pdf",
+   "title": "35. BGGH RNP B - 2",
+   "parentId": 948
+  },
+  {
+   "id": 2534,
+   "name": "EK_Circ_2022_A_04_en.pdf",
+   "title": "AIC A 2022: 04/22. Right turn as an option in the traffic circuit at AFIS-aerodromes.",
+   "parentId": 276
+  },
+  {
+   "id": 2535,
+   "name": "EK_Circ_2022_A_02_en.pdf",
+   "title": "AIC A 2022: 02/22. Right turn as an option in the traffic circuit at AFIS-aerodromes.",
+   "parentId": 271
+  },
+  {
+   "id": 2538,
+   "name": "BG_Circ_2022_A_02_en.pdf",
+   "title": "AIC A 2022: 02/22. Right turn as an option in the traffic circuit at AFIS-aerodromes.",
+   "parentId": 266
+  },
+  {
+   "id": 2554,
+   "name": "BG_AD_2_BGSF_LOC_Y_RWY_09_en.pdf",
+   "title": "15. BGSF LOC Y RWY 09",
+   "parentId": 1065
+  },
+  {
+   "id": 2555,
+   "name": "BG_AD_2_BGSF_RNP_RWY_09_1_en.pdf",
+   "title": "17. BGSF RNP RWY 09 - 1",
+   "parentId": 1065
+  },
+  {
+   "id": 2556,
+   "name": "BG_AD_2_BGSF_RNP_RWY_09_2_en.pdf",
+   "title": "18. BGSF RNP RWY 09 - 2",
+   "parentId": 1065
+  },
+  {
+   "id": 2557,
+   "name": "BG_AD_2_BGSF_NDB_Z_RWY_09_en.pdf",
+   "title": "19. BGSF NDB Z RWY 09",
+   "parentId": 1065
+  },
+  {
+   "id": 2558,
+   "name": "BG_AD_2_BGSF_NDB_Y_RWY_09_en.pdf",
+   "title": "20. BGSF NDB Y RWY 09",
+   "parentId": 1065
+  },
+  {
+   "id": 2559,
+   "name": "BG_AD_2_BGSF_RNP_A_1_en.pdf",
+   "title": "21. BGSF RNP A - 1",
+   "parentId": 1065
+  },
+  {
+   "id": 2560,
+   "name": "BG_AD_2_BGSF_RNP_A_2_en.pdf",
+   "title": "22. BGSF RNP A - 2",
+   "parentId": 1065
+  },
+  {
+   "id": 2561,
+   "name": "BG_AD_2_BGSF_RNP_B_1_en.pdf",
+   "title": "23. BGSF RNP B - 1",
+   "parentId": 1065
+  },
+  {
+   "id": 2562,
+   "name": "BG_AD_2_BGSF_RNP_B_2_en.pdf",
+   "title": "24. BGSF RNP B - 2",
+   "parentId": 1065
+  },
+  {
+   "id": 2563,
+   "name": "BG_AD_2_BGUK_TDZ_04_22_NON_STD_en.pdf",
+   "title": "03. BGUK TDZ RWY 04/22 NON-STD",
+   "parentId": 1018
+  },
+  {
+   "id": 2564,
+   "name": "BG_AD_2_BGUK_AOC_A_RWY_22_en.pdf",
+   "title": "04. BGUK AOC-A RWY 22",
+   "parentId": 1018
+  },
+  {
+   "id": 2565,
+   "name": "BG_AD_2_BGUK_RNP_RWY_22_1_en.pdf",
+   "title": "05. BGUK RNP RWY 22 - 1",
+   "parentId": 1018
+  },
+  {
+   "id": 2566,
+   "name": "BG_AD_2_BGUK_RNP_RWY_22_2_en.pdf",
+   "title": "06. BGUK RNP RWY 22 - 2",
+   "parentId": 1018
+  },
+  {
+   "id": 2568,
+   "name": "BG_AD_2_BGUK_RNP_A_1_en.pdf",
+   "title": "07. BGUK RNP A - 1",
+   "parentId": 1018
+  },
+  {
+   "id": 2569,
+   "name": "BG_AD_2_BGUK_RNP_A_2_en.pdf",
+   "title": "08. BGUK RNP A - 2",
+   "parentId": 1018
+  },
+  {
+   "id": 2602,
+   "name": "BG_AD_2_BGGH_ADC_en.pdf",
+   "title": "02. BGGH ADC",
+   "parentId": 948
+  },
+  {
+   "id": 2603,
+   "name": "BG_AD_2_BGQQ_AOC_A_34_16_en.pdf",
+   "title": "03. BGQQ AOC-A 34 / 16",
+   "parentId": 983
+  },
+  {
+   "id": 2604,
+   "name": "BG_AD_2_BGQQ_RNP_RWY_34_1_en.pdf",
+   "title": "04. BGQQ RNP RWY 34 - 1",
+   "parentId": 983
+  },
+  {
+   "id": 2605,
+   "name": "BG_AD_2_BGQQ_RNP_RWY_34_2_en.pdf",
+   "title": "05. BGQQ RNP RWY 34 - 2",
+   "parentId": 983
+  },
+  {
+   "id": 2606,
+   "name": "BG_AD_2_BGQQ_NDB_Z_34_en.pdf",
+   "title": "06. BGQQ NDB Z RWY 34",
+   "parentId": 983
+  },
+  {
+   "id": 2607,
+   "name": "BG_AD_2_BGQQ_NDB_Y_34_en.pdf",
+   "title": "07. BGQQ NDB Y RWY 34",
+   "parentId": 983
+  },
+  {
+   "id": 2608,
+   "name": "BG_AD_2_BGQQ_RNP_A_1_en.pdf",
+   "title": "08. BGQQ RNP A - 1",
+   "parentId": 983
+  },
+  {
+   "id": 2609,
+   "name": "BG_AD_2_BGQQ_RNP_A_2_en.pdf",
+   "title": "09. BGQQ RNP A - 2",
+   "parentId": 983
+  },
+  {
+   "id": 2610,
+   "name": "BG_AD_2_BGQQ_RNP_B_1_en.pdf",
+   "title": "10. BGQQ RNP B - 1",
+   "parentId": 983
+  },
+  {
+   "id": 2611,
+   "name": "BG_AD_2_BGQQ_RNP_B_2_en.pdf",
+   "title": "11. BGQQ RNP B - 2",
+   "parentId": 983
+  },
+  {
+   "id": 2614,
+   "name": "EK_AD_2_EKYT_RNP_RWY_08_L_1_en.pdf",
+   "title": "08. EKYT RNP RWY 08L - 1",
+   "parentId": 510
+  },
+  {
+   "id": 2615,
+   "name": "EK_AD_2_EKYT_RNP_RWY_08_L_2_en.pdf",
+   "title": "09. EKYT RNP RWY 08L - 2",
+   "parentId": 510
+  },
+  {
+   "id": 2616,
+   "name": "EK_AD_2_EKYT_RNP_RWY_26_R_1_en.pdf",
+   "title": "12. EKYT RNP RWY 26R - 1",
+   "parentId": 510
+  },
+  {
+   "id": 2617,
+   "name": "EK_AD_2_EKYT_RNP_RWY_26_R_2_en.pdf",
+   "title": "13. EKYT RNP RWY 26R - 2",
+   "parentId": 510
+  },
+  {
+   "id": 2618,
+   "name": "EK_AD_2_EKRN_RNP_RWY_11_3_en.pdf",
+   "title": "08. EKRN RNP RWY 11 - 3",
+   "parentId": 569
+  },
+  {
+   "id": 2619,
+   "name": "EK_AD_2_EKRN_RNP_RWY_29_3_en.pdf",
+   "title": "13. EKRN RNP RWY 29 - 3",
+   "parentId": 569
+  },
+  {
+   "id": 2620,
+   "name": "EK_AD_2_EKKA_RNP_RWY_09_R_1_en.pdf",
+   "title": "06. EKKA RNP RWY 09R - 1",
+   "parentId": 529
+  },
+  {
+   "id": 2621,
+   "name": "EK_AD_2_EKKA_RNP_RWY_09_R_2_en.pdf",
+   "title": "07. EKKA RNP RWY 09R - 2",
+   "parentId": 529
+  },
+  {
+   "id": 2622,
+   "name": "EK_AD_2_EKKA_RNP_RWY_27_L_1_en.pdf",
+   "title": "09. EKKA RNP RWY 27L - 1",
+   "parentId": 529
+  },
+  {
+   "id": 2623,
+   "name": "EK_AD_2_EKKA_RNP_RWY_27_L_2_en.pdf",
+   "title": "10. EKKA RNP RWY 27L - 2",
+   "parentId": 529
+  },
+  {
+   "id": 2624,
+   "name": "EK_AD_2_EKSP_ILS_RWY_10_L_ACFT_CAT_A_B_en.pdf",
+   "title": "03. EKSP ILS RWY 10L (ACFT CAT A/B)",
+   "parentId": 336
+  },
+  {
+   "id": 2625,
+   "name": "EK_AD_2_EKSP_ILS_RWY_10_L_ACFT_CAT_C_D_en.pdf",
+   "title": "04. EKSP ILS RWY 10L (ACFT CAT C/D)",
+   "parentId": 336
+  },
+  {
+   "id": 2627,
+   "name": "EK_AD_2_EKSP_ILS_RWY_28_R_ACFT_CAT_A_B_en.pdf",
+   "title": "05. EKSP ILS RWY 28R (ACFT CAT A/B)",
+   "parentId": 336
+  },
+  {
+   "id": 2628,
+   "name": "EK_AD_2_EKSP_ILS_RWY_28_R_ACFT_CAT_C_D_en.pdf",
+   "title": "06. EKSP ILS RWY 28R (ACFT CAT C/D)",
+   "parentId": 336
+  },
+  {
+   "id": 2639,
+   "name": "EK_AD_2_EKYT_PATC_26_R_en.pdf",
+   "title": "06. EKYT PATC 26R",
+   "parentId": 510
+  },
+  {
+   "id": 2640,
+   "name": "EK_AD_2_EKYT_ILS_or_LOC_RWY_08_L_en.pdf",
+   "title": "07. EKYT ILS or LOC RWY 08L",
+   "parentId": 510
+  },
+  {
+   "id": 2644,
+   "name": "BG_AD_2_BGUQ_RNP_A_2_en.pdf",
+   "title": "05. BGUQ RNP A - 2",
+   "parentId": 935
+  },
+  {
+   "id": 2645,
+   "name": "BG_AD_2_BGUQ_RNP_B_1_en.pdf",
+   "title": "06. BGUQ RNP B - 1",
+   "parentId": 935
+  },
+  {
+   "id": 2646,
+   "name": "BG_AD_2_BGUQ_RNP_B_2_en.pdf",
+   "title": "07. BGUQ RNP B - 2",
+   "parentId": 935
+  },
+  {
+   "id": 2647,
+   "name": "BG_AD_2_BGUQ_NDB_A_en.pdf",
+   "title": "08. BGUQ NDB A",
+   "parentId": 935
+  },
+  {
+   "id": 2648,
+   "name": "BG_AD_2_BGUQ_NDB_B_en.pdf",
+   "title": "09. BGUQ NDB B",
+   "parentId": 935
+  },
+  {
+   "id": 2649,
+   "name": "BG_AD_2_BGUQ_NDB_C_en.pdf",
+   "title": "10. BGUQ NDB C",
+   "parentId": 935
+  },
+  {
+   "id": 2650,
+   "name": "BG_AD_2_BGUQ_RNP_A_1_en.pdf",
+   "title": "04. BGUQ RNP A - 1",
+   "parentId": 935
+  },
+  {
+   "id": 2660,
+   "name": "EK_AD_2_EKRN_ADC_en.pdf",
+   "title": "02. EKRN ADC",
+   "parentId": 569
+  },
+  {
+   "id": 2666,
+   "name": "EK_AD_2_EKOD_RNP_RWY_06_1_en.pdf",
+   "title": "06. EKOD RNP RWY 06 - 1",
+   "parentId": 556
+  },
+  {
+   "id": 2667,
+   "name": "EK_AD_2_EKOD_RNP_RWY_06_2_en.pdf",
+   "title": "07. EKOD RNP RWY 06 - 2",
+   "parentId": 556
+  },
+  {
+   "id": 2668,
+   "name": "EK_AD_2_EKOD_RNP_RWY_24_1_en.pdf",
+   "title": "10. EKOD RNP RWY 24 - 1",
+   "parentId": 556
+  },
+  {
+   "id": 2670,
+   "name": "EK_AD_2_EKVJ_RNP_RWY_09_1_en.pdf",
+   "title": "06. EKVJ RNP RWY 09 - 1",
+   "parentId": 546
+  },
+  {
+   "id": 2671,
+   "name": "EK_AD_2_EKVJ_RNP_RWY_09_2_en.pdf",
+   "title": "07. EKVJ RNP RWY 09 - 2",
+   "parentId": 546
+  },
+  {
+   "id": 2672,
+   "name": "EK_AD_2_EKVJ_RNP_RWY_27_1_en.pdf",
+   "title": "10. EKVJ RNP RWY 27 - 1",
+   "parentId": 546
+  },
+  {
+   "id": 2673,
+   "name": "EK_AD_2_EKVJ_RNP_RWY_27_2_en.pdf",
+   "title": "11. EKVJ RNP RWY 27 - 2",
+   "parentId": 546
+  },
+  {
+   "id": 2674,
+   "name": "EK_AD_2_EKOD_RNP_RWY_24_2_en.pdf",
+   "title": "11. EKOD RNP RWY 24 - 2",
+   "parentId": 556
+  },
+  {
+   "id": 2684,
+   "name": "EK_SUP_2023_03_en.pdf",
+   "title": "01. SUP 2023: 03/23 Temporary Restricted Areas \"EKR502 BRAVE LION NORTH\", \"EKR503 BRAVE LION EAST\" and \"EKR504 BRAVE LION SOUTH\".",
+   "parentId": 689
+  },
+  {
+   "id": 2685,
+   "name": "EK_SUP_2023_03_en.pdf",
+   "title": "01. SUP 2023: 03/23 Temporary Restricted Areas \"EKR502 BRAVE LION NORTH\", \"EKR503 BRAVE LION EAST\" and \"EKR504 BRAVE LION SOUTH\".",
+   "parentId": 251
+  },
+  {
+   "id": 2693,
+   "name": "AIC B 02 2023.pdf",
+   "title": "AIC B 02/2023. Startdistancer på græsbaner mv. for flyvemaskiner, hvis maksimalt tilladte startvægt ikke overstiger 5.700 kg.",
+   "parentId": 2657
+  },
+  {
+   "id": 2701,
+   "name": "EK_SUP_2023_05_en.pdf",
+   "title": "02. SUP 2023: 05/23 Temporary Restricted Area EKR505 FINDERUP",
+   "parentId": 689
+  },
+  {
+   "id": 2704,
+   "name": "EK_SUP_2023_05_en.pdf",
+   "title": "02. SUP 2023: 05/23 Temporary Restricted Area EKR505 FINDERUP",
+   "parentId": 251
+  },
+  {
+   "id": 2724,
+   "name": "EK_AD_2_EKYT_GMC_en.pdf",
+   "title": "04. EKYT GMC",
+   "parentId": 510
+  },
+  {
+   "id": 2727,
+   "name": "BG_ENR_6_1_5_en.pdf",
+   "title": "ENR 6.1.5 Routes above FL 195",
+   "parentId": 850
+  },
+  {
+   "id": 2728,
+   "name": "BG_ENR_6_1_7_en.pdf",
+   "title": "ENR 6.1.7 West coast central above FL 195",
+   "parentId": 850
+  },
+  {
+   "id": 2762,
+   "name": "EK_AIC_2023_B_03_en.pdf",
+   "title": "AIC B 03/2023. Krav til opnåelse og vedligeholdelse af pilotcertifikater til amatørbyggede helikoptere.",
+   "parentId": 2657
+  },
+  {
+   "id": 2767,
+   "name": "EK_AD_2_EKEB_EKHR_RNP_267_1_en.pdf",
+   "title": "12. EKHR RNP 267 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 2768,
+   "name": "EK_AD_2_EKEB_EKHR_RNP_267_2_en.pdf",
+   "title": "13. EKHR RNP 267 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 2769,
+   "name": "EK_AD_2_EKEB_EKHN_RNP_317_1_en.pdf",
+   "title": "14. EKHN RNP 317 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 2770,
+   "name": "EK_AD_2_EKEB_EKHN_RNP_317_2_en.pdf",
+   "title": "15. EKHN RNP 317 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 2772,
+   "name": "BG_AD_2_BGKK_AOC_A_10_en.pdf",
+   "title": "03. BGKK AOC-A 10",
+   "parentId": 958
+  },
+  {
+   "id": 2773,
+   "name": "BG_AD_2_BGKK_AOC_A_28_en.pdf",
+   "title": "04. BGKK AOC-A 28",
+   "parentId": 958
+  },
+  {
+   "id": 2774,
+   "name": "BG_AD_2_BGKK_RNP_RWY_10_1_en.pdf",
+   "title": "05. BGKK RNP RWY 10 - 1",
+   "parentId": 958
+  },
+  {
+   "id": 2775,
+   "name": "BG_AD_2_BGKK_RNP_RWY_10_2_en.pdf",
+   "title": "06. BGKK RNP RWY 10 - 2",
+   "parentId": 958
+  },
+  {
+   "id": 2776,
+   "name": "BG_AD_2_BGKK_NDB_RWY_10_en.pdf",
+   "title": "07. BGKK NDB RWY 10",
+   "parentId": 958
+  },
+  {
+   "id": 2777,
+   "name": "BG_AD_2_BGKK_RNP_A_1_en.pdf",
+   "title": "08. BGKK RNP A - 1",
+   "parentId": 958
+  },
+  {
+   "id": 2778,
+   "name": "BG_AD_2_BGKK_RNP_A_2_en.pdf",
+   "title": "09. BGKK RNP A - 2",
+   "parentId": 958
+  },
+  {
+   "id": 2779,
+   "name": "BG_AD_2_BGBW_SID_RWY_24_en.pdf",
+   "title": "07. BGBW SID RWY 24",
+   "parentId": 1042
+  },
+  {
+   "id": 2780,
+   "name": "BG_AD_2_BGBW_VMC_ARR_RWY_06_en.pdf",
+   "title": "08. BGBW VMC ARR RWY 06",
+   "parentId": 1042
+  },
+  {
+   "id": 2781,
+   "name": "BG_AD_2_BGBW_RNP_Z_RWY_06_1_en.pdf",
+   "title": "09. BGBW RNP Z RWY 06 - 1",
+   "parentId": 1042
+  },
+  {
+   "id": 2782,
+   "name": "BG_AD_2_BGBW_RNP_Z_RWY_06_2_en.pdf",
+   "title": "10. BGBW RNP Z RWY 06 - 2",
+   "parentId": 1042
+  },
+  {
+   "id": 2783,
+   "name": "BG_AD_2_BGBW_RNP_Y_RWY_06_1_en.pdf",
+   "title": "11. BGBW RNP Y RWY 06 - 1",
+   "parentId": 1042
+  },
+  {
+   "id": 2784,
+   "name": "BG_AD_2_BGBW_RNP_Y_RWY_06_2_en.pdf",
+   "title": "12. BGBW RNP Y RWY 06 - 2",
+   "parentId": 1042
+  },
+  {
+   "id": 2785,
+   "name": "BG_AD_2_BGBW_RNP_A_1_en.pdf",
+   "title": "13. BGBW RNP A - 1",
+   "parentId": 1042
+  },
+  {
+   "id": 2786,
+   "name": "BG_AD_2_BGBW_RNP_A_2_en.pdf",
+   "title": "14. BGBW RNP A - 2",
+   "parentId": 1042
+  },
+  {
+   "id": 2787,
+   "name": "BG_AD_2_BGBW_RNP_B_1_en.pdf",
+   "title": "15. BGBW RNP B - 1",
+   "parentId": 1042
+  },
+  {
+   "id": 2788,
+   "name": "BG_AD_2_BGBW_RNP_B_2_en.pdf",
+   "title": "16. BGBW RNP B - 2",
+   "parentId": 1042
+  },
+  {
+   "id": 2790,
+   "name": "BG_AD_2_BGBW_NDB_Z_RWY_06_en.pdf",
+   "title": "17. BGBW NDB Z RWY 06",
+   "parentId": 1042
+  },
+  {
+   "id": 2791,
+   "name": "BG_AD_2_BGBW_NDB_Y_RWY_06_en.pdf",
+   "title": "18. BGBW NDB Y RWY 06",
+   "parentId": 1042
+  },
+  {
+   "id": 2792,
+   "name": "BG_AD_2_BGBW_NDB_X_RWY_06_en.pdf",
+   "title": "19. BGBW NDB X RWY 06",
+   "parentId": 1042
+  },
+  {
+   "id": 2793,
+   "name": "BG_AD_2_BGBW_NDB_V_RWY_06_en.pdf",
+   "title": "20. BGBW NDB V RWY 06",
+   "parentId": 1042
+  },
+  {
+   "id": 2825,
+   "name": "BG_ENR_6_2_3_en.pdf",
+   "title": "ENR 6.2.3 PITUFFIK CTA. Compulsory Entry / Exit and Reporting Points",
+   "parentId": 850
+  },
+  {
+   "id": 2870,
+   "name": "BG_AD_2_BGMQ_TDZ_RWY_15_33_NON_STD_en.pdf",
+   "title": "03. BGMQ TDZ RWY 15/33 NON-STD",
+   "parentId": 998
+  },
+  {
+   "id": 2871,
+   "name": "BG_AD_2_BGMQ_AOC_A_15_en.pdf",
+   "title": "04. BGMQ AOC-A 15",
+   "parentId": 998
+  },
+  {
+   "id": 2872,
+   "name": "BG_AD_2_BGMQ_NDB_RWY_33_en.pdf",
+   "title": "08. BGMQ NDB RWY 33",
+   "parentId": 998
+  },
+  {
+   "id": 2873,
+   "name": "BG_AD_2_BGMQ_AOC_A_33_en.pdf",
+   "title": "05. BGMQ AOC-A 33",
+   "parentId": 998
+  },
+  {
+   "id": 2874,
+   "name": "EK_AD_2_EKAH_ILS_RWY_10_R_en.pdf",
+   "title": "07. EKAH ILS RWY 10R",
+   "parentId": 492
+  },
+  {
+   "id": 2875,
+   "name": "EK_AD_2_EKAH_RNP_RWY_10_R_1_en.pdf",
+   "title": "08. EKAH RNP RWY 10R - 1",
+   "parentId": 492
+  },
+  {
+   "id": 2876,
+   "name": "EK_AD_2_EKAH_RNP_RWY_10_R_2_en.pdf",
+   "title": "09. EKAH RNP RWY 10R - 2",
+   "parentId": 492
+  },
+  {
+   "id": 2877,
+   "name": "EK_AD_2_EKAH_NDB_RWY_10_R_en.pdf",
+   "title": "10. EKAH NDB RWY 10R",
+   "parentId": 492
+  },
+  {
+   "id": 2879,
+   "name": "EK_AD_2_EKAH_RNP_RWY_28_L_1_en.pdf",
+   "title": "12. EKAH RNP RWY 28L - 1",
+   "parentId": 492
+  },
+  {
+   "id": 2880,
+   "name": "EK_AD_2_EKAH_RNP_RWY_28_L_2_en.pdf",
+   "title": "13. EKAH RNP RWY 28L - 2",
+   "parentId": 492
+  },
+  {
+   "id": 2881,
+   "name": "EK_AD_2_EKAH_NDB_RWY_28_L_en.pdf",
+   "title": "14. EKAH NDB RWY 28L",
+   "parentId": 492
+  },
+  {
+   "id": 2906,
+   "name": "BG_SUP_2023_06_en.pdf",
+   "title": "01. SUP 2023: 06/23 Temporary Restricted Area BGR504 SANDFLUGTSDALEN.",
+   "parentId": 1084
+  },
+  {
+   "id": 2927,
+   "name": "EK_AD_2_EKBI_ILS_or_LOC_Z_RWY_09_1_CAT_I_II_III_en.pdf",
+   "title": "18. EKBI ILS or LOC Z RWY 09 - 1 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2928,
+   "name": "EK_AD_2_EKBI_ILS_OR_LOC_Z_RWY_09_2_CAT_I_II_III_en.pdf",
+   "title": "19. EKBI ILS or LOC Z RWY 09 - 2 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2929,
+   "name": "EK_AD_2_EKBI_ILS_or_LOC_Y_RWY_09_1_CAT_I_II_III_en.pdf",
+   "title": "20. EKBI ILS or LOC Y RWY 09 - 1 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2930,
+   "name": "EK_AD_2_EKBI_ILS_OR_LOC_Y_RWY_09_2_CAT_I_II_III_en.pdf",
+   "title": "21. EKBI ILS or LOC Y RWY 09 - 2 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2931,
+   "name": "EK_AD_2_EKBI_ILS_or_LOC_Z_RWY_27_1_CAT_I_II_III_en.pdf",
+   "title": "24. EKBI ILS or LOC Z RWY 27 - 1 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2932,
+   "name": "EK_AD_2_EKBI_ILS_OR_LOC_Z_RWY_27_2_CAT_I_II_III_en.pdf",
+   "title": "25. EKBI ILS or LOC Z RWY 27 - 2 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2933,
+   "name": "EK_AD_2_EKBI_ILS_or_LOC_Y_RWY_27_1_CAT_I_II_III_en.pdf",
+   "title": "26. EKBI ILS or LOC Y RWY 27 - 1 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2934,
+   "name": "EK_AD_2_EKBI_ILS_OR_LOC_Y_RWY_27_2_CAT_I_II_III_en.pdf",
+   "title": "27. EKBI ILS or LOC Y RWY 27 - 2 (CAT I+II+III)",
+   "parentId": 305
+  },
+  {
+   "id": 2990,
+   "name": "BG_AD_2_BGPT_RNP_RWY_17_1_en.pdf",
+   "title": "06. BGPT RNP RWY 17 - 1",
+   "parentId": 1030
+  },
+  {
+   "id": 2991,
+   "name": "BG_AD_2_BGPT_RNP_RWY_17_2_en.pdf",
+   "title": "07. BGPT RNP RWY 17 - 2",
+   "parentId": 1030
+  },
+  {
+   "id": 2992,
+   "name": "BG_AD_2_BGPT_RNP_A_1_en.pdf",
+   "title": "08. BGPT RNP A - 1",
+   "parentId": 1030
+  },
+  {
+   "id": 2993,
+   "name": "BG_AD_2_BGPT_RNP_A_2_en.pdf",
+   "title": "09. BGPT RNP A - 2",
+   "parentId": 1030
+  },
+  {
+   "id": 2994,
+   "name": "EK_AD_1_5_en.pdf",
+   "title": "AD 1.5 Status of Certification of Aerodromes",
+   "parentId": 299
+  },
+  {
+   "id": 2995,
+   "name": "EK_AD_2_EKAH_PATC_28L_en.pdf",
+   "title": "06. EKAH PATC 28L",
+   "parentId": 492
+  },
+  {
+   "id": 2996,
+   "name": "EK_AD_2_EKAH_ILS_RWY_28_L_en.pdf",
+   "title": "11. EKAH ILS RWY 28L",
+   "parentId": 492
+  },
+  {
+   "id": 3087,
+   "name": "EK_AIC_2023_B_ 06_en.pdf",
+   "title": "AIC B 06/2023 Mulighed for dispensation for krav i BL 9-6 til minimum nyttelast på visse ultralette luftfartøjer.",
+   "parentId": 2657
+  },
+  {
+   "id": 3104,
+   "name": "EK_AD_2_EKCH_RNP_RWY_04_L_1_en.pdf",
+   "title": "66. EKCH RNP RWY 04L – 1",
+   "parentId": 378
+  },
+  {
+   "id": 3106,
+   "name": "EK_AD_2_EKCH_RNP_RWY_04_R_1_en.pdf",
+   "title": "71. EKCH RNP RWY 04R – 1",
+   "parentId": 378
+  },
+  {
+   "id": 3107,
+   "name": "EK_AD_2_EKCH_RNP_RWY_04R_2_en.pdf",
+   "title": "72. EKCH RNP RWY 04R – 2",
+   "parentId": 378
+  },
+  {
+   "id": 3108,
+   "name": "EK_AD_2_EKCH_RNP_RWY_22_L_1_en.pdf",
+   "title": "76. EKCH RNP RWY 22L – 1",
+   "parentId": 378
+  },
+  {
+   "id": 3109,
+   "name": "EK_AD_2_EKCH_RNP_RWY_22L_2_en.pdf",
+   "title": "77. EKCH RNP RWY 22L – 2",
+   "parentId": 378
+  },
+  {
+   "id": 3110,
+   "name": "EK_AD_2_EKCH_RNP_RWY_22_R_1_en.pdf",
+   "title": "81. EKCH RNP RWY 22R – 1",
+   "parentId": 378
+  },
+  {
+   "id": 3111,
+   "name": "EK_AD_2_EKCH_RNP_RWY_22R_2_en.pdf",
+   "title": "82. EKCH RNP RWY 22R – 2",
+   "parentId": 378
+  },
+  {
+   "id": 3112,
+   "name": "EK_AD_2_EKCH_RNP_RWY_12_1_en.pdf",
+   "title": "86. EKCH RNP RWY 12 – 1",
+   "parentId": 378
+  },
+  {
+   "id": 3113,
+   "name": "EK_AD_2_EKCH_RNP_RWY_12_2_en.pdf",
+   "title": "87. EKCH RNP RWY 12 – 2",
+   "parentId": 378
+  },
+  {
+   "id": 3114,
+   "name": "EK_AD_2_EKCH_RNP_RWY_30_1_en.pdf",
+   "title": "91. EKCH RNP RWY 30 – 1",
+   "parentId": 378
+  },
+  {
+   "id": 3115,
+   "name": "EK_AD_2_EKCH_RNP_RWY_30_2_en.pdf",
+   "title": "92. EKCH RNP RWY 30 – 2",
+   "parentId": 378
+  },
+  {
+   "id": 3118,
+   "name": "EK_AIC_2023_B_07_en.pdf",
+   "title": "AIC B 07/2023. Ændring af krav til privatflyvning inden for dansk område med luftfartøjer registreret i udlandet.",
+   "parentId": 2657
+  },
+  {
+   "id": 3124,
+   "name": "BG_SUP_2023_10_en.pdf",
+   "title": "02. SUP 2023: 10/23 Airspace restrictions within Danish territory, including territorial waters - due to the Russian invasion of Ukraine.",
+   "parentId": 1084
+  },
+  {
+   "id": 3126,
+   "name": "BG_SUP_2023_11_en.pdf",
+   "title": "03. SUP 2023: 11/23 Airspace restrictions related to Belarussian airspace.",
+   "parentId": 1084
+  },
+  {
+   "id": 3129,
+   "name": "EK_SUP_2023_30_en.pdf",
+   "title": "03. SUP 2023: 30/23 Airspace restrictions within Danish territory, including territorial waters - due to the Russian invasion of Ukraine.",
+   "parentId": 251
+  },
+  {
+   "id": 3130,
+   "name": "EK_SUP_2023_31_en.pdf",
+   "title": "04. SUP 2023: 31/23 Airspace restrictions related to Belarussian airspace.",
+   "parentId": 251
+  },
+  {
+   "id": 3132,
+   "name": "EK_SUP_2023_33_en.pdf",
+   "title": "03. SUP 2023: 33/23 Airspace restrictions within Danish territory, including territorial waters - due to the Russian invasion of Ukraine.",
+   "parentId": 689
+  },
+  {
+   "id": 3134,
+   "name": "EK_SUP_2023_34_en.pdf",
+   "title": "04. SUP 2023: 34/23 Airspace restrictions related to Belarussian airspace.",
+   "parentId": 689
+  },
+  {
+   "id": 3138,
+   "name": "EK_AD_2_EKOD_ILS_OR_LOC_RWY_24_1_en.pdf",
+   "title": "08. EKOD ILS or LOC RWY 24 - 1 (CAT I)",
+   "parentId": 556
+  },
+  {
+   "id": 3139,
+   "name": "EK_AD_2_EKOD_ILS_OR_LOC_RWY_24_2_en.pdf",
+   "title": "09. EKOD ILS or LOC RWY 24 - 2 (CAT I)",
+   "parentId": 556
+  },
+  {
+   "id": 3153,
+   "name": "BG_AD_2_BGSF_RNP_1_SID_RWY_09_1_en.pdf",
+   "title": "06. BGSF RNP 1 SID RWY 09 - 1",
+   "parentId": 1065
+  },
+  {
+   "id": 3154,
+   "name": "BG_AD_2_BGSF_RNP_1_SID_RWY_09_2_en.pdf",
+   "title": "07. BGSF RNP 1 SID RWY 09 - 2",
+   "parentId": 1065
+  },
+  {
+   "id": 3155,
+   "name": "BG_AD_2_BGSF_RNP_1_SID_RWY_09_3_en.pdf",
+   "title": "08. BGSF RNP 1 SID RWY 09 - 3",
+   "parentId": 1065
+  },
+  {
+   "id": 3156,
+   "name": "BG_AD_2_BGSF_RNP_1_SID_RWY_27_1_en.pdf",
+   "title": "09. BGSF RNP 1 SID RWY 27 - 1",
+   "parentId": 1065
+  },
+  {
+   "id": 3157,
+   "name": "BG_AD_2_BGSF_RNP_1_SID_RWY_27_2_en.pdf",
+   "title": "10. BGSF RNP 1 SID RWY 27 - 2",
+   "parentId": 1065
+  },
+  {
+   "id": 3158,
+   "name": "BG_AD_2_BGSF_RNP_1_SID_RWY_27_3_en.pdf",
+   "title": "11.  BGSF RNP 1 SID RWY 27 - 3",
+   "parentId": 1065
+  },
+  {
+   "id": 3159,
+   "name": "BG_AD_2_BGSF_LOC_Z_RWY_09_1_en.pdf",
+   "title": "13. BGSF LOC Z RWY 09 - 1",
+   "parentId": 1065
+  },
+  {
+   "id": 3160,
+   "name": "BG_AD_2_BGSF_LOC_Z_RWY_09_2_en.pdf",
+   "title": "14. BGSF LOC Z RWY 09 - 2",
+   "parentId": 1065
+  },
+  {
+   "id": 3161,
+   "name": "BG_AD_2_BGSF_LOC_X_RWY_09_en.pdf",
+   "title": "16. BGSF LOC X RWY 09",
+   "parentId": 1065
+  },
+  {
+   "id": 3162,
+   "name": "BG_AD_2_BGMQ_RNP_RWY_33_1_en.pdf",
+   "title": "06. BGMQ RNP RWY 33 - 1",
+   "parentId": 998
+  },
+  {
+   "id": 3163,
+   "name": "BG_AD_2_BGMQ_RNP_RWY_33_2_en.pdf",
+   "title": "07. BGMQ RNP RWY 33 - 2",
+   "parentId": 998
+  },
+  {
+   "id": 3168,
+   "name": "EK_AD_2_EKCH_AOC_A_04_R_en.pdf",
+   "title": "15. EKCH AOC - A RWY 04R",
+   "parentId": 378
+  },
+  {
+   "id": 3169,
+   "name": "EK_AD_2_EKCH_AOC_A_22_L_en.pdf",
+   "title": "16. EKCH AOC - A RWY 22L",
+   "parentId": 378
+  },
+  {
+   "id": 3170,
+   "name": "EK_AD_2_EKCH_AOC_A_22_R_en.pdf",
+   "title": "17. EKCH AOC - A RWY 22R",
+   "parentId": 378
+  },
+  {
+   "id": 3235,
+   "name": "EK_AIC_2024_B_01_en.pdf",
+   "title": "AIC B 01/2024. Brug af FSTD.",
+   "parentId": 3234
+  },
+  {
+   "id": 3326,
+   "name": "BG_SUP_2024_04_en.pdf",
+   "title": "04. SUP 2024: 04/24 Temporary Restricted Area BGR516 SF1.",
+   "parentId": 1084
+  },
+  {
+   "id": 3346,
+   "name": "BG_SUP_2024_05_en.pdf",
+   "title": "05. SUP 2024: 05/24 BGSF RWY 27 Wind data not available.",
+   "parentId": 1084
+  },
+  {
+   "id": 3389,
+   "name": "BG_AD_2_BGGH_APDC_en.pdf",
+   "title": "03. BGGH APDC",
+   "parentId": 948
+  },
+  {
+   "id": 3445,
+   "name": "EK_AD_2_EKRK_GMC_3_en.pdf",
+   "title": "07. EKRK GMC - 3",
+   "parentId": 460
+  },
+  {
+   "id": 3446,
+   "name": "EK_AD_2_EKRK_GMC_4_en.pdf",
+   "title": "08. EKRK GMC - 4",
+   "parentId": 460
+  },
+  {
+   "id": 3454,
+   "name": "EK_Circ_2024_A_ 03_en.pdf",
+   "title": "AIC A 2024: 03/24 Flight Procedures - Role of the Danish Civil Aviation and Railway Authority, notification duty and approval practice",
+   "parentId": 276
+  },
+  {
+   "id": 3456,
+   "name": "EK_Circ_2024_A_01_en.pdf",
+   "title": "AIC A 2024: 01/24 Flight Procedures - Role of the Danish Civil Aviation and Railway Authority, notification duty and approval practice",
+   "parentId": 271
+  },
+  {
+   "id": 3458,
+   "name": "BG_Circ_2024_A_01_en.pdf",
+   "title": "AIC A 2024: 01/24 Flight Procedures - Role of the Danish Civil Aviation and Railway Authority, notification duty and approval practice",
+   "parentId": 266
+  },
+  {
+   "id": 3471,
+   "name": "EK_AIC_2024_B_06_en.pdf",
+   "title": "AIC B 06/2024. Ændringer til flyveledercertifikater jf. forordning (EU) 2015/340 om fastsættelse af tekniske krav og administrative procedurer for flyveledercertifikater pr. 4. august 2024 - \"ATCO forordningen\"",
+   "parentId": 3234
+  },
+  {
+   "id": 3504,
+   "name": "EK_AD_2_EKVJ_NDB_CIRCLING_A_en.pdf",
+   "title": "04. EKVJ NDB CIRCLING A",
+   "parentId": 546
+  },
+  {
+   "id": 3505,
+   "name": "EK_AD_2_EKVJ_NDB_CIRCLING_B_en.pdf",
+   "title": "05. EKVJ NDB CIRCLING B",
+   "parentId": 546
+  },
+  {
+   "id": 3517,
+   "name": "EK_SUP_2024_22_en.pdf",
+   "title": "05. SUP 2024: 22/24 Temporary Danger Areas EKD595 Dogger Tail, EKD596 Nordschill I, EKD597 Weisse Bank I and EKD598 Sylt Aussen I",
+   "parentId": 251
+  },
+  {
+   "id": 3520,
+   "name": "EK_SUP_2024_26_en.pdf",
+   "title": "05. SUP 2024: 26/24 Temporary Danger Areas EKD595 Dogger Tail, EKD596 Nordschill I, EKD597 Weisse Bank I and EKD598 Sylt Aussen I",
+   "parentId": 689
+  },
+  {
+   "id": 3553,
+   "name": "EK_AD_2_EKYT_ILS_or_LOC_RWY_26_R_1_CAT_I_II_III_en.pdf",
+   "title": "10. EKYT ILS or LOC RWY 26R - 1 (CAT I + II + III)",
+   "parentId": 510
+  },
+  {
+   "id": 3554,
+   "name": "EK_AD_2_EKYT_ILS_or_LOC_RWY_26_R_2_CAT_I_II_III_en.pdf",
+   "title": "11. EKYT ILS or LOC RWY 26R - 2 (CAT I + II + III)",
+   "parentId": 510
+  },
+  {
+   "id": 3558,
+   "name": "EK_SUP_A_2024_30_en.pdf",
+   "title": "06. AIRAC SUP 2024: 30/24 The procedures concerning reduction of landing distance available at EKRK (København/Roskilde) are suspended",
+   "parentId": 689
+  },
+  {
+   "id": 3560,
+   "name": "EK_SUP_A_2024_26_en.pdf",
+   "title": "06. AIRAC SUP 2024: 26/24 The procedures concerning reduction of landing distance available at EKRK (København/Roskilde) are suspended",
+   "parentId": 251
+  },
+  {
+   "id": 3684,
+   "name": "EK_Circ_2024_A_04_en.pdf",
+   "title": "AIC A 2024: 04/24 DK-SE FAB Free route airspace operations.",
+   "parentId": 276
+  },
+  {
+   "id": 3723,
+   "name": "EK_GEN_0_1_en.pdf",
+   "title": "GEN 0.1 Preface",
+   "parentId": 3718
+  },
+  {
+   "id": 3724,
+   "name": "EK_GEN_0_2_en.pdf",
+   "title": "GEN 0.2 Record of AIP Amendments",
+   "parentId": 3718
+  },
+  {
+   "id": 3725,
+   "name": "EK_GEN_0_3_en.pdf",
+   "title": "GEN 0.3 Record of AIP Supplements",
+   "parentId": 3718
+  },
+  {
+   "id": 3726,
+   "name": "EK_GEN_0_4_en.pdf",
+   "title": "GEN 0.4 Checklist of AIP Pages",
+   "parentId": 3718
+  },
+  {
+   "id": 3727,
+   "name": "EK_GEN_0_5_en.pdf",
+   "title": "GEN 0.5 List of Hand Amendments to the AIP",
+   "parentId": 3718
+  },
+  {
+   "id": 3728,
+   "name": "EK_GEN_0_6_en.pdf",
+   "title": "GEN 0.6 Table of Contents to Part 0 and 1",
+   "parentId": 3718
+  },
+  {
+   "id": 3729,
+   "name": "EK_GEN_1_1_en.pdf",
+   "title": "GEN 1.1 Designated Authorities",
+   "parentId": 3719
+  },
+  {
+   "id": 3730,
+   "name": "EK_GEN_1_2_en.pdf",
+   "title": "GEN 1.2 Entry, Transit and Departure of Aircraft",
+   "parentId": 3719
+  },
+  {
+   "id": 3731,
+   "name": "EK_GEN_1_3_en.pdf",
+   "title": "GEN 1.3 Entry, Transit and Departure og Passengers and Crew",
+   "parentId": 3719
+  },
+  {
+   "id": 3732,
+   "name": "EK_GEN_1_4_en.pdf",
+   "title": "GEN 1.4 Entry, Transit and Departure of Cargo",
+   "parentId": 3719
+  },
+  {
+   "id": 3733,
+   "name": "EK_GEN_1_5_en.pdf",
+   "title": "GEN 1.5 Aircraft Instruments, Equipment and Flight Documents",
+   "parentId": 3719
+  },
+  {
+   "id": 3734,
+   "name": "EK_GEN_1_6_en.pdf",
+   "title": "GEN 1.6 Summary of National Regulations and International Agreements",
+   "parentId": 3719
+  },
+  {
+   "id": 3735,
+   "name": "EK_GEN_1_7_en.pdf",
+   "title": "GEN 1.7 Differences from ICAO Standards, Recommended Practices and Procedures",
+   "parentId": 3719
+  },
+  {
+   "id": 3736,
+   "name": "EK_GEN_2_1_en.pdf",
+   "title": "GEN 2.1 Measuring System, Aircraft Markings, Holidays",
+   "parentId": 3720
+  },
+  {
+   "id": 3737,
+   "name": "EK_GEN_2_2_en.pdf",
+   "title": "GEN 2.2 Abbreviations used in AIS Publications",
+   "parentId": 3720
+  },
+  {
+   "id": 3738,
+   "name": "EK_GEN_2_3_en.pdf",
+   "title": "GEN 2.3 Chart Symbols",
+   "parentId": 3720
+  },
+  {
+   "id": 3739,
+   "name": "EK_GEN_2_4_en.pdf",
+   "title": "GEN 2.4 Location Indicators",
+   "parentId": 3720
+  },
+  {
+   "id": 3740,
+   "name": "EK_GEN_2_5_en.pdf",
+   "title": "GEN 2.5 List of Radio Navigation Aids",
+   "parentId": 3720
+  },
+  {
+   "id": 3741,
+   "name": "EK_GEN_2_6_en.pdf",
+   "title": "GEN 2.6 Conversion Tables",
+   "parentId": 3720
+  },
+  {
+   "id": 3742,
+   "name": "EK_GEN_2_7_en.pdf",
+   "title": "GEN 2.7 Sunrise/Sunset Tables",
+   "parentId": 3720
+  },
+  {
+   "id": 3743,
+   "name": "EK_GEN_3_1_en.pdf",
+   "title": "GEN 3.1 Aeronautical Information Services",
+   "parentId": 3721
+  },
+  {
+   "id": 3744,
+   "name": "EK_GEN_3_2_en.pdf",
+   "title": "GEN 3.2 Aeronautical Charts",
+   "parentId": 3721
+  },
+  {
+   "id": 3745,
+   "name": "EK_GEN_3_3_en.pdf",
+   "title": "GEN 3.3 Air Traffic Services",
+   "parentId": 3721
+  },
+  {
+   "id": 3746,
+   "name": "EK_GEN_3_4_en.pdf",
+   "title": "GEN 3.4 Communication Services",
+   "parentId": 3721
+  },
+  {
+   "id": 3747,
+   "name": "EK_GEN_3_5_en.pdf",
+   "title": "GEN 3.5 Meteorological Services",
+   "parentId": 3721
+  },
+  {
+   "id": 3748,
+   "name": "EK_GEN_3_6_en.pdf",
+   "title": "GEN 3.6 Search and Rescue Services",
+   "parentId": 3721
+  },
+  {
+   "id": 3749,
+   "name": "EK_GEN_4_1_en.pdf",
+   "title": "GEN 4.1 Charges for Aerodromes and Heliports",
+   "parentId": 3722
+  },
+  {
+   "id": 3750,
+   "name": "EK_GEN_4_2_en.pdf",
+   "title": "GEN 4.2 Charges for Air Navigation Services",
+   "parentId": 3722
+  },
+  {
+   "id": 3758,
+   "name": "EK_ENR_0_6_en.pdf",
+   "title": "ENR 0.6 Table of Contents to Part 2",
+   "parentId": 3751
+  },
+  {
+   "id": 3759,
+   "name": "EK_ENR_1_1_en.pdf",
+   "title": "01. ENR 1.1 General Rules",
+   "parentId": 3752
+  },
+  {
+   "id": 3760,
+   "name": "EK_ENR_1_2_en.pdf",
+   "title": "02. ENR 1.2 Visual Flight Rules",
+   "parentId": 3752
+  },
+  {
+   "id": 3761,
+   "name": "EK_ENR_1_3_en.pdf",
+   "title": "03. ENR 1.3 Instrument Flight Rules",
+   "parentId": 3752
+  },
+  {
+   "id": 3762,
+   "name": "EK_ENR_1_4_en.pdf",
+   "title": "04. ENR 1.4 ATS Airspace Classification",
+   "parentId": 3752
+  },
+  {
+   "id": 3763,
+   "name": "EK_ENR_1_5_en.pdf",
+   "title": "05. ENR 1.5 Holding, Approach and Departure Procedures",
+   "parentId": 3752
+  },
+  {
+   "id": 3764,
+   "name": "EK_ENR_1_6_en.pdf",
+   "title": "06. ENR 1.6 Radar Service and Procedures",
+   "parentId": 3752
+  },
+  {
+   "id": 3765,
+   "name": "EK_ENR_1_7_en.pdf",
+   "title": "07. ENR 1.7 Altimeter Setting Procedure",
+   "parentId": 3752
+  },
+  {
+   "id": 3766,
+   "name": "EK_ENR_1_8_en.pdf",
+   "title": "08. ENR 1.8 Regional Supplementary Procedures",
+   "parentId": 3752
+  },
+  {
+   "id": 3767,
+   "name": "EK_ENR_1_9_en.pdf",
+   "title": "09. ENR 1.9 Air Traffic Flow Management",
+   "parentId": 3752
+  },
+  {
+   "id": 3768,
+   "name": "EK_ENR_1_10_en.pdf",
+   "title": "10. ENR 1.10 Flight Plans",
+   "parentId": 3752
+  },
+  {
+   "id": 3769,
+   "name": "EK_ENR_1_11_en.pdf",
+   "title": "11. ENR 1.11 Addressing of Flight Plan Messages",
+   "parentId": 3752
+  },
+  {
+   "id": 3770,
+   "name": "EK_ENR_1_12_en.pdf",
+   "title": "12. ENR 1.12 Interception of Civil Aircraft",
+   "parentId": 3752
+  },
+  {
+   "id": 3771,
+   "name": "EK_ENR_1_13_en.pdf",
+   "title": "13. ENR 1.13 Unlawful Interference",
+   "parentId": 3752
+  },
+  {
+   "id": 3772,
+   "name": "EK_ENR_1_14_en.pdf",
+   "title": "14. ENR 1.14 Air Traffic Incidents, Reporting",
+   "parentId": 3752
+  },
+  {
+   "id": 3773,
+   "name": "EK_ENR_2_1_en.pdf",
+   "title": "ENR 2.1 FIR, CTA, TMA",
+   "parentId": 3753
+  },
+  {
+   "id": 3774,
+   "name": "EK_ENR_3_1_en.pdf",
+   "title": "ENR 3.1 ATS Routes",
+   "parentId": 3754
+  },
+  {
+   "id": 3775,
+   "name": "EK_ENR_4_1_en.pdf",
+   "title": "ENR 4.1 Radio Navigation Aids - En Route",
+   "parentId": 3755
+  },
+  {
+   "id": 3776,
+   "name": "EK_ENR_4_2_en.pdf",
+   "title": "ENR 4.2 Special Navigation Systems",
+   "parentId": 3755
+  },
+  {
+   "id": 3777,
+   "name": "EK_ENR_4_3_en.pdf",
+   "title": "ENR 4.3 Global Navigation Satellite System (GNSS)",
+   "parentId": 3755
+  },
+  {
+   "id": 3778,
+   "name": "EK_ENR_4_4_en.pdf",
+   "title": "ENR 4.4 Name-code designators for significant points",
+   "parentId": 3755
+  },
+  {
+   "id": 3779,
+   "name": "EK_ENR_4_5_en.pdf",
+   "title": "ENR 4.5 Aeronautical Ground Lights",
+   "parentId": 3755
+  },
+  {
+   "id": 3780,
+   "name": "EK_ENR_5_1_en.pdf",
+   "title": "ENR 5.1 Prohibited, Restricted and Danger Areas",
+   "parentId": 3756
+  },
+  {
+   "id": 3781,
+   "name": "EK_ENR_5_2_en.pdf",
+   "title": "ENR 5.2 Military Exercise and Training Areas",
+   "parentId": 3756
+  },
+  {
+   "id": 3782,
+   "name": "EK_ENR_5_3_en.pdf",
+   "title": "ENR 5.3 Other Activities of a Dangerous Nature",
+   "parentId": 3756
+  },
+  {
+   "id": 3783,
+   "name": "EK_ENR_5_4_en.pdf",
+   "title": "ENR 5.4 Air Navigation Obstacles - En Route",
+   "parentId": 3756
+  },
+  {
+   "id": 3784,
+   "name": "EK_ENR_5_5_en.pdf",
+   "title": "ENR 5.5 Aerial Sporting and Recreational Activities",
+   "parentId": 3756
+  },
+  {
+   "id": 3785,
+   "name": "EK_ENR_5_6_en.pdf",
+   "title": "ENR 5.6 Bird Migration and Areas with Sensitive Fauna",
+   "parentId": 3756
+  },
+  {
+   "id": 3786,
+   "name": "EK_ENR_6_ANC_FAROE_ISLANDS_en_256dpi.pdf",
+   "title": "ENR 6 ICAO ANC 1:250.000 FAROE ISLANDS",
+   "parentId": 3757
+  },
+  {
+   "id": 3788,
+   "name": "EK_ENR_6_7_1_en.pdf",
+   "title": "ENR 6.7.1 COM Coverage Areas",
+   "parentId": 3757
+  },
+  {
+   "id": 3794,
+   "name": "EK_AD_0_6_en.pdf",
+   "title": "AD 0.6 Table of Contents to Part 3",
+   "parentId": 3789
+  },
+  {
+   "id": 3795,
+   "name": "EK_AD_1_1_en.pdf",
+   "title": "AD 1.1 Aerodrome and Heliport Availability",
+   "parentId": 3790
+  },
+  {
+   "id": 3796,
+   "name": "EK_AD_1_2_en.pdf",
+   "title": "AD 1.2 Rescue and Fire Fighting Services and Runway Surface Condition Assessment and Reporting and Snow Plan",
+   "parentId": 3790
+  },
+  {
+   "id": 3797,
+   "name": "EK_AD_1_3_en.pdf",
+   "title": "AD 1.3 Index to Aerodromes and Heliports",
+   "parentId": 3790
+  },
+  {
+   "id": 3798,
+   "name": "EK_AD_1_4_en.pdf",
+   "title": "AD 1.4 Grouping of Aerodromes and Heliports",
+   "parentId": 3790
+  },
+  {
+   "id": 3800,
+   "name": "EK_AD_2_EKVG_en.pdf",
+   "title": "01. EKVG Text",
+   "parentId": 3799
+  },
+  {
+   "id": 3801,
+   "name": "EK_AD_2_EKVG_ADC_en.pdf",
+   "title": "02. EKVG ADC",
+   "parentId": 3799
+  },
+  {
+   "id": 3802,
+   "name": "EK_AD_2_EKVG_APDC_en.pdf",
+   "title": "03. EKVG APDC",
+   "parentId": 3799
+  },
+  {
+   "id": 3803,
+   "name": "EK_AD_2_EKVG_AOC_A_12_en.pdf",
+   "title": "04. EKVG AOC-A 12",
+   "parentId": 3799
+  },
+  {
+   "id": 3804,
+   "name": "EK_AD_2_EKVG_AOC_A_30_en.pdf",
+   "title": "05. EKVG AOC-A 30",
+   "parentId": 3799
+  },
+  {
+   "id": 3805,
+   "name": "EK_AD_2_EKVG_SID_RNP_RWY_12_1_en.pdf",
+   "title": "06. EKVG SID RNP RWY 12 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3806,
+   "name": "EK_AD_2_EKVG_SID_RNP_RWY_12_2_en.pdf",
+   "title": "07. EKVG SID RNP RWY 12 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3807,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_12_1_en.pdf",
+   "title": "09. EKVG SID RNP (AR) RWY 12 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3808,
+   "name": "EK_AD_2_EKVG_SID_RNP_RWY_12_3_en.pdf",
+   "title": "08. EKVG SID RNP RWY 12 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3810,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_12_3_en.pdf",
+   "title": "11. EKVG SID RNP (AR) RWY 12 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3811,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_12_4_en.pdf",
+   "title": "12. EKVG SID RNP (AR) RWY 12 - 4",
+   "parentId": 3799
+  },
+  {
+   "id": 3813,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_12_6_en.pdf",
+   "title": "14. EKVG SID RNP (AR) RWY 12 - 6",
+   "parentId": 3799
+  },
+  {
+   "id": 3814,
+   "name": "EK_AD_2_EKVG_SID_RNP_RWY_30_1_en.pdf",
+   "title": "15. EKVG SID RNP RWY 30 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3815,
+   "name": "EK_AD_2_EKVG_SID_RNP_RWY_30_2_en.pdf",
+   "title": "16. EKVG SID RNP RWY 30 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3816,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_30_1_en.pdf",
+   "title": "17. EKVG SID RNP (AR) RWY 30 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3817,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_30_2_en.pdf",
+   "title": "18. EKVG SID RNP (AR) RWY 30 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3818,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_30_3_en.pdf",
+   "title": "19. EKVG SID RNP (AR) RWY 30 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3819,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_30_4_en.pdf",
+   "title": "20. EKVG SID RNP (AR) RWY 30 - 4",
+   "parentId": 3799
+  },
+  {
+   "id": 3820,
+   "name": "EK_AD_2_EKVG_VFR_ARR_DEP_en.pdf",
+   "title": "21. EKVG VFR ARR/DEP",
+   "parentId": 3799
+  },
+  {
+   "id": 3821,
+   "name": "EK_AD_2_EKVG_LOC_RWY_12_en.pdf",
+   "title": "22. EKVG LOC RWY 12",
+   "parentId": 3799
+  },
+  {
+   "id": 3822,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_W_RWY_12_1_en.pdf",
+   "title": "23. EKVG RNP (AR) W RWY 12 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3823,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_W_RWY_12_2_en.pdf",
+   "title": "24. EKVG RNP (AR) W RWY 12 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3824,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_W_RWY_12_3_en.pdf",
+   "title": "25. EKVG RNP (AR) W RWY 12 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3825,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_V_RWY_12_1_en.pdf",
+   "title": "26. EKVG RNP (AR) V RWY 12 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3826,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_V_RWY_12_2_en.pdf",
+   "title": "27. EKVG RNP (AR) V RWY 12 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3827,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_V_RWY_12_3_en.pdf",
+   "title": "28. EKVG RNP (AR) V RWY 12 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3828,
+   "name": "EK_AD_2_EKVG_ILS_LOC_Z_A_B_RWY_30_en.pdf",
+   "title": "29. EKVG ILS OR LOC Z RWY 30 (ACFT CAT A + B)",
+   "parentId": 3799
+  },
+  {
+   "id": 3829,
+   "name": "EK_AD_2_EKVG_ILS_LOC_Z_C_D_RWY_30_en.pdf",
+   "title": "30. EKVG ILS OR LOC Z RWY 30 (ACFT CAT C + D)",
+   "parentId": 3799
+  },
+  {
+   "id": 3830,
+   "name": "EK_AD_3_EKFA_en.pdf",
+   "title": "Frodba (EKFA)",
+   "parentId": 3792
+  },
+  {
+   "id": 3831,
+   "name": "EK_AD_3_EKKU_en.pdf",
+   "title": "Kirkja (EKKU)",
+   "parentId": 3792
+  },
+  {
+   "id": 3832,
+   "name": "EK_AD_3_EKKV_en.pdf",
+   "title": "Klaksvík (EKKV)",
+   "parentId": 3792
+  },
+  {
+   "id": 3833,
+   "name": "EK_AD_3_EKMS_en.pdf",
+   "title": "Mykines (EKMS)",
+   "parentId": 3792
+  },
+  {
+   "id": 3834,
+   "name": "EK_AD_3_EKSY_en.pdf",
+   "title": "Skúvoy (EKSY)",
+   "parentId": 3792
+  },
+  {
+   "id": 3835,
+   "name": "EK_AD_3_EKSR_en.pdf",
+   "title": "Stóra Dímun (EKSR)",
+   "parentId": 3792
+  },
+  {
+   "id": 3836,
+   "name": "EK_AD_3_EKSO_en.pdf",
+   "title": "Svínoy (EKSO)",
+   "parentId": 3792
+  },
+  {
+   "id": 3837,
+   "name": "EK_AD_3_EKTB_en.pdf",
+   "title": "Tórshavn/Bodanes (EKTB)",
+   "parentId": 3792
+  },
+  {
+   "id": 3838,
+   "name": "EK_AD_4_1_en.pdf",
+   "title": "AD 4.1 Heliports",
+   "parentId": 3793
+  },
+  {
+   "id": 3839,
+   "name": "EK_SUP_2023_01_en.pdf",
+   "title": "01. SUP 2023: 01/23 Airspace restrictions within Danish territory, including territorial waters - due to the Russian invasion of Ukraine.",
+   "parentId": 3710
+  },
+  {
+   "id": 3840,
+   "name": "FO_SUP_Check_2023_12_21_en.pdf",
+   "title": "SUP Checklist.",
+   "parentId": 3710
+  },
+  {
+   "id": 3841,
+   "name": "EK_AD_2_EKVG_ILS_LOC_V_RWY_30_1_en.pdf",
+   "title": "31. EKVG ILS or LOC V RWY 30 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3842,
+   "name": "EK_AD_2_EKVG_ILS_LOC_V_RWY_30_2_en.pdf",
+   "title": "32. EKVG ILS or LOC V RWY 30 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3843,
+   "name": "EK_AD_2_EKVG_ILS_LOC_V_RWY_30_3_en.pdf",
+   "title": "33. EKVG ILS or LOC V RWY 30 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3844,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_W_RWY_30_1_en.pdf",
+   "title": "34. EKVG RNP (AR) W RWY 30 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3845,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_W_RWY_30_2_en.pdf",
+   "title": "35. EKVG RNP (AR) W RWY 30 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3846,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_W_RWY_30_3_en.pdf",
+   "title": "36. EKVG RNP (AR) W RWY 30 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3847,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_V_RWY_30_1_en.pdf",
+   "title": "37. EKVG RNP (AR) V RWY 30 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3848,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_V_RWY_30_2_en.pdf",
+   "title": "38. EKVG RNP (AR) V RWY 30 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3849,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_V_RWY_30_3_en.pdf",
+   "title": "39. EKVG RNP (AR) V RWY 30 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3850,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_U_RWY_30_1_en.pdf",
+   "title": "40. EKVG RNP (AR) U RWY 30 - 1",
+   "parentId": 3799
+  },
+  {
+   "id": 3851,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_U_RWY_30_2_en.pdf",
+   "title": "41. EKVG RNP (AR) U RWY 30 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 3852,
+   "name": "EK_AD_2_EKVG_RNP_(AR)_U_RWY_30_3_en.pdf",
+   "title": "42. EKVG RNP (AR) U RWY 30 - 3",
+   "parentId": 3799
+  },
+  {
+   "id": 3853,
+   "name": "EK_AD_2_EKVG_NDB_MY_en.pdf",
+   "title": "43. EKVG NDB MY",
+   "parentId": 3799
+  },
+  {
+   "id": 3854,
+   "name": "EK_AD_2_EKVG_VAC_en.pdf",
+   "title": "44. EKVG VAC",
+   "parentId": 3799
+  },
+  {
+   "id": 3855,
+   "name": "EK_AD_2_EKVG_LDC_en.pdf",
+   "title": "45. EKVG LDC",
+   "parentId": 3799
+  },
+  {
+   "id": 3856,
+   "name": "EK_AD_2_EKVG_FIZ_Radio_Coverage_en.pdf",
+   "title": "46. EKVG FIZ Radio coverage EKVG",
+   "parentId": 3799
+  },
+  {
+   "id": 3959,
+   "name": "BG_Circ_2024_A_03_en.pdf",
+   "title": "AIC A 2024: 03/24 Potential issues with Transition Altitude (TA) and Minimum Sector Altitude(MSA) at and around Nuuk airport.",
+   "parentId": 266
+  },
+  {
+   "id": 3967,
+   "name": "EK_AIC_2024_B_09_en.pdf",
+   "title": "AIC B 09/2024. Ansvarsdeling for luftfartsinformationstjeneste (AIS) mellem Trafikstyrelsen og Naviair",
+   "parentId": 3234
+  },
+  {
+   "id": 3969,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_04_L_1_CAT_I_II_en.pdf",
+   "title": "64. EKCH ILS or LOC RWY 04L - 1 (CAT I+II)",
+   "parentId": 378
+  },
+  {
+   "id": 3970,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_04_L_2_CAT_I_II_en.pdf",
+   "title": "65. EKCH ILS or LOC RWY 04L - 2 (CAT I+II)",
+   "parentId": 378
+  },
+  {
+   "id": 3971,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_04_R_1_en.pdf",
+   "title": "69. EKCH ILS or LOC RWY 04R - 1",
+   "parentId": 378
+  },
+  {
+   "id": 3972,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_04_R_2_en.pdf",
+   "title": "70. EKCH ILS or LOC RWY 04R - 2",
+   "parentId": 378
+  },
+  {
+   "id": 3973,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_22_L_1_CAT_I_II_III_en.pdf",
+   "title": "74. EKCH ILS or LOC RWY 22L - 1 (CAT I+II+III)",
+   "parentId": 378
+  },
+  {
+   "id": 3974,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_22_L_2_CAT_I_II_III_en.pdf",
+   "title": "75. EKCH ILS or LOC RWY 22L - 2 (CAT I+II+III)",
+   "parentId": 378
+  },
+  {
+   "id": 3975,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_22_R_1_en.pdf",
+   "title": "79. EKCH ILS or LOC RWY 22R - 1",
+   "parentId": 378
+  },
+  {
+   "id": 3976,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_22_R_2_en.pdf",
+   "title": "80. EKCH ILS or LOC RWY 22R - 2",
+   "parentId": 378
+  },
+  {
+   "id": 3977,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_12_1_en.pdf",
+   "title": "84. EKCH ILS or LOC RWY 12 - 1",
+   "parentId": 378
+  },
+  {
+   "id": 3978,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_12_2_en.pdf",
+   "title": "85. EKCH ILS or LOC RWY 12 - 2",
+   "parentId": 378
+  },
+  {
+   "id": 3979,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_04_N_1_en.pdf",
+   "title": "04. BGGH RNP SID RWY 04 N - 1",
+   "parentId": 948
+  },
+  {
+   "id": 3980,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_04_N_2_en.pdf",
+   "title": "05. BGGH RNP SID RWY 04 N - 2",
+   "parentId": 948
+  },
+  {
+   "id": 3981,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_30_1_en.pdf",
+   "title": "89. EKCH ILS or LOC RWY 30 - 1",
+   "parentId": 378
+  },
+  {
+   "id": 3982,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_04_N_3_en.pdf",
+   "title": "06. BGGH RNP SID RWY 04 N - 3",
+   "parentId": 948
+  },
+  {
+   "id": 3983,
+   "name": "EK_AD_2_EKCH_ILS_or_LOC_RWY_30_2_en.pdf",
+   "title": "90. EKCH ILS or LOC RWY 30 - 2",
+   "parentId": 378
+  },
+  {
+   "id": 3984,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_04_SEW_1_en.pdf",
+   "title": "07. BGGH RNP SID RWY 04 SEW - 1",
+   "parentId": 948
+  },
+  {
+   "id": 3985,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_04_SEW_2_en.pdf",
+   "title": "08. BGGH RNP SID RWY 04 SEW - 2",
+   "parentId": 948
+  },
+  {
+   "id": 3986,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_04_SEW_3_en.pdf",
+   "title": "09. BGGH RNP SID RWY 04 SEW - 3",
+   "parentId": 948
+  },
+  {
+   "id": 3987,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_22_N_1_en.pdf",
+   "title": "10. BGGH RNP SID RWY 22 N - 1",
+   "parentId": 948
+  },
+  {
+   "id": 3988,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_22_N_2_en.pdf",
+   "title": "11. BGGH RNP SID RWY 22 N - 2",
+   "parentId": 948
+  },
+  {
+   "id": 3989,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_22_N_3_en.pdf",
+   "title": "12. BGGH RNP SID RWY 22 N - 3",
+   "parentId": 948
+  },
+  {
+   "id": 3990,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_22_SEW_1_en.pdf",
+   "title": "13. BGGH RNP SID RWY 22 SEW - 1",
+   "parentId": 948
+  },
+  {
+   "id": 3991,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_22_SEW_2_en.pdf",
+   "title": "14. BGGH RNP SID RWY 22 SEW - 2",
+   "parentId": 948
+  },
+  {
+   "id": 3992,
+   "name": "BG_AD_2_BGGH_RNP_SID_RWY_22_SEW_3_en.pdf",
+   "title": "15. BGGH RNP SID RWY 22 SEW - 3",
+   "parentId": 948
+  },
+  {
+   "id": 3993,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Z_RWY_04_1_en.pdf",
+   "title": "18. BGGH ILS or LOC Z RWY 04 - 1",
+   "parentId": 948
+  },
+  {
+   "id": 3994,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Z_RWY_04_2_en.pdf",
+   "title": "19. BGGH ILS or LOC Z RWY 04 - 2",
+   "parentId": 948
+  },
+  {
+   "id": 3995,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Y_RWY_04_1_en.pdf",
+   "title": "20. BGGH ILS or LOC Y RWY 04 - 1",
+   "parentId": 948
+  },
+  {
+   "id": 3996,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Y_RWY_04_2_en.pdf",
+   "title": "21. BGGH ILS or LOC Y RWY 04 - 2",
+   "parentId": 948
+  },
+  {
+   "id": 3998,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Z_RWY_22_1_en.pdf",
+   "title": "23. BGGH ILS or LOC Z RWY 22 - 1",
+   "parentId": 948
+  },
+  {
+   "id": 3999,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Z_RWY_22_2_en.pdf",
+   "title": "24. BGGH ILS or LOC Z RWY 22 - 2",
+   "parentId": 948
+  },
+  {
+   "id": 4000,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Y_RWY_22_1_en.pdf",
+   "title": "25. BGGH ILS or LOC Y RWY 22 - 1",
+   "parentId": 948
+  },
+  {
+   "id": 4001,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_Y_RWY_22_2_en.pdf",
+   "title": "26. BGGH ILS or LOC Y RWY 22 - 2",
+   "parentId": 948
+  },
+  {
+   "id": 4003,
+   "name": "BG_AD_2_BGGH_RNP_Z_RWY_22_1_en.pdf",
+   "title": "28. BGGH RNP Z RWY 22 - 1",
+   "parentId": 948
+  },
+  {
+   "id": 4004,
+   "name": "BG_AD_2_BGGH_RNP_Z_RWY_22_2_en.pdf",
+   "title": "29. BGGH RNP Z RWY 22 - 2",
+   "parentId": 948
+  },
+  {
+   "id": 4005,
+   "name": "BG_AD_2_BGGH_RNP_Y_RWY_22_1_en.pdf",
+   "title": "30. BGGH RNP Y RWY 22 - 1",
+   "parentId": 948
+  },
+  {
+   "id": 4006,
+   "name": "BG_AD_2_BGGH_RNP_Y_RWY_22_2_en.pdf",
+   "title": "31. BGGH RNP Y RWY 22 - 2",
+   "parentId": 948
+  },
+  {
+   "id": 4007,
+   "name": "BG_AD_2_BGGH_RNP_C_1_en.pdf",
+   "title": "36. BGGH RNP C - 1",
+   "parentId": 948
+  },
+  {
+   "id": 4008,
+   "name": "BG_AD_2_BGGH_RNP_C_2_en.pdf",
+   "title": "37. BGGH RNP C - 2",
+   "parentId": 948
+  },
+  {
+   "id": 4023,
+   "name": "BG_SUP_A_2024_10_en.pdf",
+   "title": "06. AIRAC SUP 2024: 10/24 BGGH aircraft stand 6 closed",
+   "parentId": 1084
+  },
+  {
+   "id": 4065,
+   "name": "EK_AD_2_EKCH_RNP_RWY_04_L_2_en.pdf",
+   "title": "67. EKCH RNP RWY 04L - 2",
+   "parentId": 378
+  },
+  {
+   "id": 4076,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_12_5_en.pdf",
+   "title": "13. EKVG SID RNP (AR) RWY 12 - 5",
+   "parentId": 3799
+  },
+  {
+   "id": 4077,
+   "name": "EK_AD_2_EKVG_SID_RNP_(AR)_RWY_12_2_en.pdf",
+   "title": "10. EKVG SID RNP (AR) RWY 12 - 2",
+   "parentId": 3799
+  },
+  {
+   "id": 4112,
+   "name": "EK_SUP_A_2025_04_en.pdf",
+   "title": "07. AIRAC SUP 2025: 04/25 New upper vertical limit to EKR20 YDERBY",
+   "parentId": 689
+  },
+  {
+   "id": 4115,
+   "name": "EK_SUP_A_2025_03_en.pdf",
+   "title": "07. AIRAC SUP 2025: 03/25 New upper vertical limit to EK R20 YDERBY",
+   "parentId": 251
+  },
+  {
+   "id": 4125,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Z_RWY_08_1_en.pdf",
+   "title": "16. EKEB ILS or LOC Z RWY 08 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 4126,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Z_RWY_08_2_en.pdf",
+   "title": "17. EKEB ILS or LOC Z RWY 08 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 4127,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Y_RWY_08_1_en.pdf",
+   "title": "18. EKEB ILS or LOC Y RWY 08 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 4128,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Y_RWY_08_2_en.pdf",
+   "title": "19. EKEB ILS or LOC Y RWY 08 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 4130,
+   "name": "EK_AD_2_EKEB_RNP_RWY_08_3_en.pdf",
+   "title": "22. EKEB RNP RWY 08 - 3",
+   "parentId": 346
+  },
+  {
+   "id": 4132,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Z_RWY_26_1_en.pdf",
+   "title": "23. EKEB ILS or LOC Z RWY 26 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 4133,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Z_RWY_26_2_en.pdf",
+   "title": "24. EKEB ILS or LOC Z RWY 26 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 4134,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Y_RWY_26_1_en.pdf",
+   "title": "25. EKEB ILS or LOC Y RWY 26 - 1",
+   "parentId": 346
+  },
+  {
+   "id": 4135,
+   "name": "EK_AD_2_EKEB_ILS_or_LOC_Y_RWY_26_2_en.pdf",
+   "title": "26. EKEB ILS or LOC Y RWY 26 - 2",
+   "parentId": 346
+  },
+  {
+   "id": 4136,
+   "name": "EK_AD_2_EKEB_RNP_RWY_26_3_en.pdf",
+   "title": "29. EKEB RNP RWY 26 - 3",
+   "parentId": 346
+  },
+  {
+   "id": 4157,
+   "name": "EK_AD_2_EKAH_GLIDER_AREA_IN_TMA_en.pdf",
+   "title": "16. EKAH Glider Area in TMA",
+   "parentId": 492
+  },
+  {
+   "id": 4158,
+   "name": "EK_AD_2_EKAH_GLIDER_AREA_IN_TMA_en.pdf",
+   "title": "05. AD 2 EKAH GLIDER AREA",
+   "parentId": 174
+  },
+  {
+   "id": 4170,
+   "name": "EK_SUP_A_2025_08_en.pdf",
+   "title": "08. AIRAC SUP 2025: 08/25 Danish METAR from DANAREA WEST are not available",
+   "parentId": 689
+  },
+  {
+   "id": 4173,
+   "name": "EK_SUP_A_2025_07_en.pdf",
+   "title": "08. AIRAC SUP 2025: 07/25 Danish METAR from DANAREA WEST are not available",
+   "parentId": 251
+  },
+  {
+   "id": 4215,
+   "name": "EK_AIC_2025_B_02_en.pdf",
+   "title": "AIC B 02/2025: Forpligtelse for dansk certificerede Examiners til at følge retningslinjer og procedurer på examiner.dk",
+   "parentId": 4187
+  },
+  {
+   "id": 4237,
+   "name": "EK_Circ_2025_A_02_en.pdf",
+   "title": "AIC A 2025: 02/25 Public consultation regarding the new Military Exercise and Training Areas in Danish Airspace",
+   "parentId": 276
+  },
+  {
+   "id": 4239,
+   "name": "EK_AIC_2025_B_03_en.pdf",
+   "title": "AIC B 03/2025: Udsendelse af PEL-INFO fra Trafikstyrelsen",
+   "parentId": 4187
+  },
+  {
+   "id": 4244,
+   "name": "EK_AIC_2025_B_01_en.pdf",
+   "title": "AIC B 01/2025: Ændringer i EASA Class and Type Rating Endorsement List – Omklassificering af SET og krav til difference training",
+   "parentId": 4187
+  },
+  {
+   "id": 4252,
+   "name": "EK_Amdt_A_2025_05_en.pdf",
+   "title": "2025: AIP Færøerne AIRAC AMDT 05/25",
+   "parentId": 3706
+  },
+  {
+   "id": 4256,
+   "name": "BG_SUP_A_2025_02_en.pdf",
+   "title": "07. AIRAC SUP 2025: 02/25 OBST Akia LGT U/S",
+   "parentId": 1084
+  },
+  {
+   "id": 4278,
+   "name": "EK_Circ_2025_A_03_en.pdf",
+   "title": "AIC A 2025: 03/25 Rope Netting on Helidecks",
+   "parentId": 276
+  },
+  {
+   "id": 4299,
+   "name": "BG_AD_2_BGSF_SID_RWY_27_en.pdf",
+   "title": "12. BGSF SID RWY 27",
+   "parentId": 1065
+  },
+  {
+   "id": 4301,
+   "name": "EK_Amdt_A_2025_06_en.pdf",
+   "title": "2025: AIP Færøerne AIRAC AMDT 06/25",
+   "parentId": 3706
+  },
+  {
+   "id": 4304,
+   "name": "FO_DQR non-compliant list version 1.pdf",
+   "title": "Non compliant list FO",
+   "parentId": 4243
+  },
+  {
+   "id": 4364,
+   "name": "EK_AIC_Check_2025_05_12_en.pdf",
+   "title": "AIC A Checklist",
+   "parentId": 271
+  },
+  {
+   "id": 4392,
+   "name": "BG_SUP_A_2025_04_en.pdf",
+   "title": "08. AIRAC SUP 2025: 04/25 BGJN - Construction work at Ilulissat Airport",
+   "parentId": 1084
+  },
+  {
+   "id": 4393,
+   "name": "BG_SUP_A_2025_05_en.pdf",
+   "title": "09. AIRAC SUP 2025: 05/25 BGJN Low intensity APCH LGT RWY 06/24 U/S",
+   "parentId": 1084
+  },
+  {
+   "id": 4412,
+   "name": "EK_Amdt_A_2025_07_en.pdf",
+   "title": "2025: AIP Færøerne AIRAC AMDT 07/25",
+   "parentId": 3706
+  },
+  {
+   "id": 4420,
+   "name": "BG_SUP_2025_06_en.pdf",
+   "title": "10. SUP 2025: 06/25 BGUQ Surface with artificial grass",
+   "parentId": 1084
+  },
+  {
+   "id": 4475,
+   "name": "EK_SUP_2025_33_en.pdf",
+   "title": "09. SUP 2025: 33/25 Grass RWY 09/27 closed at Karup / Midtjyllands Lufthavn - EKKA",
+   "parentId": 689
+  },
+  {
+   "id": 4478,
+   "name": "EK_SUP_2025_30_en.pdf",
+   "title": "09. SUP 2025: 30/25 Grass RWY 09/27 closed at Karup / Midtjyllands Lufthavn - EKKA",
+   "parentId": 251
+  },
+  {
+   "id": 4484,
+   "name": "EK_Amdt_A_2025_08_en.pdf",
+   "title": "2025: AIP Færøerne AIRAC AMDT 08/25",
+   "parentId": 3706
+  },
+  {
+   "id": 4486,
+   "name": "EK_AD_2_EKVD_NOISE_ABATEMENT_PROCEDURES_en.pdf",
+   "title": "09. EKVD Noise Abatement Procedures",
+   "parentId": 519
+  },
+  {
+   "id": 4488,
+   "name": "EK_AD_2_EKRK_NOISE_ABATEMENT_PROCEDURES_en.pdf",
+   "title": "30. EKRK Noise Abatement Procedures",
+   "parentId": 460
+  },
+  {
+   "id": 4491,
+   "name": "EK_Circ_2025_A_04_en.pdf",
+   "title": "AIC A 2025: 04/25 FLIGHT & FLOW INFORMATION FOR A COLLABORATIVE ENVIRONMENT (FF-ICE) deployment",
+   "parentId": 276
+  },
+  {
+   "id": 4632,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_X_RWY_04_en.pdf",
+   "title": "22. BGGH ILS or LOC X RWY 04",
+   "parentId": 948
+  },
+  {
+   "id": 4640,
+   "name": "EK_Amdt_A_2025_09_en.pdf",
+   "title": "2025: AIP Færøerne AIRAC AMDT 09/25",
+   "parentId": 3706
+  },
+  {
+   "id": 4645,
+   "name": "EK_AD_2_EKBI_GLIDER_AREAS_IN_TMA_en.pdf",
+   "title": "31. EKBI Glider Areas in TMA",
+   "parentId": 305
+  },
+  {
+   "id": 4647,
+   "name": "EK_AD_2_EKCH_RNP_RWY_04_L_3_en.pdf",
+   "title": "68. EKCH RNP RWY 04L - 3",
+   "parentId": 378
+  },
+  {
+   "id": 4648,
+   "name": "EK_AD_2_EKCH_RNP_RWY_04_R_3_en.pdf",
+   "title": "73. EKCH RNP RWY 04R – 3",
+   "parentId": 378
+  },
+  {
+   "id": 4649,
+   "name": "EK_AD_2_EKCH_RNP_RWY_22_L_3_en.pdf",
+   "title": "78. EKCH RNP RWY 22L – 3",
+   "parentId": 378
+  },
+  {
+   "id": 4650,
+   "name": "EK_AD_2_EKCH_RNP_RWY_22_R_3_en.pdf",
+   "title": "83. EKCH RNP RWY 22R – 3",
+   "parentId": 378
+  },
+  {
+   "id": 4651,
+   "name": "EK_AD_2_EKCH_RNP_RWY_12_3_en.pdf",
+   "title": "88. EKCH RNP RWY 12 – 3",
+   "parentId": 378
+  },
+  {
+   "id": 4652,
+   "name": "EK_AD_2_EKCH_RNP_RWY_30_3_en.pdf",
+   "title": "93. EKCH RNP RWY 30 – 3",
+   "parentId": 378
+  },
+  {
+   "id": 4655,
+   "name": "EK_AIC_2025_B_04_en.pdf",
+   "title": "AIC B 04/2025: Teoriprøver 2026 - Privatflyvercertifikat PPL (A) (H)",
+   "parentId": 4187
+  },
+  {
+   "id": 4682,
+   "name": "EK_AIC_2025_B_06_en.pdf",
+   "title": "AIC B 06/2025: Krav til erhvervelse af TRI-rettighed uden begrænsning (TRI unrestricted)",
+   "parentId": 4187
+  },
+  {
+   "id": 4683,
+   "name": "EK_AIC_2025_B_05_en.pdf",
+   "title": "AIC B 05/2025: Udfasning af håndholdte halonbaserede brandslukkere i Bilag I-luftfartøjer – gældende fra 1. januar 2026",
+   "parentId": 4187
+  },
+  {
+   "id": 4687,
+   "name": "BG_SUP_2025_11_en.pdf",
+   "title": "11. SUP 2025: 11/25 BGUK - Threshold Identification Lights for RWY 22 are unserviceable",
+   "parentId": 1084
+  },
+  {
+   "id": 4707,
+   "name": "EK_SUP_A_2026_01_en.pdf",
+   "title": "11. AIRAC SUP 2026: 01/26 PAPI configuration for EKCH RWY 04R does not meet required minimum wheel clearance for Airbus A-350",
+   "parentId": 689
+  },
+  {
+   "id": 4738,
+   "name": "BG_AD_2_BGGH_ILS_or_LOC_X_RWY_22_en.pdf",
+   "title": "27. BGGH ILS or LOC X RWY 22",
+   "parentId": 948
+  },
+  {
+   "id": 4740,
+   "name": "EK_AD_2_EKRN_ILS_RWY_11_1_en.pdf",
+   "title": "04. EKRN ILS RWY 11 - 1",
+   "parentId": 569
+  },
+  {
+   "id": 4741,
+   "name": "EK_AD_2_EKRN_ILS_RWY_11_2_en.pdf",
+   "title": "05. EKRN ILS RWY 11 - 2",
+   "parentId": 569
+  },
+  {
+   "id": 4744,
+   "name": "EK_SUP_A_2026_02_en.pdf",
+   "title": "12. AIRAC SUP 2026: 02/26 EKVJ - INITIAL APPROACH VIA KEPAK NOT AVBL FOR USE ON RNP RWY 09",
+   "parentId": 689
+  },
+  {
+   "id": 4747,
+   "name": "EK_SUP_A_2026_05_en.pdf",
+   "title": "13. AIRAC SUP 2026: 05/26 EKVJ - LOCATOR AU/STAUNING 346 KHZ U/S",
+   "parentId": 689
+  },
+  {
+   "id": 4759,
+   "name": "EK_Amdt_A_2026_01_en.pdf",
+   "title": "2026: AIP Færøerne AIRAC AMDT 01/26",
+   "parentId": 3706
+  },
+  {
+   "id": 4766,
+   "name": "BG_SUP_2025_13_en.pdf",
+   "title": "12. SUP 2025: 13/25 BGKK - RWY holding position sign 10-28 E of TWY missing",
+   "parentId": 1084
+  },
+  {
+   "id": 4767,
+   "name": "BG_SUP_A_2026_01_en.pdf",
+   "title": "13. AIRAC SUP 2026: 01/26 BGSF - MSSR U/S. Radar service unavailable",
+   "parentId": 1084
+  },
+  {
+   "id": 4773,
+   "name": "EK_SUP_2025_52_en.pdf",
+   "title": "10. SUP 2025: 52/25 Temporary revision to the special arrangement regarding VFR-flights between certain Danish and German aerodromes",
+   "parentId": 689
+  },
+  {
+   "id": 4775,
+   "name": "EK_SUP_2025_48_en.pdf",
+   "title": "10. SUP 2025: 48/25 Temporary revision to the special arrangement regarding VFR-flights between certain Danish and German aerodromes",
+   "parentId": 251
+  },
+  {
+   "id": 4784,
+   "name": "EK_SUP_A_2026_06_en.pdf",
+   "title": "14. AIRAC SUP 2026: 06/26 EKRK - L RK København/Roskilde 368 KHZ U/S. Revised instrument approach procedures",
+   "parentId": 689
+  },
+  {
+   "id": 4804,
+   "name": "BG_SUP_2026_02_en.pdf",
+   "title": "14. SUP 2026: 02/26 BGUQ - TWY lights and both RWY holding position signs U/S",
+   "parentId": 1084
+  },
+  {
+   "id": 4811,
+   "name": "EK_AD_2_EKRN_RNP_RWY_29_1_en.pdf",
+   "title": "11. EKRN RNP RWY 29 - 1",
+   "parentId": 569
+  },
+  {
+   "id": 4812,
+   "name": "BG_AD_4_BGGN_en.pdf",
+   "title": "Qeqertarsuaq (BGGN)",
+   "parentId": 878
+  },
+  {
+   "id": 4825,
+   "name": "DK_DQR non-compliant list_19FEB2026.pdf",
+   "title": "Non compliant list DK",
+   "parentId": 4241
+  },
+  {
+   "id": 4827,
+   "name": "EK_Amdt_A_2026_02_en.pdf",
+   "title": "2026: AIP Færøerne AIRAC AMDT 02/26",
+   "parentId": 3706
+  },
+  {
+   "id": 4828,
+   "name": "EK_Amdt_A_2026_04_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 04/26",
+   "parentId": 639
+  },
+  {
+   "id": 4829,
+   "name": "EK_Amdt_A_2026_04_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 04/26",
+   "parentId": 253
+  },
+  {
+   "id": 4830,
+   "name": "BG_Amdt_A_2026_03_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 03/26",
+   "parentId": 1085
+  },
+  {
+   "id": 4833,
+   "name": "BG_AD_2_BGQO_en.pdf",
+   "title": "01. BGQO Text",
+   "parentId": 4832
+  },
+  {
+   "id": 4834,
+   "name": "BG_AD_2_BGQO_ADC_en.pdf",
+   "title": "02. BGQO ADC",
+   "parentId": 4832
+  },
+  {
+   "id": 4835,
+   "name": "BG_AD_2_BGQO_APDC_en.pdf",
+   "title": "03. BGQO APDC",
+   "parentId": 4832
+  },
+  {
+   "id": 4836,
+   "name": "BG_AD_2_BGQO_AOC_A_11_en.pdf",
+   "title": "04. BGQO AOC-A 11",
+   "parentId": 4832
+  },
+  {
+   "id": 4837,
+   "name": "BG_AD_2_BGQO_AOC_A_29_en.pdf",
+   "title": "05. BGQO AOC-A 29",
+   "parentId": 4832
+  },
+  {
+   "id": 4838,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_11_1_en.pdf",
+   "title": "06. BGQO RNP SID RWY 11 - 1",
+   "parentId": 4832
+  },
+  {
+   "id": 4839,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_11_2_en.pdf",
+   "title": "07. BGQO RNP SID RWY 11 - 2",
+   "parentId": 4832
+  },
+  {
+   "id": 4840,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_11_3_en.pdf",
+   "title": "08. BGQO RNP SID RWY 11 - 3",
+   "parentId": 4832
+  },
+  {
+   "id": 4841,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_11_4_en.pdf",
+   "title": "09. BGQO RNP SID RWY 11 - 4",
+   "parentId": 4832
+  },
+  {
+   "id": 4842,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_29_1_en.pdf",
+   "title": "10. BGQO RNP SID RWY 29 - 1",
+   "parentId": 4832
+  },
+  {
+   "id": 4843,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_29_2_en.pdf",
+   "title": "11. BGQO RNP SID RWY 29 - 2",
+   "parentId": 4832
+  },
+  {
+   "id": 4844,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_29_3_en.pdf",
+   "title": "12. BGQO RNP SID RWY 29 - 3",
+   "parentId": 4832
+  },
+  {
+   "id": 4845,
+   "name": "BG_AD_2_BGQO_RNP_SID_RWY_29_4_en.pdf",
+   "title": "13. BGQO RNP SID RWY 29 - 4",
+   "parentId": 4832
+  },
+  {
+   "id": 4846,
+   "name": "BG_AD_2_BGQO_RNP_RWY_11_1_en.pdf",
+   "title": "14. BGQO RNP RWY 11 - 1",
+   "parentId": 4832
+  },
+  {
+   "id": 4847,
+   "name": "BG_AD_2_BGQO_RNP_RWY_11_2_en.pdf",
+   "title": "15. BGQO RNP RWY 11 - 2",
+   "parentId": 4832
+  },
+  {
+   "id": 4848,
+   "name": "BG_AD_2_BGQO_RNP_Y_RWY_29_1_en.pdf",
+   "title": "16. BGQO RNP Y RWY 29 - 1",
+   "parentId": 4832
+  },
+  {
+   "id": 4849,
+   "name": "BG_AD_2_BGQO_RNP_Y_RWY_29_2_en.pdf",
+   "title": "17. BGQO RNP Y RWY 29 - 2",
+   "parentId": 4832
+  },
+  {
+   "id": 4850,
+   "name": "BG_AD_2_BGQO_VAC_en.pdf",
+   "title": "18. BGQO VAC",
+   "parentId": 4832
+  },
+  {
+   "id": 4851,
+   "name": "BG_AD_2_BGQO_LDC_en.pdf",
+   "title": "19. BGQO LDC",
+   "parentId": 4832
+  },
+  {
+   "id": 4854,
+   "name": "EK_SUP_2026_07_en.pdf",
+   "title": "15. SUP 2026: 07/26 Crane vessel operating in Esbjerg Harbour and transporting wind turbine components via two designated corridors in the North Sea",
+   "parentId": 689
+  },
+  {
+   "id": 4856,
+   "name": "EK_SUP_A_2026_09_en.pdf",
+   "title": "16. AIRAC SUP 2026: 09/26 Corrected PSN of obstacle \"Svanemølleværket\"",
+   "parentId": 689
+  },
+  {
+   "id": 4860,
+   "name": "EK_SUP_2026_02_en.pdf",
+   "title": "11. SUP 2026: 02/26 Crane vessel operating in Esbjerg Harbour and transporting wind turbine components via two designated corridors in the North Sea",
+   "parentId": 251
+  },
+  {
+   "id": 4862,
+   "name": "EK_SUP_A_2026_04_en.pdf",
+   "title": "12. AIRAC SUP 2026: 04/26 Corrected PSN of obstacle \"Svanemølleværket\"",
+   "parentId": 251
+  },
+  {
+   "id": 4867,
+   "name": "BG_AIC_Check_2026_02_27_en.pdf",
+   "title": "AIC A Checklist",
+   "parentId": 266
+  },
+  {
+   "id": 4894,
+   "name": "EK_Amdt_A_2026_05_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 05/26",
+   "parentId": 253
+  },
+  {
+   "id": 4895,
+   "name": "EK_Amdt_A_2026_05_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 05/26",
+   "parentId": 639
+  },
+  {
+   "id": 4896,
+   "name": "BG_Amdt_A_2026_04_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 04/26",
+   "parentId": 1085
+  },
+  {
+   "id": 4897,
+   "name": "BG_AD_2_BGGH_ATCSMAC_1_en.pdf",
+   "title": "16. BGGH ATCSMAC - 1",
+   "parentId": 948
+  },
+  {
+   "id": 4898,
+   "name": "BG_AD_2_BGGH_ATCSMAC_2_en.pdf",
+   "title": "17. BGGH ATCSMAC - 2",
+   "parentId": 948
+  },
+  {
+   "id": 4916,
+   "name": "BG_SUP_2026_05_en.pdf",
+   "title": "15. SUP 2026: 05/26 BGQO - NDB QO U/S",
+   "parentId": 1084
+  },
+  {
+   "id": 4922,
+   "name": "BG_Amdt_A_2026_05_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 05/26",
+   "parentId": 1085
+  },
+  {
+   "id": 4924,
+   "name": "EK_Amdt_A_2026_06_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 06/26",
+   "parentId": 253
+  },
+  {
+   "id": 4925,
+   "name": "EK_Amdt_A_2026_06_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 06/26",
+   "parentId": 639
+  },
+  {
+   "id": 4933,
+   "name": "BG_SUP_A_2026_06_en.pdf",
+   "title": "16. AIRAC SUP 2026: 06/26 BGGH - Several SIDs temporarily suspended",
+   "parentId": 1084
+  },
+  {
+   "id": 4958,
+   "name": "EK_Amdt_A_2026_07_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 07/26",
+   "parentId": 253
+  },
+  {
+   "id": 4959,
+   "name": "BG_Amdt_A_2026_06_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 06/26",
+   "parentId": 1085
+  },
+  {
+   "id": 4960,
+   "name": "EK_Amdt_A_2026_07_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 07/26",
+   "parentId": 639
+  },
+  {
+   "id": 4966,
+   "name": "EK_SUP_2026_21_en.pdf",
+   "title": "17: SUP 2026: 21/26 Crane operating near Esbjerg Chimney",
+   "parentId": 689
+  },
+  {
+   "id": 4967,
+   "name": "EK_SUP_A_2026_22_en.pdf",
+   "title": "18: AIRAC SUP 2026: 22/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
+   "parentId": 689
+  },
+  {
+   "id": 4968,
+   "name": "EK_SUP_A_2026_23_en.pdf",
+   "title": "19: AIRAC SUP 2026: 23/26 Differentiated instrument approach procedures to EKRN Bornholm/Rønne aerodrome",
+   "parentId": 689
+  },
+  {
+   "id": 4971,
+   "name": "EK_SUP_2026_13_en.pdf",
+   "title": "13. SUP 2026: 13/26 Crane operating near Esbjerg Chimney",
+   "parentId": 251
+  },
+  {
+   "id": 4972,
+   "name": "EK_SUP_A_2026_14_en.pdf",
+   "title": "14. AIRAC SUP 2026: 14/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
+   "parentId": 251
+  },
+  {
+   "id": 4978,
+   "name": "EK_SUP_A_2026_24_en.pdf",
+   "title": "20: AIRAC SUP 2026: 24/26 EKKA Karup / Midtjyllands Lufthavn - Instrument Approach Procedures affected by tower crane",
+   "parentId": 689
+  },
+  {
+   "id": 5000,
+   "name": "EK_AIC_Check_2026_06_08_en.pdf",
+   "title": "AIC A Checklist",
+   "parentId": 276
+  },
+  {
+   "id": 5001,
+   "name": "Non-compliant list BG_11JUN2026.pdf",
+   "title": "Non-compliant list BG",
+   "parentId": 4242
+  },
+  {
+   "id": 5008,
+   "name": "BG_ENR_6_7_15_en.pdf",
+   "title": "ENR 6.7.15 FIZ Radio Coverage (BGUQ)",
+   "parentId": 850
+  },
+  {
+   "id": 5009,
+   "name": "BG_ENR_6_7_17_en.pdf",
+   "title": "ENR 6.7.17 FIZ Radio Coverage (BGGH)",
+   "parentId": 850
+  },
+  {
+   "id": 5010,
+   "name": "BG_AD_2_BGBW_en.pdf",
+   "title": "01. BGBW Text",
+   "parentId": 1042
+  },
+  {
+   "id": 5011,
+   "name": "EK_Amdt_A_2026_08_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 08/26",
+   "parentId": 253
+  },
+  {
+   "id": 5012,
+   "name": "EK_Amdt_A_2026_08_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 08/26",
+   "parentId": 639
+  },
+  {
+   "id": 5013,
+   "name": "BG_Amdt_A_2026_07_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 07/26",
+   "parentId": 1085
+  },
+  {
+   "id": 5014,
+   "name": "BG_ENR_6_7_19_en.pdf",
+   "title": "ENR 6.7.19 FIZ Radio Coverage (BGBW)",
+   "parentId": 850
+  },
+  {
+   "id": 5020,
+   "name": "EK_AIC_2026_B_01_en.pdf",
+   "title": "AIC B 01/2026: DHC-6, DHC-6 (SEA) og amphibiousoperationer – Trafikstyrelsens fortolkning og administrative praksis",
+   "parentId": 5019
+  },
+  {
+   "id": 5039,
+   "name": "EK_SUP_A_2026_29_en.pdf",
+   "title": "21: SUP 2026: 29/26 Obstacles erected at or near EKCH København/Kastrup",
+   "parentId": 689
+  },
+  {
+   "id": 5040,
+   "name": "EK_SUP_A_2026_30_en.pdf",
+   "title": "22: SUP 2026: 30/26 Instrument Approach Procedures at EKKA effected by WIP",
+   "parentId": 689
+  },
+  {
+   "id": 5041,
+   "name": "EK_SUP_2026_31_en.pdf",
+   "title": "23: SUP 2026: 31/26 Temporary Restricted Areas EKR737 Fuglebjerg, EKR738 Silkeborg, EKR739 Brønderslev, EKR740 Ørbæk, EKR741 Aabenraa, EKR742 Sæby, EKR743 Struer",
+   "parentId": 689
+  },
+  {
+   "id": 5042,
+   "name": "EK_SUP_A_2026_19_en.pdf",
+   "title": "15. SUP 2026: 19/26 Obstacles erected at or near EKCH København/Kastrup",
+   "parentId": 251
+  },
+  {
+   "id": 5043,
+   "name": "EK_SUP_A_2026_20_en.pdf",
+   "title": "16. SUP 2026: 20/26 Parts of RWYs at EKKA closed due to WIP",
+   "parentId": 251
+  },
+  {
+   "id": 5044,
+   "name": "EK_SUP_2026_21_en.pdf",
+   "title": "17. SUP 2026: 21/26 Temporary Restricted Areas EKR737 Fuglebjerg, EKR738 Silkeborg, EKR739 Brønderslev, EKR740 Ørbæk, EKR741 Aabenraa, EKR742 Sæby, EKR743 Struer",
+   "parentId": 251
+  },
+  {
+   "id": 5048,
+   "name": "EK_SUP_2026_32_en.pdf",
+   "title": "24: SUP 2026: 32/26 EKVJ downgraded to VFR only",
+   "parentId": 689
+  },
+  {
+   "id": 5049,
+   "name": "EK_SUP_2026_22_en.pdf",
+   "title": "18. SUP 2026: 22/26 EKVJ downgraded to VFR only",
+   "parentId": 251
+  },
+  {
+   "id": 5050,
+   "name": "EK_Amdt_A_2026_03_en.pdf",
+   "title": "2026: AIP Færøerne AIRAC AMDT 03/26",
+   "parentId": 3706
+  },
+  {
+   "id": 5051,
+   "name": "BG_Amdt_A_2026_08_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 08/26",
+   "parentId": 1085
+  },
+  {
+   "id": 5052,
+   "name": "EK_Amdt_A_2026_09_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 09/26",
+   "parentId": 639
+  },
+  {
+   "id": 5053,
+   "name": "EK_AD_2_EKBI_SID_RNAV_09_1_en.pdf",
+   "title": "12. EKBI SID (RNAV) RWY 09 - 1",
+   "parentId": 305
+  },
+  {
+   "id": 5054,
+   "name": "EK_AD_2_EKBI_SID_RNAV_09_2_en.pdf",
+   "title": "13. EKBI SID (RNAV) RWY 09 - 2",
+   "parentId": 305
+  },
+  {
+   "id": 5055,
+   "name": "EK_AD_2_EKBI_SID_RNAV_09_3_en.pdf",
+   "title": "14. EKBI SID (RNAV) RWY 09 - 3",
+   "parentId": 305
+  },
+  {
+   "id": 5056,
+   "name": "EK_AD_2_EKBI_SID_RNAV_27_1_en.pdf",
+   "title": "15. EKBI SID (RNAV) RWY 27 - 1",
+   "parentId": 305
+  },
+  {
+   "id": 5057,
+   "name": "EK_AD_2_EKBI_SID_RNAV_27_2_en.pdf",
+   "title": "16. EKBI SID (RNAV) RWY 27 - 2",
+   "parentId": 305
+  },
+  {
+   "id": 5058,
+   "name": "EK_AD_2_EKBI_SID_RNAV_27_3_en.pdf",
+   "title": "17. EKBI SID (RNAV) RWY 27 - 3",
+   "parentId": 305
+  },
+  {
+   "id": 5059,
+   "name": "EK_Amdt_A_2026_09_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 09/26",
+   "parentId": 253
+  },
+  {
+   "id": 5060,
+   "name": "BG_SUP_2026_08_en.pdf",
+   "title": "17. SUP 2026: 08/26 BGSS - All lights unusable when backup generator is activated",
+   "parentId": 1084
+  },
+  {
+   "id": 5062,
+   "name": "BG_SUP_2026_09_en.pdf",
+   "title": "18. SUP 2026: 09/26 Temporary Restricted Area BGR529",
+   "parentId": 1084
+  },
+  {
+   "id": 5070,
+   "name": "BG_SUP_2026_10_en.pdf",
+   "title": "19. SUP 2026: 10/26 Temporary Restricted Area BGR530",
+   "parentId": 1084
+  },
+  {
+   "id": 5071,
+   "name": "BG_SUP_2026_11_en.pdf",
+   "title": "20. SUP 2026: 11/26 Temporary Restricted Area BGR531",
+   "parentId": 1084
+  },
+  {
+   "id": 5076,
+   "name": "BG_SUP_A_2026_12_en.pdf",
+   "title": "21. SUP 2026: 12/26 Temporary Danger Area BGD532 MISSION 2",
+   "parentId": 1084
+  },
+  {
+   "id": 5089,
+   "name": "VFG_DK_AIRAC_AMDT_06AUG2026_SUP_06AUG2026 - TEST.pdf",
+   "title": "The file below, can be opened in Chrome, but fails in Edge. We are working on the problem",
+   "parentId": 1380
+  },
+  {
+   "id": 5093,
+   "name": "BG_Amdt_A_2026_09_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 09/26",
+   "parentId": 1085
+  },
+  {
+   "id": 5094,
+   "name": "EK_Amdt_A_2026_10_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 10/26",
+   "parentId": 639
+  },
+  {
+   "id": 5095,
+   "name": "EK_Amdt_A_2026_10_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 10/26",
+   "parentId": 253
+  },
+  {
+   "id": 5098,
+   "name": "EK_SUP_2026_35_en.pdf",
+   "title": "25: SUP 2026: 35/26 Temporary Danger Areas EKD753 SIRI and EKD754 SYD ARNE",
+   "parentId": 689
+  },
+  {
+   "id": 5104,
+   "name": "EK_SUP_2026_25_en.pdf",
+   "title": "19. SUP 2026: 25/26 Temporary Danger Areas EKD753 SIRI and EKD754 SYD ARNE",
+   "parentId": 251
+  },
+  {
+   "id": 5124,
+   "name": "EK_SUP_A_2026_37_en.pdf",
+   "title": "26: AIRAC SUP 2026: 37/26 København/Kastrup (EKCH) WORKS AT NORTHEASTHERN PART OF APRON NORTH",
+   "parentId": 689
+  },
+  {
+   "id": 5125,
+   "name": "EK_SUP_A_2026_38_en.pdf",
+   "title": "27: AIRAC SUP 2026: 38/26 Correction to APCH LGT length for RWY 04R at EKCH (København/Kastrup)",
+   "parentId": 689
+  },
+  {
+   "id": 5130,
+   "name": "AIP_Faroe_Islands_AIRAC_AMDT_03SEP2026_SUP_21DEC2023.pdf",
+   "title": "AIP Faroe Islands",
+   "parentId": 3705
+  },
+  {
+   "id": 5146,
+   "name": "EK_SUP_2026_39_en.pdf",
+   "title": "28: SUP 2026: 39/26 Temporary Restricted Areas EKR747, EKR748, EKR749, EKR750, EKR751.",
+   "parentId": 689
+  },
+  {
+   "id": 5150,
+   "name": "EK_SUP_2026_27_en.pdf",
+   "title": "20. SUP 2026: 27/26 Temporary Restricted Areas EKR747, EKR748, EKR749, EKR750, EKR751.",
+   "parentId": 251
+  },
+  {
+   "id": 5182,
+   "name": "EK_Amdt_A_2026_11_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 11/26",
+   "parentId": 639
+  },
+  {
+   "id": 5183,
+   "name": "EK_Amdt_A_2026_11_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 11/26",
+   "parentId": 253
+  },
+  {
+   "id": 5184,
+   "name": "BG_Amdt_A_2026_10_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 10/26",
+   "parentId": 1085
+  },
+  {
+   "id": 5185,
+   "name": "EK_SUP_A_2026_40_en.pdf",
+   "title": "29: AIRAC SUP 2026: 40/26 Obstacles erected at or near EKCH København/Kastrup",
+   "parentId": 689
+  },
+  {
+   "id": 5187,
+   "name": "EK_SUP_A_2026_28_en.pdf",
+   "title": "21. AIRAC SUP 2026: 28/26 Obstacles erected at or near EKCH København/Kastrup",
+   "parentId": 251
+  },
+  {
+   "id": 5193,
+   "name": "EK_SUP_2026_41_en_.pdf",
+   "title": "30: SUP 2026: 41/26 Temporary Restricted Areas and Temporary Danger Areas due to Insight 2026",
+   "parentId": 689
+  },
+  {
+   "id": 5195,
+   "name": "EK_SUP_2026_29_en.pdf",
+   "title": "22. SUP 2026: 29/26 Temporary Restricted Areas and Temporary Danger Areas due to Insight 2026",
+   "parentId": 251
+  },
+  {
+   "id": 5202,
+   "name": "AIP_DK_AIRAC_AMDT_03SEP2026_SUP_07SEP2026.pdf",
+   "title": "AIP Denmark",
+   "parentId": 1377
+  },
+  {
+   "id": 5203,
+   "name": "DK_SUP_Check_2026_09_07_en.pdf",
+   "title": "SUP Checklist",
+   "parentId": 689
+  },
+  {
+   "id": 5204,
+   "name": "VFG_DK_AIRAC_AMDT_03SEP2026_SUP_07SEP2026.pdf",
+   "title": "VFG Denmark",
+   "parentId": 1380
+  },
+  {
+   "id": 5205,
+   "name": "VFG_SUP_Check_2026_09_07_en.pdf",
+   "title": "SUP Checklist",
+   "parentId": 251
+  },
+  {
+   "id": 5206,
+   "name": "EK_AIC_Check_2026_09_16_en.pdf",
+   "title": "AIC B Checkliste",
+   "parentId": 1127
+  },
+  {
+   "id": 5207,
+   "name": "BG_AIP_Check_2026_09_21_en.pdf",
+   "title": "SUP Checklist",
+   "parentId": 1084
+  },
+  {
+   "id": 5208,
+   "name": "AIP_BG_AIRAC_AMDT_03SEP2026_SUP_21SEP2026_en.pdf",
+   "title": "AIP Greenland",
+   "parentId": 1384
+  }
+ ]
+}

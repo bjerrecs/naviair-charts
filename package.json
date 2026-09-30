@@ -1,0 +1,74 @@
+{
+  "name": "naviair-charts",
+  "version": "0.1.0",
+  "description": "Stable, AIRAC-proof links to NAVIAIR (aim.naviair.dk) AIP/VFG charts. Resolve a chart name to its current PDF URL.",
+  "keywords": [
+    "naviair",
+    "aip",
+    "airac",
+    "charts",
+    "aviation",
+    "denmark",
+    "greenland",
+    "faroe-islands",
+    "vfr",
+    "ifr",
+    "efb",
+    "pdf",
+    "aeronautical-information"
+  ],
+  "homepage": "https://github.com/bjerrecs/naviair-charts#readme",
+  "bugs": {
+    "url": "https://github.com/bjerrecs/naviair-charts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjerrecs/naviair-charts.git"
+  },
+  "license": "MIT",
+  "author": "Simon Bjerre",
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./server": {
+      "types": "./dist/server.d.ts",
+      "default": "./dist/server.js"
+    },
+    "./catalogue.json": "./dist/catalogue.json",
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "naviair-charts": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "!dist/**/*.map",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=20.10"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "crawl": "node scripts/crawl.ts",
+    "test": "node --test \"test/*.test.ts\"",
+    "test:live": "node --test test/live.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "prepublishOnly": "npm run build && npm test",
+    "site": "node site/server.ts",
+    "pack:check": "npm pack --dry-run"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}

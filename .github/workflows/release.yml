@@ -1,0 +1,42 @@
+name: Release
+
+# Publishes to npm when a GitHub release is published (tag like v0.1.0).
+# Uses npm trusted publishing (OIDC) — no NPM_TOKEN secret needed once the trusted publisher is configured on
+# npmjs.com (package settings → Trusted publishing → GitHub Actions, workflow file: release.yml).
+# Packages published this way get provenance attestations automatically.
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          registry-url: https://registry.npmjs.org
+      - run: npm install -g npm@latest # trusted publishing needs npm 11.5+
+      - run: npm ci
+      - name: Check tag matches package.json version
+        run: test "v$(node -p 'require(`./package.json`).version')" = "${GITHUB_REF_NAME}"
+      - name: Skip if this version is already on npm (e.g. the first, manual release)
+        run: |
+          if npm view "$(node -p 'require(`./package.json`).name')@${GITHUB_REF_NAME#v}" version >/dev/null 2>&1; then
+            echo "Already published — nothing to do."
+            echo "skip=true" >> "$GITHUB_ENV"
+          fi
+      - if: env.skip != 'true'
+        run: npm run build
+      - if: env.skip != 'true'
+        run: npm test
+      - if: env.skip != 'true'
+        run: npm run test:live
+      - if: env.skip != 'true'
+        run: npm publish
