@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T20:22:10.804Z",
+ "generatedAt": "2026-10-08T12:26:28.204Z",
  "folders": {
   "1": {
    "name": "VFR Flight Guide Danmark",
@@ -654,7 +654,7 @@
    "parentId": 3707
   },
   "3720": {
-   "name": "GEN 2 TABLES AND KODES",
+   "name": "GEN 2 TABLES AND CODES",
    "parentId": 3707
   },
   "3721": {
@@ -7210,12 +7210,6 @@
    "parentId": 4187
   },
   {
-   "id": 4252,
-   "name": "EK_Amdt_A_2025_05_en.pdf",
-   "title": "2025: AIP Færøerne AIRAC AMDT 05/25",
-   "parentId": 3706
-  },
-  {
    "id": 4256,
    "name": "BG_SUP_A_2025_02_en.pdf",
    "title": "07. AIRAC SUP 2025: 02/25 OBST Akia LGT U/S",
@@ -7490,24 +7484,6 @@
    "name": "EK_Amdt_A_2026_02_en.pdf",
    "title": "2026: AIP Færøerne AIRAC AMDT 02/26",
    "parentId": 3706
-  },
-  {
-   "id": 4828,
-   "name": "EK_Amdt_A_2026_04_en.pdf",
-   "title": "2026: AIP Denmark AIRAC AMDT 04/26",
-   "parentId": 639
-  },
-  {
-   "id": 4829,
-   "name": "EK_Amdt_A_2026_04_en.pdf",
-   "title": "2026: VFG Denmark AIRAC AMDT 04/26",
-   "parentId": 253
-  },
-  {
-   "id": 4830,
-   "name": "BG_Amdt_A_2026_03_en.pdf",
-   "title": "2026: AIP Greenland AIRAC AMDT 03/26",
-   "parentId": 1085
   },
   {
    "id": 4833,
@@ -7942,27 +7918,15 @@
    "parentId": 1084
   },
   {
-   "id": 5062,
-   "name": "BG_SUP_2026_09_en.pdf",
-   "title": "18. SUP 2026: 09/26 Temporary Restricted Area BGR529",
-   "parentId": 1084
-  },
-  {
    "id": 5070,
    "name": "BG_SUP_2026_10_en.pdf",
-   "title": "19. SUP 2026: 10/26 Temporary Restricted Area BGR530",
-   "parentId": 1084
-  },
-  {
-   "id": 5071,
-   "name": "BG_SUP_2026_11_en.pdf",
-   "title": "20. SUP 2026: 11/26 Temporary Restricted Area BGR531",
+   "title": "18. SUP 2026: 10/26 Temporary Restricted Area BGR530",
    "parentId": 1084
   },
   {
    "id": 5076,
    "name": "BG_SUP_A_2026_12_en.pdf",
-   "title": "21. SUP 2026: 12/26 Temporary Danger Area BGD532 MISSION 2",
+   "title": "19. SUP 2026: 12/26 Temporary Danger Area BGD532 MISSION 2",
    "parentId": 1084
   },
   {
@@ -8074,22 +8038,10 @@
    "parentId": 251
   },
   {
-   "id": 5202,
-   "name": "AIP_DK_AIRAC_AMDT_03SEP2026_SUP_07SEP2026.pdf",
-   "title": "AIP Denmark",
-   "parentId": 1377
-  },
-  {
    "id": 5203,
    "name": "DK_SUP_Check_2026_09_07_en.pdf",
    "title": "SUP Checklist",
    "parentId": 689
-  },
-  {
-   "id": 5204,
-   "name": "VFG_DK_AIRAC_AMDT_03SEP2026_SUP_07SEP2026.pdf",
-   "title": "VFG Denmark",
-   "parentId": 1380
   },
   {
    "id": 5205,
@@ -8104,16 +8056,52 @@
    "parentId": 1127
   },
   {
-   "id": 5207,
-   "name": "BG_AIP_Check_2026_09_21_en.pdf",
-   "title": "SUP Checklist",
-   "parentId": 1084
+   "id": 5209,
+   "name": "VFG_DK_AIRAC_AMDT_01OCT2026_SUP_07SEP2026.pdf",
+   "title": "VFG Denmark",
+   "parentId": 1380
   },
   {
-   "id": 5208,
-   "name": "AIP_BG_AIRAC_AMDT_03SEP2026_SUP_21SEP2026_en.pdf",
+   "id": 5210,
+   "name": "AIP_DK_AIRAC_AMDT_01OCT2026_SUP_07SEP2026.pdf",
+   "title": "AIP Denmark",
+   "parentId": 1377
+  },
+  {
+   "id": 5213,
+   "name": "EK_Amdt_A_2026_04_en.pdf",
+   "title": "2026: AIP Færøerne AIRAC AMDT 04/26",
+   "parentId": 3706
+  },
+  {
+   "id": 5214,
+   "name": "EK_Amdt_A_2026_12_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 12/26",
+   "parentId": 253
+  },
+  {
+   "id": 5215,
+   "name": "BG_Amdt_A_2026_11_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 11/26",
+   "parentId": 1085
+  },
+  {
+   "id": 5224,
+   "name": "EK_Amdt_A_2026_12_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 12/26",
+   "parentId": 639
+  },
+  {
+   "id": 5225,
+   "name": "AIP_BG_AIRAC_AMDT_01OCT2026_SUP_07OCT2026_en.pdf",
    "title": "AIP Greenland",
    "parentId": 1384
+  },
+  {
+   "id": 5226,
+   "name": "BG_AIP_Check_2026_10_07_en.pdf",
+   "title": "SUP Checklist",
+   "parentId": 1084
   }
  ]
 }
