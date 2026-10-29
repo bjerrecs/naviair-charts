@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T20:22:10.804Z",
+ "generatedAt": "2026-10-29T11:56:20.191Z",
  "folders": {
   "1": {
    "name": "VFR Flight Guide Danmark",
@@ -654,7 +654,7 @@
    "parentId": 3707
   },
   "3720": {
-   "name": "GEN 2 TABLES AND KODES",
+   "name": "GEN 2 TABLES AND CODES",
    "parentId": 3707
   },
   "3721": {
@@ -3456,19 +3456,13 @@
   {
    "id": 1011,
    "name": "BG_AD_2_BGJN_VAC_en.pdf",
-   "title": "11. BGJN VAC",
+   "title": "20. BGJN VAC",
    "parentId": 1007
   },
   {
    "id": 1012,
    "name": "BG_AD_2_BGJN_LDC_en.pdf",
-   "title": "12. BGJN LDC",
-   "parentId": 1007
-  },
-  {
-   "id": 1014,
-   "name": "BG_AD_2_BGJN_ADC_en.pdf",
-   "title": "02. BGJN ADC",
+   "title": "21. BGJN LDC",
    "parentId": 1007
   },
   {
@@ -4992,49 +4986,25 @@
   {
    "id": 2499,
    "name": "BG_AD_2_BGJN_AOC_A_06_en.pdf",
-   "title": "03. BGJN AOC - A 06",
+   "title": "04. BGJN AOC - A 06",
    "parentId": 1007
   },
   {
    "id": 2500,
    "name": "BG_AD_2_BGJN_AOC_A_24_en.pdf",
-   "title": "04. BGJN AOC - A 24",
-   "parentId": 1007
-  },
-  {
-   "id": 2501,
-   "name": "BG_AD_2_BGJN_NDB_Z_RWY_06_en.pdf",
-   "title": "05. BGJN NDB Z RWY 06",
-   "parentId": 1007
-  },
-  {
-   "id": 2502,
-   "name": "BG_AD_2_BGJN_NDB_Y_RWY_06_en.pdf",
-   "title": "06. BGJN NDB Y RWY 06",
-   "parentId": 1007
-  },
-  {
-   "id": 2503,
-   "name": "BG_AD_2_BGJN_NDB_X_RWY_06_en.pdf",
-   "title": "07. BGJN NDB X RWY 06",
-   "parentId": 1007
-  },
-  {
-   "id": 2504,
-   "name": "BG_AD_2_BGJN_NDB_RWY_24_en.pdf",
-   "title": "08. BGJN NDB RWY 24",
+   "title": "05. BGJN AOC - A 24",
    "parentId": 1007
   },
   {
    "id": 2505,
    "name": "BG_AD_2_BGJN_RNP_A_1_en.pdf",
-   "title": "09. BGJN RNP A - 1",
+   "title": "29. BGJN RNP A - 1",
    "parentId": 1007
   },
   {
    "id": 2506,
    "name": "BG_AD_2_BGJN_RNP_A_2_en.pdf",
-   "title": "10. BGJN RNP A - 2",
+   "title": "30. BGJN RNP A - 2",
    "parentId": 1007
   },
   {
@@ -7210,12 +7180,6 @@
    "parentId": 4187
   },
   {
-   "id": 4252,
-   "name": "EK_Amdt_A_2025_05_en.pdf",
-   "title": "2025: AIP Færøerne AIRAC AMDT 05/25",
-   "parentId": 3706
-  },
-  {
    "id": 4256,
    "name": "BG_SUP_A_2025_02_en.pdf",
    "title": "07. AIRAC SUP 2025: 02/25 OBST Akia LGT U/S",
@@ -7480,34 +7444,10 @@
    "parentId": 878
   },
   {
-   "id": 4825,
-   "name": "DK_DQR non-compliant list_19FEB2026.pdf",
-   "title": "Non compliant list DK",
-   "parentId": 4241
-  },
-  {
    "id": 4827,
    "name": "EK_Amdt_A_2026_02_en.pdf",
    "title": "2026: AIP Færøerne AIRAC AMDT 02/26",
    "parentId": 3706
-  },
-  {
-   "id": 4828,
-   "name": "EK_Amdt_A_2026_04_en.pdf",
-   "title": "2026: AIP Denmark AIRAC AMDT 04/26",
-   "parentId": 639
-  },
-  {
-   "id": 4829,
-   "name": "EK_Amdt_A_2026_04_en.pdf",
-   "title": "2026: VFG Denmark AIRAC AMDT 04/26",
-   "parentId": 253
-  },
-  {
-   "id": 4830,
-   "name": "BG_Amdt_A_2026_03_en.pdf",
-   "title": "2026: AIP Greenland AIRAC AMDT 03/26",
-   "parentId": 1085
   },
   {
    "id": 4833,
@@ -7630,21 +7570,9 @@
    "parentId": 689
   },
   {
-   "id": 4856,
-   "name": "EK_SUP_A_2026_09_en.pdf",
-   "title": "16. AIRAC SUP 2026: 09/26 Corrected PSN of obstacle \"Svanemølleværket\"",
-   "parentId": 689
-  },
-  {
    "id": 4860,
    "name": "EK_SUP_2026_02_en.pdf",
    "title": "11. SUP 2026: 02/26 Crane vessel operating in Esbjerg Harbour and transporting wind turbine components via two designated corridors in the North Sea",
-   "parentId": 251
-  },
-  {
-   "id": 4862,
-   "name": "EK_SUP_A_2026_04_en.pdf",
-   "title": "12. AIRAC SUP 2026: 04/26 Corrected PSN of obstacle \"Svanemølleværket\"",
    "parentId": 251
   },
   {
@@ -7734,37 +7662,37 @@
   {
    "id": 4966,
    "name": "EK_SUP_2026_21_en.pdf",
-   "title": "17: SUP 2026: 21/26 Crane operating near Esbjerg Chimney",
+   "title": "16: SUP 2026: 21/26 Crane operating near Esbjerg Chimney",
    "parentId": 689
   },
   {
    "id": 4967,
    "name": "EK_SUP_A_2026_22_en.pdf",
-   "title": "18: AIRAC SUP 2026: 22/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
+   "title": "17: AIRAC SUP 2026: 22/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
    "parentId": 689
   },
   {
    "id": 4968,
    "name": "EK_SUP_A_2026_23_en.pdf",
-   "title": "19: AIRAC SUP 2026: 23/26 Differentiated instrument approach procedures to EKRN Bornholm/Rønne aerodrome",
+   "title": "18: AIRAC SUP 2026: 23/26 Differentiated instrument approach procedures to EKRN Bornholm/Rønne aerodrome",
    "parentId": 689
   },
   {
    "id": 4971,
    "name": "EK_SUP_2026_13_en.pdf",
-   "title": "13. SUP 2026: 13/26 Crane operating near Esbjerg Chimney",
+   "title": "12. SUP 2026: 13/26 Crane operating near Esbjerg Chimney",
    "parentId": 251
   },
   {
    "id": 4972,
    "name": "EK_SUP_A_2026_14_en.pdf",
-   "title": "14. AIRAC SUP 2026: 14/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
+   "title": "13. AIRAC SUP 2026: 14/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
    "parentId": 251
   },
   {
    "id": 4978,
    "name": "EK_SUP_A_2026_24_en.pdf",
-   "title": "20: AIRAC SUP 2026: 24/26 EKKA Karup / Midtjyllands Lufthavn - Instrument Approach Procedures affected by tower crane",
+   "title": "19: AIRAC SUP 2026: 24/26 EKKA Karup / Midtjyllands Lufthavn - Instrument Approach Procedures affected by tower crane",
    "parentId": 689
   },
   {
@@ -7828,51 +7756,39 @@
    "parentId": 5019
   },
   {
-   "id": 5039,
-   "name": "EK_SUP_A_2026_29_en.pdf",
-   "title": "21: SUP 2026: 29/26 Obstacles erected at or near EKCH København/Kastrup",
-   "parentId": 689
-  },
-  {
    "id": 5040,
    "name": "EK_SUP_A_2026_30_en.pdf",
-   "title": "22: SUP 2026: 30/26 Instrument Approach Procedures at EKKA effected by WIP",
+   "title": "20: SUP 2026: 30/26 Instrument Approach Procedures at EKKA effected by WIP",
    "parentId": 689
   },
   {
    "id": 5041,
    "name": "EK_SUP_2026_31_en.pdf",
-   "title": "23: SUP 2026: 31/26 Temporary Restricted Areas EKR737 Fuglebjerg, EKR738 Silkeborg, EKR739 Brønderslev, EKR740 Ørbæk, EKR741 Aabenraa, EKR742 Sæby, EKR743 Struer",
+   "title": "21: SUP 2026: 31/26 Temporary Restricted Areas EKR737 Fuglebjerg, EKR738 Silkeborg, EKR739 Brønderslev, EKR740 Ørbæk, EKR741 Aabenraa, EKR742 Sæby, EKR743 Struer",
    "parentId": 689
-  },
-  {
-   "id": 5042,
-   "name": "EK_SUP_A_2026_19_en.pdf",
-   "title": "15. SUP 2026: 19/26 Obstacles erected at or near EKCH København/Kastrup",
-   "parentId": 251
   },
   {
    "id": 5043,
    "name": "EK_SUP_A_2026_20_en.pdf",
-   "title": "16. SUP 2026: 20/26 Parts of RWYs at EKKA closed due to WIP",
+   "title": "14. SUP 2026: 20/26 Parts of RWYs at EKKA closed due to WIP",
    "parentId": 251
   },
   {
    "id": 5044,
    "name": "EK_SUP_2026_21_en.pdf",
-   "title": "17. SUP 2026: 21/26 Temporary Restricted Areas EKR737 Fuglebjerg, EKR738 Silkeborg, EKR739 Brønderslev, EKR740 Ørbæk, EKR741 Aabenraa, EKR742 Sæby, EKR743 Struer",
+   "title": "15. SUP 2026: 21/26 Temporary Restricted Areas EKR737 Fuglebjerg, EKR738 Silkeborg, EKR739 Brønderslev, EKR740 Ørbæk, EKR741 Aabenraa, EKR742 Sæby, EKR743 Struer",
    "parentId": 251
   },
   {
    "id": 5048,
    "name": "EK_SUP_2026_32_en.pdf",
-   "title": "24: SUP 2026: 32/26 EKVJ downgraded to VFR only",
+   "title": "22: SUP 2026: 32/26 EKVJ downgraded to VFR only",
    "parentId": 689
   },
   {
    "id": 5049,
    "name": "EK_SUP_2026_22_en.pdf",
-   "title": "18. SUP 2026: 22/26 EKVJ downgraded to VFR only",
+   "title": "16. SUP 2026: 22/26 EKVJ downgraded to VFR only",
    "parentId": 251
   },
   {
@@ -7942,34 +7858,16 @@
    "parentId": 1084
   },
   {
-   "id": 5062,
-   "name": "BG_SUP_2026_09_en.pdf",
-   "title": "18. SUP 2026: 09/26 Temporary Restricted Area BGR529",
-   "parentId": 1084
-  },
-  {
    "id": 5070,
    "name": "BG_SUP_2026_10_en.pdf",
-   "title": "19. SUP 2026: 10/26 Temporary Restricted Area BGR530",
-   "parentId": 1084
-  },
-  {
-   "id": 5071,
-   "name": "BG_SUP_2026_11_en.pdf",
-   "title": "20. SUP 2026: 11/26 Temporary Restricted Area BGR531",
+   "title": "18. SUP 2026: 10/26 Temporary Restricted Area BGR530",
    "parentId": 1084
   },
   {
    "id": 5076,
    "name": "BG_SUP_A_2026_12_en.pdf",
-   "title": "21. SUP 2026: 12/26 Temporary Danger Area BGD532 MISSION 2",
+   "title": "19. SUP 2026: 12/26 Temporary Danger Area BGD532 MISSION 2",
    "parentId": 1084
-  },
-  {
-   "id": 5089,
-   "name": "VFG_DK_AIRAC_AMDT_06AUG2026_SUP_06AUG2026 - TEST.pdf",
-   "title": "The file below, can be opened in Chrome, but fails in Edge. We are working on the problem",
-   "parentId": 1380
   },
   {
    "id": 5093,
@@ -7992,25 +7890,25 @@
   {
    "id": 5098,
    "name": "EK_SUP_2026_35_en.pdf",
-   "title": "25: SUP 2026: 35/26 Temporary Danger Areas EKD753 SIRI and EKD754 SYD ARNE",
+   "title": "23: SUP 2026: 35/26 Temporary Danger Areas EKD753 SIRI and EKD754 SYD ARNE",
    "parentId": 689
   },
   {
    "id": 5104,
    "name": "EK_SUP_2026_25_en.pdf",
-   "title": "19. SUP 2026: 25/26 Temporary Danger Areas EKD753 SIRI and EKD754 SYD ARNE",
+   "title": "17. SUP 2026: 25/26 Temporary Danger Areas EKD753 SIRI and EKD754 SYD ARNE",
    "parentId": 251
   },
   {
    "id": 5124,
    "name": "EK_SUP_A_2026_37_en.pdf",
-   "title": "26: AIRAC SUP 2026: 37/26 København/Kastrup (EKCH) WORKS AT NORTHEASTHERN PART OF APRON NORTH",
+   "title": "24: AIRAC SUP 2026: 37/26 København/Kastrup (EKCH) WORKS AT NORTHEASTHERN PART OF APRON NORTH",
    "parentId": 689
   },
   {
    "id": 5125,
    "name": "EK_SUP_A_2026_38_en.pdf",
-   "title": "27: AIRAC SUP 2026: 38/26 Correction to APCH LGT length for RWY 04R at EKCH (København/Kastrup)",
+   "title": "25: AIRAC SUP 2026: 38/26 Correction to APCH LGT length for RWY 04R at EKCH (København/Kastrup)",
    "parentId": 689
   },
   {
@@ -8022,14 +7920,152 @@
   {
    "id": 5146,
    "name": "EK_SUP_2026_39_en.pdf",
-   "title": "28: SUP 2026: 39/26 Temporary Restricted Areas EKR747, EKR748, EKR749, EKR750, EKR751.",
+   "title": "26: SUP 2026: 39/26 Temporary Restricted Areas EKR747, EKR748, EKR749, EKR750, EKR751.",
    "parentId": 689
   },
   {
    "id": 5150,
    "name": "EK_SUP_2026_27_en.pdf",
-   "title": "20. SUP 2026: 27/26 Temporary Restricted Areas EKR747, EKR748, EKR749, EKR750, EKR751.",
+   "title": "18. SUP 2026: 27/26 Temporary Restricted Areas EKR747, EKR748, EKR749, EKR750, EKR751.",
    "parentId": 251
+  },
+  {
+   "id": 5159,
+   "name": "BG_AD_2_BGJN_ADC_RWY_06_24_CONFIGURATION_en.pdf",
+   "title": "02. BGJN ADC RWY 06/24",
+   "parentId": 1007
+  },
+  {
+   "id": 5160,
+   "name": "BG_AD_2_BGJN_APDC_RWY_06_24_CONFIGURATION_en.pdf",
+   "title": "03. BGJN APDC RWY 06/24",
+   "parentId": 1007
+  },
+  {
+   "id": 5161,
+   "name": "BG_AD_2_BGJN_RNP_SID_RWY_06_1_en.pdf",
+   "title": "06. BGJN RNP SID RWY 06 - 1",
+   "parentId": 1007
+  },
+  {
+   "id": 5162,
+   "name": "BG_AD_2_BGJN_RNP_SID_RWY_06_2_en.pdf",
+   "title": "07. BGJN RNP SID RWY 06 - 2",
+   "parentId": 1007
+  },
+  {
+   "id": 5163,
+   "name": "BG_AD_2_BGJN_RNP_SID_RWY_06_3_en.pdf",
+   "title": "08. BGJN RNP SID RWY 06 - 3",
+   "parentId": 1007
+  },
+  {
+   "id": 5164,
+   "name": "BG_AD_2_BGJN_RNP_SID_RWY_24_1_en.pdf",
+   "title": "09. BGJN RNP SID RWY 24 - 1",
+   "parentId": 1007
+  },
+  {
+   "id": 5165,
+   "name": "BG_AD_2_BGJN_RNP_SID_RWY_24_2_en.pdf",
+   "title": "10. BGJN RNP SID RWY 24 - 2",
+   "parentId": 1007
+  },
+  {
+   "id": 5166,
+   "name": "BG_AD_2_BGJN_RNP_SID_RWY_24_3_en.pdf",
+   "title": "11. BGJN RNP SID RWY 24 - 3",
+   "parentId": 1007
+  },
+  {
+   "id": 5167,
+   "name": "BG_AD_2_BGJN_RNP_Z_RWY_06_1_en.pdf",
+   "title": "12. BGJN RNP Z RWY 06 - 1",
+   "parentId": 1007
+  },
+  {
+   "id": 5168,
+   "name": "BG_AD_2_BGJN_RNP_Z_RWY_06_2_en.pdf",
+   "title": "13. BGJN RNP Z RWY 06 - 2",
+   "parentId": 1007
+  },
+  {
+   "id": 5169,
+   "name": "BG_AD_2_BGJN_RNP_Y_RWY_06_1_en.pdf",
+   "title": "14. BGJN RNP Y RWY 06 - 1",
+   "parentId": 1007
+  },
+  {
+   "id": 5170,
+   "name": "BG_AD_2_BGJN_RNP_Y_RWY_06_2_en.pdf",
+   "title": "15. BGJN RNP Y RWY 06 - 2",
+   "parentId": 1007
+  },
+  {
+   "id": 5171,
+   "name": "BG_AD_2_BGJN_RNP_Z_RWY_24_1_en.pdf",
+   "title": "16. BGJN RNP Z RWY 24 - 1",
+   "parentId": 1007
+  },
+  {
+   "id": 5172,
+   "name": "BG_AD_2_BGJN_RNP_Z_RWY_24_2_en.pdf",
+   "title": "17. BGJN RNP Z RWY 24 - 2",
+   "parentId": 1007
+  },
+  {
+   "id": 5173,
+   "name": "BG_AD_2_BGJN_RNP_Y_RWY_24_1_en.pdf",
+   "title": "18. BGJN RNP Y RWY 24 - 1",
+   "parentId": 1007
+  },
+  {
+   "id": 5174,
+   "name": "BG_AD_2_BGJN_RNP_Y_RWY_24_2_en.pdf",
+   "title": "19. BGJN RNP Y RWY 24 - 2",
+   "parentId": 1007
+  },
+  {
+   "id": 5175,
+   "name": "BG_AD_2_BGJN_ADC_RWY_07_25_Configuration.pdf",
+   "title": "22. BGJN ADC RWY 07/25",
+   "parentId": 1007
+  },
+  {
+   "id": 5176,
+   "name": "BG_AD_2_BGJN_AOC_A_07_en.pdf",
+   "title": "23. BGJN AOC - A 07",
+   "parentId": 1007
+  },
+  {
+   "id": 5177,
+   "name": "BG_AD_2_BGJN_AOC_A_25_en.pdf",
+   "title": "24. BGJN AOC - A 25",
+   "parentId": 1007
+  },
+  {
+   "id": 5178,
+   "name": "BG_AD_2_BGJN_NDB_Z_RWY_07_en.pdf",
+   "title": "25. BGJN NDB Z RWY 07",
+   "parentId": 1007
+  },
+  {
+   "id": 5179,
+   "name": "BG_AD_2_BGJN_NDB_Y_RWY_07_en.pdf",
+   "title": "26. BGJN NDB Y RWY 07",
+   "parentId": 1007
+  },
+  {
+   "id": 5180,
+   "name": "BG_AD_2_BGJN_NDB_X_RWY_07_en.pdf",
+   "title": "27. BGJN NDB X RWY 07",
+   "parentId": 1007
+  },
+  {
+   "id": 5181,
+   "name": "BG_AD_2_BGJN_NDB_RWY_25_en.pdf",
+   "title": "28. BGJN NDB RWY 25",
+   "parentId": 1007
   },
   {
    "id": 5182,
@@ -8052,68 +8088,146 @@
   {
    "id": 5185,
    "name": "EK_SUP_A_2026_40_en.pdf",
-   "title": "29: AIRAC SUP 2026: 40/26 Obstacles erected at or near EKCH København/Kastrup",
+   "title": "27: AIRAC SUP 2026: 40/26 Obstacles erected at or near EKCH København/Kastrup",
    "parentId": 689
   },
   {
    "id": 5187,
    "name": "EK_SUP_A_2026_28_en.pdf",
-   "title": "21. AIRAC SUP 2026: 28/26 Obstacles erected at or near EKCH København/Kastrup",
+   "title": "19. AIRAC SUP 2026: 28/26 Obstacles erected at or near EKCH København/Kastrup",
    "parentId": 251
   },
   {
    "id": 5193,
    "name": "EK_SUP_2026_41_en_.pdf",
-   "title": "30: SUP 2026: 41/26 Temporary Restricted Areas and Temporary Danger Areas due to Insight 2026",
+   "title": "28: SUP 2026: 41/26 Temporary Restricted Areas and Temporary Danger Areas due to Insight 2026",
    "parentId": 689
   },
   {
    "id": 5195,
    "name": "EK_SUP_2026_29_en.pdf",
-   "title": "22. SUP 2026: 29/26 Temporary Restricted Areas and Temporary Danger Areas due to Insight 2026",
+   "title": "20. SUP 2026: 29/26 Temporary Restricted Areas and Temporary Danger Areas due to Insight 2026",
    "parentId": 251
   },
   {
-   "id": 5202,
-   "name": "AIP_DK_AIRAC_AMDT_03SEP2026_SUP_07SEP2026.pdf",
-   "title": "AIP Denmark",
-   "parentId": 1377
+   "id": 5213,
+   "name": "EK_Amdt_A_2026_04_en.pdf",
+   "title": "2026: AIP Færøerne AIRAC AMDT 04/26",
+   "parentId": 3706
   },
   {
-   "id": 5203,
-   "name": "DK_SUP_Check_2026_09_07_en.pdf",
-   "title": "SUP Checklist",
-   "parentId": 689
+   "id": 5214,
+   "name": "EK_Amdt_A_2026_12_en.pdf",
+   "title": "2026: VFG Denmark AIRAC AMDT 12/26",
+   "parentId": 253
   },
   {
-   "id": 5204,
-   "name": "VFG_DK_AIRAC_AMDT_03SEP2026_SUP_07SEP2026.pdf",
-   "title": "VFG Denmark",
-   "parentId": 1380
+   "id": 5215,
+   "name": "BG_Amdt_A_2026_11_en.pdf",
+   "title": "2026: AIP Greenland AIRAC AMDT 11/26",
+   "parentId": 1085
   },
   {
-   "id": 5205,
-   "name": "VFG_SUP_Check_2026_09_07_en.pdf",
-   "title": "SUP Checklist",
-   "parentId": 251
+   "id": 5224,
+   "name": "EK_Amdt_A_2026_12_en.pdf",
+   "title": "2026: AIP Denmark AIRAC AMDT 12/26",
+   "parentId": 639
   },
   {
-   "id": 5206,
-   "name": "EK_AIC_Check_2026_09_16_en.pdf",
+   "id": 5227,
+   "name": "EK_AIC_2026_B_02_en.pdf",
+   "title": "AIC B 02/2026: Teoriprøver 2027 - Privatflyvercertifikat PPL (A) (H)",
+   "parentId": 5019
+  },
+  {
+   "id": 5228,
+   "name": "EK_AIC_Check_2026_10_12_en.pdf",
    "title": "AIC B Checkliste",
    "parentId": 1127
   },
   {
-   "id": 5207,
-   "name": "BG_AIP_Check_2026_09_21_en.pdf",
+   "id": 5229,
+   "name": "BG_SUP_A_2026_14_en.pdf",
+   "title": "20. AIRAC SUP 2026: 14/26 BGGH aircraft stand 6 closed",
+   "parentId": 1084
+  },
+  {
+   "id": 5230,
+   "name": "BG_SUP_A_2026_15_en.pdf",
+   "title": "21. AIRAC SUP 2026: 15/26 Temporary Danger Area BGD534 MISSION 3",
+   "parentId": 1084
+  },
+  {
+   "id": 5234,
+   "name": "EK_SUP_A_2026_42_en.pdf",
+   "title": "29: AIRAC SUP 2026: 42/26 EKRK - L RK København/Roskilde 368 KHZ U/S. Revised instrument approach procedures",
+   "parentId": 689
+  },
+  {
+   "id": 5235,
+   "name": "EK_SUP_A_2026_43_en.pdf",
+   "title": "30: AIRAC SUP 2026: 43/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
+   "parentId": 689
+  },
+  {
+   "id": 5238,
+   "name": "EK_SUP_A_2026_30_en.pdf",
+   "title": "21. AIRAC SUP 2026: 30/26 Cranes operating in Rønne Harbour (near EKRN Bornholm/Rønne aerodrome)",
+   "parentId": 251
+  },
+  {
+   "id": 5243,
+   "name": "VFG_DK_AIRAC_AMDT_29OCT2026_SUP_29OCT2026.pdf",
+   "title": "VFG Denmark",
+   "parentId": 1380
+  },
+  {
+   "id": 5244,
+   "name": "EK_SUP_A_2026_44_en.pdf",
+   "title": "31: AIRAC SUP 2026: 44/26 Crane operating near EKKA",
+   "parentId": 689
+  },
+  {
+   "id": 5247,
+   "name": "AIP_DK_AIRAC_AMDT_29OCT2026_SUP_20OCT2026.pdf",
+   "title": "AIP Denmark",
+   "parentId": 1377
+  },
+  {
+   "id": 5248,
+   "name": "DK_SUP_Check_2026_10_29_en.pdf",
+   "title": "SUP Checklist",
+   "parentId": 689
+  },
+  {
+   "id": 5249,
+   "name": "VFG_SUP_Check_2026_10_29_en.pdf",
+   "title": "SUP Checklist",
+   "parentId": 251
+  },
+  {
+   "id": 5250,
+   "name": "BG_SUP_2026_16_en.pdf",
+   "title": "22. SUP 2026: 16/26 Changes to AD 2 - BGJN",
+   "parentId": 1084
+  },
+  {
+   "id": 5251,
+   "name": "BG_AIP_Check_2026_10_28_en.pdf",
    "title": "SUP Checklist",
    "parentId": 1084
   },
   {
-   "id": 5208,
-   "name": "AIP_BG_AIRAC_AMDT_03SEP2026_SUP_21SEP2026_en.pdf",
+   "id": 5252,
+   "name": "AIP_BG_AIRAC_AMDT_29OCT2026_SUP_28OCT2026_en.pdf",
    "title": "AIP Greenland",
    "parentId": 1384
+  },
+  {
+   "id": 5254,
+   "name": "Non-compliant list DK_29OKT2026.pdf",
+   "title": "Non compliant list DK",
+   "parentId": 4241
   }
  ]
 }
